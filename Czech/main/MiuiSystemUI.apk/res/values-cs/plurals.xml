@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Nedávné aplikace: %d</item>
+        <item quantity="one">1 nedávná aplikace</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Skrýt upozornění %d apl.?</item>
+        <item quantity="one">Skrýt upozornění této aplikace?</item>
+    </plurals> 
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Jasno</item>
+        <item quantity="one">Slunečno</item>
+    </plurals>  
+    <plurals name="accessibility_recent_task_enter">
+         <item quantity="other">Otevřené nedávné aplikace, dostupných je: %d.</item>
+         <item quantity="one">Otevřené nedávné aplikace, dostupných je: 1.</item>
+     </plurals>
+     <plurals name="accessibility_recent_task_first_enter_tips">
+         <item quantity="other">Otevřené nedávné aplikace, dostupných je: %d. Potáhněte nahoru pro odstranění nebo dolů pro uzamčení v RAM.</item>
+         <item quantity="one">Otevřené nedávné aplikace, dostupných je: 1. Potáhněte nahoru pro odstranění nebo dolů pro uzamčení v RAM.</item>
+     </plurals>
+     <plurals name="settings_toggle_position_divider_page">
+         <item quantity="other">%1$d přepínačů nad čarou je aktivních</item>
+         <item quantity="one">1 přepínač nad čarou je aktivní</item>
+     </plurals>
+     <plurals name="block_record_notification_more_text">
+         <item quantity="other">Skrytá upozornění od %1$s &amp; %2$d apl.</item>
+         <item quantity="one">Skrytá upozornění od %1$s &amp; 1 apl.</item>
+     </plurals>  
+     <plurals name="fold_tips_title">
+         <item quantity="other">Skrytá upozornění: %d</item>
+         <item quantity="one">Skrytá upozornění: %d</item>
+     </plurals> 
+     <plurals name="notification_group_child_count">
+        <item quantity="other">Upozornění: %1$d</item>
+         <item quantity="one">Upozornění: %1$d</item>
+     </plurals>
+     <plurals name="notification_group_overflow_description">
+         <item quantity="other">%s dalších upozornění.</item>
+         <item quantity="one">%s další upozornění.</item>
+     </plurals>	
+</resources>

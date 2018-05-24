@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>5 min.</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+        <item>1 hod.</item>
+        <item>Bez limitu</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Chlapec</item>
+        <item>Dívka</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otec</item>
+        <item>Matka</item>
+        <item>Dědeček z otcovy strany</item>
+        <item>Babička z otcovy strany</item>
+        <item>Dědeček z matčiny strany</item>
+        <item>Babička z matčiny strany</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>já</item>
+        <item>dítě</item>
+        <item>rodina</item>
+        <item>kolega</item>
+        <item>spolužák</item>
+        <item>kamarád</item>
+        <item>neznámý</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+         <item>Otec</item>
+         <item>Matka</item>
+         <item>Děda z otcové strany</item>
+         <item>Babička z otcové strany</item>
+         <item>Děda z matčiné strany</item>
+         <item>Babička z matčiné strany</item>
+     </string-array>
+     <string-array name="collage_month">
+         <item>Led</item>
+         <item>Úno</item>
+        <item>Bře</item>
+         <item>Dub</item>
+         <item>Kvě</item>
+         <item>Čer</item>
+         <item>Črv</item>
+         <item>Srp</item>
+         <item>Zář</item>
+         <item>Říj</item>
+         <item>Lis</item>
+         <item>Pro</item>
+     </string-array>	
+</resources>

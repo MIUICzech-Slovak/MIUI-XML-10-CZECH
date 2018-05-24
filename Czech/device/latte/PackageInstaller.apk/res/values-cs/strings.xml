@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
+  <string name="all">Všechna oprávnění</string>
+  <string name="app_name">Nástroj k instalaci balíčků</string>
+  <string name="app_not_found_dlg_text">Aplikace nebyla nalezena na seznamu nainstalovaných aplikací.</string>
+  <string name="button_cancel">Zrušit</string>
+  <string name="button_continue">Další</string>
+  <string name="button_continue_install">Instalovat</string>
+  <string name="button_install_lastest">Stáhnout a nainstalovat poslední verzi</string>
+  <string name="button_install_official">Stáhnout a nainstalovat oficiální verzi</string>
+  <string name="button_next">Další</string>
+  <string name="button_remove">Vymazat</string>
+  <string name="cancel">Zrušit</string>
+  <string name="dlg_app_replacement_statement">"Aplikace, kterou instalujete, nahradí jinou aplikaci.
+Všechna dříve zadaná data uživatelů budou uložena."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) nahradí současnou verzi (%3$s). Vaše data budou zachována. 
+Chcete pokračovat?"</string>
+  <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikace. Opravdu ji chcete nahradit?
+Všechna předchozí data uživatele budou uložena."</string>
+  <string name="done">Hotovo</string>
+  <string name="install">Instalovat</string>
+  <string name="install_confirm_question">"Chcete nainstalovat tuto aplikaci? \nZíská přístup k těmto povolením:"</string>
+  <string name="install_done">Aplikace byla nainstalována</string>
+  <string name="install_failed">Aplikace není nainstalována</string>
+  <string name="install_failed_cpu_abi_incompatible">Tato aplikace není kompatibilní s procesorem tohoto telefonu.</string>
+  <string name="install_failed_inconsistent_certificates">Již je nainstalován balíček se stejným názvem a konfliktním podpisem.</string>
+  <string name="install_failed_invalid_apk">Zdá se, že je balíček poškozen.</string>
+  <string name="install_failed_msg">Aplikaci %1$s nelze nainstalovat do tohoto telefonu.</string>
+  <string name="install_failed_older_sdk">Balíček funguje pouze v novějších verzích systému Android.</string>
+  <string name="installer_name">Zdroj: %1$s</string>
+  <string name="installing">Probíhá instalace...</string>
+  <string name="launch">Otevřít</string>
+  <string name="main_title">Instalace aplikace</string>
+  <string name="manage_applications">Správa aplikací</string>
+  <string name="manage_device_administrators">Spravovat správce zařízení</string>
+  <string name="ok">OK</string>
+  <string name="other_relative">Ostatní práva</string>
+  <string name="out_of_space_dlg_text">Aplikaci %1$s nelze nainstalovat. Uvolněte místo v paměti a zkuste to znovu.</string>
+  <string name="perm_action_accept">Přijmout</string>
+  <string name="perm_action_prompt">Zeptat se</string>
+  <string name="perm_action_reject">Odmítnout</string>
+  <string name="permission_warn_hint">Aplikace získá tato oprávnění:</string>
+  <string name="permission_warn_title">Instalace aplikací z neznámého zdroje je nebezpečná.</string>
+  <string name="privacy_relative">Práva k soukromým údajům</string>
+  <string name="progress_verifying">Kontrola bezpečnosti...</string>
+  <string name="safe_relative">Možné riziko</string>
+  <string name="settings">Nastavení</string>
+  <string name="uninstall_activity_text">Činnost %1$s je součástí následující aplikace:</string>
+  <string name="uninstall_application_text">Tato aplikace bude odinstalována.</string>
+  <string name="uninstall_application_title">Odinstalovat aplikaci</string>
+  <string name="uninstall_confirm_question">Chcete odinstalovat tuto aplikaci?</string>
+  <string name="uninstall_done">Odinstalace byla dokončena.</string>
+  <string name="uninstall_failed">Odinstalace nebyla úspěšná.</string>
+  <string name="uninstall_failed_device_policy_manager">Nelze odinstalovat: tento balíček je aktivním správcem zařízení.</string>
+  <string name="uninstall_failed_retained_app_msg">Systémovou aplikaci není možné odinstalovat</string>
+  <string name="uninstall_update_text">Chcete tuto aplikaci nahradit tovární verzí?</string>
+  <string name="uninstall_update_title">Odinstalovat aktualizaci</string>
+  <string name="uninstalling">Probíhá odinstalace...</string>
+  <string name="unknown">Neznámé</string>
+  <string name="unknown_apps_dlg_text">Váš telefon je z důvodu zabezpečení nastaven tak, aby blokoval instalaci aplikací, které nepocházejí ze služby Google Play.</string>
+  <string name="update_log_default">Žádné aktualizace</string>
+  <string name="update_time">%1$s v %2$s %3$s verze %4$s</string>
+  <string name="update_title">%1$s má novou verzi</string>
+  <string name="virus_scan_clear">Vyčistit</string>
+  <string name="virus_scan_install">" "Pokračovat" "</string>
+  <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
+  <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
+  <string name="warn_message">Aplikace může vážně ohrozit bezpečnost vašich dat a soukromých informací</string>
+  <string name="warn_title">Aplikace není ověřená</string>
+</resources>

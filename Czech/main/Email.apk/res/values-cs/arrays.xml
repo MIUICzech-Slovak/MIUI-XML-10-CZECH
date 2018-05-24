@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpovědět</item>
+        <item>Odp. všem</item>
+        <item>Poslat dál</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Úspěšné</item>
+        <item>Žádné připojení.</item>
+        <item>Nepodařilo se přihlásit.</item>
+        <item>Chyba zabezpečení.</item>
+        <item>Nepodařilo se synchronizovat.</item>
+        <item>Interní chyba.</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Systém</item>
+        <item>Často používané</item>
+        <item>Všechny složky</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novější</item>
+        <item>Starší</item>
+        <item>Doručené zprávy</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Po vymazání zobrazit novější konverzaci</item>
+        <item>Po vymazání zobrazit starší konverzaci</item>
+        <item>Po vymazání zobrazit doručené zprávy</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Zobrazit pouze archivované</item>
+        <item>Zobrazit pouze odstraněné</item>
+        <item>Zobrazit archivované i odstraněné</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Zobrazit pouze archivované</item>
+        <item>Zobrazit pouze odstraněné</item>
+        <item>Zobrazit archivované i odstraněné</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Poslední</item>
+        <item>Formát</item>
+        <item>Název</item>
+        <item>Odesílatel</item>
+        <item>Datum</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Drobný text</item>
+        <item>Malý text</item>
+        <item>Text běžné velikosti</item>
+        <item>Velký text</item>
+        <item>Obrovský text</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Dnes večer</item>
+        <item>Zítra</item>
+        <item>Víkend</item>
+        <item>Příští týden</item>
+        <item>Příští měsíc</item>
+        <item>Vybrat datum</item>
+    </string-array>
+</resources>

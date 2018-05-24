@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Odložit o %d min</item>
+        <item quantity="one">Odložit o %d min</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d h "</item>
+        <item quantity="one">"%1$d h "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d min "</item>
+        <item quantity="one">"%1$d min "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Ztišeno za %d min.</item>
+        <item quantity="one">Ztišeno za %d min.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Budík bude ztišený po %d min.</item>
+        <item quantity="one">Budík bude ztišený po %d min.</item>
+    </plurals>
+     <plurals name="delete_alarm_confirm">
+        <item quantity="other">Vymazat vybrané budíky?</item>
+        <item quantity="one">Vymazat tento budík?</item>
+     </plurals>
+     <plurals name="delete_timezone_confirm">
+        <item quantity="other">Vymazat vybrané časové zóny?</item>
+        <item quantity="one">Vymazat tuto časovou zónu?</item>
+     </plurals>
+</resources>

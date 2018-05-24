@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Zobrazuji %d kontaktů s telefonním číslem</item>
+        <item quantity="one">Zobrazuji 1 kontakt s telefonním číslem</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Zobrazuji %d kontaktů</item>
+        <item quantity="one">Zobrazuji 1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Nalezeno %d kontaktů</item>
+        <item quantity="one">Nalezen 1 kontakt</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Sloučeno %0$d položek</item>
+        <item quantity="one">Nesloučeno</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d lidí z %2$s</item>
+        <item quantity="one">%1$d člověk z %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d lidí</item>
+        <item quantity="one">%1$d člověk</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d čísel</item>
+        <item quantity="one">%1$d číslo</item> 
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d hlasových zpráv</item>
+        <item quantity="one">Hlasová zpráva</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="picker_multi_title">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">%1$d přidaných kontaktů</item>
+        <item quantity="one">%1$d přidaný kontakt</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d lidí</item>
+        <item quantity="one">1 člověk</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Oblíbených: %1$d</item>
+        <item quantity="one">Oblíbených: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Poslední kontakty: %1$d</item>
+        <item quantity="one">1 poslední kontakt</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Kontaktů: %1$d</item>
+        <item quantity="one">Kontaktů: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Čísel: %1$d</item>
+        <item quantity="one">Čísel: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Emailů: %1$d</item>
+        <item quantity="one">1 Email</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Oblíbených: %1$d</item>
+        <item quantity="one">Oblíbených: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Poslední kontakty: %1$d</item>
+        <item quantity="one">Poslední kontakty: %1$d</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Importovaných kontaktů: %1$d</item>
+        <item quantity="one">Importovaných kontaktů: %1$d</item>
+    </plurals>
+</resources>

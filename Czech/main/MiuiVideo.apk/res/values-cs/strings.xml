@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Domů</string>
+  <string name="abc_action_bar_up_description">Nahoru</string>
+  <string name="abc_action_menu_overflow_description">Více možností</string>
+  <string name="abc_action_mode_done">Hotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Vidět vše</string>
+  <string name="abc_activitychooserview_choose_application">Vyberte aplikaci</string>
+  <string name="abc_capital_off">VYP</string>
+  <string name="abc_capital_on">ZAP</string>
+  <string name="abc_search_hint">Vyhledávám...</string>
+  <string name="abc_searchview_description_clear">Vymazat dotaz</string>
+  <string name="abc_searchview_description_query">Dotaz pro vyhledání</string>
+  <string name="abc_searchview_description_search">Vyhledat</string>
+  <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+  <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+  <string name="abc_shareactionprovider_share_with">Sdílet s...</string>
+  <string name="abc_shareactionprovider_share_with_application">Sdílet s %s</string>
+  <string name="abc_toolbar_collapse_description">Selhalo</string>
+  <string name="albums">Alba</string>
+  <string name="allow_draw_overlays_title">Allow Player player popup over other apps</string>
+  <string name="allow_sdraw_overlays_description">Player needs you to grant this permission display your video in a popup over other applications.</string>
+  <string name="allow_settings_access_brightness_description">Player needs you to grant this permission to change your brightness mode.</string>
+  <string name="allow_settings_access_brightness_title">Allow Player to change brightness mode</string>
+  <string name="allow_settings_access_ringtone_description">Player needs you to grant this permission to set up this song as your ringtone.</string>
+  <string name="allow_settings_access_ringtone_title">Allow Player to set the ringtone</string>
+  <string name="allow_storage_access_description">Player needs you to grant this permission to access the media files on this device.</string>
+  <string name="allow_storage_access_title">Allow Player to access video and audio files</string>
+  <string name="app_name">MiVideo</string>
+  <string name="artists">Umělci</string>
+  <string name="audio">Zvuk</string>
+  <string name="audio_delay">Zpoždění zvuku</string>
+  <string name="back_quit_lock">Stiskněte znovu pro ukončení</string>
+  <string name="brightness">Jas</string>
+  <string name="cancel">Zrušit</string>
+  <string name="common_google_play_services_unknown_issue">%1$s má problémy se službami Google Play. Pokud problém přetrvává, obraťte se na vývojáře na pomoc.</string>
+  <string name="default_text">Výchozí</string>
+  <string name="delete">Vymazat</string>
+  <string name="delete_file_tips">Chcete vymazat tento soubor?</string>
+  <string name="details">Detaily</string>
+  <string name="dselect_all">Odznačit vše</string>
+  <string name="encountered_error_message">"Přehrávač zaznamenal u tohoto typu média chybu.
+Zkuste obnovit knihovnu médií."</string>
+  <string name="encountered_error_title">Chyba přehrávání</string>
+  <string name="error_text_invalid_progressive_playback">"Tento typ souboru není podporován."</string>
+  <string name="exit_app">Zavřít přehrávač</string>
+  <string name="file">Soubor</string>
+  <string name="file_details" formatted="false">"Velikost: %s
+
+Délka: %s
+
+Naposledy změněno: %s
+
+Umístění: %s
+
+"</string>
+  <string name="filter">Filtr</string>
+  <string name="filter_file_tips">Chcete filtrovat tento soubor?</string>
+  <string name="folder">Složka</string>
+  <string name="folder_up_tips">(o úroveň výše)</string>
+  <string name="genres">Žánry</string>
+  <string name="hide">Skrýt</string>
+  <string name="hide_file_tips">Chcete skrýt tento soubor?</string>
+  <string name="hide_files_tips">Skrýt soubory</string>
+  <string name="hide_filter_folder_tips">Skrýt filtrované soubory</string>
+  <string name="history">Naposledy přehrané</string>
+  <string name="home_tab_featured">Doporučené</string>
+  <string name="home_tab_hot">Aktuální</string>
+  <string name="home_tab_local_video">Místní</string>
+  <string name="illegal_input_tips">Nepřípustný vstup</string>
+  <string name="invalid_location">Z umístění %1$s nelze přehrávat.</string>
+  <string name="language_default">Výchozí jazyk</string>
+  <string name="last_added_media">Naposledy přidané</string>
+  <string name="load_more_and_more">Více Push zpráv...</string>
+  <string name="loading"> Načítání </string>
+  <string name="locked">Zamknuto</string>
+  <string name="more">Více</string>
+  <string name="more_file_details" formatted="false">"Velikost: %s
+
+Délka: %s 
+
+"</string>
+  <string name="network_stream">Přehrávat po síti</string>
+  <string name="no_filter_folder_tips">Žádné filtrované složky</string>
+  <string name="no_folder_found">Žádné složky s videem</string>
+  <string name="no_hidden_files_tips">Žádné skryté soubory</string>
+  <string name="no_search_found">Žádné výsledky hledání</string>
+  <string name="no_videos_found">Žádné video</string>
+  <string name="ok">OK</string>
+  <string name="online">Online</string>
+  <string name="open">Otevřít</string>
+  <string name="open_subtitle_file">Otevřít titulkový soubor</string>
+  <string name="other">Ostatní</string>
+  <string name="over_load_more">Více Push zpráv</string>
+  <string name="pause">Zastavit</string>
+  <string name="permission_ask_again">Přidat povolení</string>
+  <string name="playlists">Seznam</string>
+  <string name="please_wait">Čekejte...</string>
+  <string name="push">Push zprávy</string>
+  <string name="push_load_more">Více Push zpráv</string>
+  <string name="refresh">Obnovit</string>
+  <string name="remove">Odstranit</string>
+  <string name="rename">Přejmenovat</string>
+  <string name="rename_file">Přejmenovat soubor</string>
+  <string name="rename_folder">Přejmenovat složku</string>
+  <string name="rename_hidden_error">Soubor bude skryt</string>
+  <string name="replace_num_files">%d soubory(ů)</string>
+  <string name="replace_num_videos">%d videa(í)</string>
+  <string name="ringtone_error">Během nastavení vyzvánění došlo k chybě.</string>
+  <string name="ringtone_set">"Soubor '%1$s' byl nastaven jako vyzváněcí tón."</string>
+  <string name="sdcard_text">SD karta</string>
+  <string name="sdcard_tips">SD karta/</string>
+  <string name="search">Hledat</string>
+  <string name="search_history">Hledat v historii</string>
+  <string name="search_null_text">Zadejte klíčové slovo</string>
+  <string name="select_all">Vybrat vše</string>
+  <string name="send">Odeslat</string>
+  <string name="settings">Nastavení</string>
+  <string name="show_all_files_tips">Zobrazit všechny soubory</string>
+  <string name="show_all_folder_tips">Zobrazit všechny složky</string>
+  <string name="small_a">A</string>
+  <string name="songs">Písně</string>
+  <string name="sound_off">Zvuk vyp.</string>
+  <string name="sound_on">Zvuk zap.</string>
+  <string name="spu_delay">Zpoždění titulků</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="subtitle">Titulky</string>
+  <string name="subtitle_color_text">Barva titulků</string>
+  <string name="subtitle_font_tips">Velikost písma titulků</string>
+  <string name="subtitles">Titulky</string>
+  <string name="synchronization">Synchronizovat</string>
+  <string name="toast_player_list_header">Seznam</string>
+  <string name="toast_player_list_none">Žádný další obsah</string>
+  <string name="toast_screen_text_add">Úspěšně přidáno</string>
+  <string name="toast_screen_text_default">Výchozí velikost</string>
+  <string name="toast_screen_text_full">Celá obrazovka</string>
+  <string name="toast_screen_text_horizontal">Horizontální změna měřítka</string>
+  <string name="toast_screen_text_scaling">Změna měřítka</string>
+  <string name="toast_screen_text_stream">Siskněte tlačítko Stream</string>
+  <string name="toast_screen_text_vertical">Vertikální změna měřítka</string>
+  <string name="track_audio">Zvuková stopa</string>
+  <string name="track_text">Ttulková stopa</string>
+  <string name="track_unknown">Neznámá stopa</string>
+  <string name="track_video">Video stopa</string>
+  <string name="unknown_album">Neznámé album</string>
+  <string name="unknown_artist">Neznámý umělec</string>
+  <string name="unknown_genre">neznámý žánr</string>
+  <string name="unlocked">Odemknuto</string>
+  <string name="unseekable_stream">Neviditelný stream</string>
+  <string name="v7_preference_off">VYP</string>
+  <string name="v7_preference_on">ZAP</string>
+  <string name="video">Video</string>
+  <string name="video_error_network_not_available">"Nelze se připojit k síti"</string>
+  <string name="video_error_text_unknown">Nastala neznámá chyba.</string>
+  <string name="video_error_title">Neznámá chyba</string>
+  <string name="video_file_details" formatted="false">%d videa(í) | %s</string>
+  <string name="videos">Videa</string>
+  <string name="volume">Hlasitost</string>
+  <string name="wrapper_footer_text">Konec stránky</string>
+</resources>

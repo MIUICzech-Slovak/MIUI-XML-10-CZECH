@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Synchr. data aplikací</item>
+        <item>Zálohovat rozložení plochy</item>
+        <item>Zálohovat nastavení systému</item>
+        <item>Vyhledat zařízení</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendář a více</item>
+        <item>Zálohujte aplikace, rozložení plochy a tapetu</item>
+        <item>Zálohujte důležitá nastavení, včetně Wi-Fi a displeje</item>
+        <item>Zablokujte své zařízení v případě ztráty nebo krádeže</item>
+    </string-array>
+</resources>
