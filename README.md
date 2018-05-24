@@ -1,6 +1,3 @@
-<dl><dd><a href="https://miuios.cz/" target="_blank"><img src="https://i.imgur.com/btvipaY.png" border="0" alt="MIUI9_logo"></a></dd></dl>
-
-
 MIUI-v9 translation for all supported devices. MIUI Translation: **kynio**
 
 
