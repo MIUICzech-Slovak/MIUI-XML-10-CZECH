@@ -1220,7 +1220,6 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
      <string name="pip_skip_to_prev">Přeskočit na předchozí</string>
      <string name="pointer_location">Umístění ukazatele</string>
      <string name="pointer_location_summary">Zobrazit překryvnou vrstvu s aktuálními daty o dotycích</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_duration">^1 – plně se nabije za ^2</string>
      <string name="power_discharging_duration">^1 – zbývá přibližně ^2</string>
      <string name="power_discharging_duration_enhanced">^1 – při vašem obvyklém využití zbývá asi ^2</string>
@@ -1260,7 +1259,6 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
      <string name="power_remaining_duration_only_short">Zbývající čas: ^1</string>
      <string name="power_remaining_duration_only_short_enhanced">Při vašem obvyklém využití zbývá ^1</string>
      <string name="preference_summary_default_combination">%1$s / %2$s</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="profile_owned_footer">Profil může být monitorován</string>
      <string name="qs_dnd_keep">Zachovat</string>
      <string name="qs_dnd_prompt_app">Režim Nerušit byl zapnut aplikací (%s).</string>
