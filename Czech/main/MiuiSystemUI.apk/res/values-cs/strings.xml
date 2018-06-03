@@ -808,7 +808,6 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
      <string name="disabled_by_admin_summary_text">Spravováno administrátorem</string>
      <string name="disconnect_vpn">Odpojit VPN</string>
      <string name="dnd_is_off">Režim Nerušit je vypnut</string>
-     <string name="do_disclosure_generic">Toto zařízení spravuje vaše organizace</string>
      <string name="do_disclosure_with_name">Toto zařízení je spravováno organizací %s</string>
      <string name="do_not_silence">Bez ztlumení</string>
      <string name="do_not_silence_block">Bez ztlumení a blokování</string>
@@ -987,7 +986,6 @@ prioritní"</string>
      <string name="kg_invalid_sim_puk_hint">Minimální délka kódu PUK je 8 číslic.</string>
      <string name="kg_login_too_many_attempts">Příliš mnoho pokusů o zadání gesta</string>
      <string name="kg_password_instructions">Zadejte heslo</string>
-     <string name="kg_password_pin_failed">Operace pomocí kódu PIN SIM karty se nezdařila.</string>
      <string name="kg_password_puk_failed">Operace pomocí kódu PUK SIM karty se nezdařila.</string>
      <string name="kg_password_wrong_pin_code_pukked">Zadali jste nesprávný kód PIN SIM karty. Nyní musíte za účelem odemknutí zařízení kontaktovat svého operátora.</string>
      <string name="kg_password_wrong_puk_code_dead">SIM kartu nelze použít. Kontaktujte operátora.</string>
@@ -1759,7 +1757,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="wrong_password">Nesprávné heslo</string>
   <string name="lock_screen_no_sim_card">Žádná SIM karta</string>
   <string name="do_disclosure_generic">Toto zařízení je spravováno vaší organizací</string>
-   <string name="do_disclosure_with_name">Toto zařízení je spravováno %s</string> 
    <string name="face_data_input_ok_msg_angle">"Odemkněte své zařízení tváří, když je displej zapnutý.
  (Nastavte svou tvář z různých úhlů.)​"</string>
    <string name="face_data_siggesstion_next">Další</string>
