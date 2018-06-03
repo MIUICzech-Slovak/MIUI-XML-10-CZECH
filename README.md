@@ -1,4 +1,4 @@
-[![MIUI10 logo](https://i.imgur.com/PDpAAjL.png)](https://miuios.cz/)
+[![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://miuios.cz/)
 
 MIUI-v10 translation for all supported devices. MIUI Translation: **kynio**
 
