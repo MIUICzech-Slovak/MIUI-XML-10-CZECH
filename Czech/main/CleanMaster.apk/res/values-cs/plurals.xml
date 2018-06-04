@@ -89,4 +89,16 @@
          <item quantity="other">%d aplikací nebylo dlouho používáno.</item>
          <item quantity="one">%d aplikace nebyla dlouho používána</item>
      </plurals>
+     <plurals name="hour">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="second">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+     </plurals>	
 </resources>

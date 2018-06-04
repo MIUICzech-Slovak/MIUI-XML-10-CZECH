@@ -16,6 +16,9 @@
    <string name="beauty_fragment_tab_name_makeup">Rozšířené</string>
     <string name="camera_facedetection_sub_option_hint">Experimentální funkce jsou dostupné</string>
   <string name="accessibility_setting_button">Další nastavení</string>
+  <string name="accessibility_ai_scene_off">AI je vypnuto</string>
+     <string name="accessibility_ai_scene_on">AI fotoaparát</string>
+     <string name="hint_ae_af_lock">Autom. zaostření / autom. expozice byla uzamčena</string>
   <string name="accessibility_shutter_button">Tlačítko spouště</string>
   <string name="accessibility_skin_beautify_button">Vylepšení pleti</string>
   <string name="accessibility_stereo_button">Dual-Camera Režim</string>

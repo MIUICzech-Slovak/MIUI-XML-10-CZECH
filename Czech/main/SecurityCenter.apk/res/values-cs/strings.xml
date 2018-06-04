@@ -2826,4 +2826,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gb_msg_transparent_dispaly_summary">Průhledné</string>
   <string name="managed_user_title">Všechny aplikace</string>
   <string name="menu_setting_traffic">Nastavit manuálně</string>
+  <string name="gb_msg_not_shielded_summary">Zobrazit</string>
+     <string name="gs_gamebox">In-game shortcuts</string>
+     <string name="gs_gamebox_detail">Show in-game shortcut panel</string>
+     <string name="midrop_post_notification_contentText">Zkuste MiDrop. Je zdarma a bez reklam.</string>
+     <string name="midrop_post_notification_contentTitle">Potřebujete přenést soubory?</string>
+     <string name="screenrecord_not_find">Nainstalujte nejnovější verze Nahrávání obrazovky a zkuste to znovu.</string>
 </resources>

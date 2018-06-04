@@ -37,4 +37,8 @@
          <item>Změnit kartu</item>
          <item>Žádná</item>
      </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Na šířku</item>
+        <item>Na výšku</item>
+     </string-array>
 </resources>

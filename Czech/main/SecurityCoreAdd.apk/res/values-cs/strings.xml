@@ -376,4 +376,5 @@ Můžete je i znovu stáhnout."</string>
    <string name="agree">Souhlasím</string>
   <string name="disagree">Nesouhlasím</string>
   <string name="net_work_notice">Rodičovský zámek potřebuje připojení na internet a přístup k Vaší poloze. Povolit?</string>
+  <string name="this_function_can_not_use_in_second_space">Tato funkce může být použita pouze v Prvním profilu.</string>
 </resources>

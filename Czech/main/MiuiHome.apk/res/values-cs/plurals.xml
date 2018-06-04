@@ -49,4 +49,7 @@
          <item quantity="other">přesouvání %1$d položek</item>
          <item quantity="one">přesouvání</item>
      </plurals>
+     <plurals name="announce_for_unread">
+        <item quantity="other">%2$s nepřečtených z %1$s</item>
+     </plurals>
 </resources>

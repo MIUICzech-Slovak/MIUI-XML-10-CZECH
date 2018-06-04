@@ -84,4 +84,5 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="open_wifi_settings">Otevřít nastavení Wi-Fi</string>
   <string name="emergency_call">Nouzový hovor</string>
   <string name="return_to_call">Zpět k hovoru</string>
+  <string name="find_device_notice">Jděte na i.mi.com pro vyhledání vašeho zařízeníenia nebo jeho zablokování.</string>
 </resources>

@@ -88,4 +88,7 @@
   <string name="other_settings_ad_enable_summary">Přizpůsobit reklamy Vašemu chování</string>
   <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Povolit připojení k mobilním datům?</string>
+  <string name="sim_card_detection_mobile_not_available">SIM karta se nemůže připojit k síti</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">Vaše SIM karta se nemůže připojit k síti. Zkontrolujte její platnost a zkuste to znovu.</string>
+  <string name="start_up_slogan">Navštivte miuios.cz</string>
 </resources>

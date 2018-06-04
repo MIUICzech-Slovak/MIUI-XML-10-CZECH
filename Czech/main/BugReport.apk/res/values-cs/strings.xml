@@ -313,4 +313,5 @@
    <string name="feedback_choose_reproductivity">Výskyt</string>
    <string name="feedback_title_reproductivity">Vyberte četnost zobrazení chyby</string>
    <string name="app_search">Vyhledat apl.</string>
+   <string name="toast_loading_app_id">Získávání informací...</string>
 </resources>

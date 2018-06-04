@@ -312,4 +312,17 @@
   <string name="recents_config_title">Zobrazení spuštěných aplikací</string>
   <string name="screen_cells_config_title">Nastavení buněk plochy</string>
   <string name="show_mem_info_title">Zobrazit stav RAM</string>
+  <string name="announce_for_checked">%1$s, vybráno</string>
+     <string name="announce_for_move">Přesunout na řádek %1$d sloupec %2$d</string>
+     <string name="announce_for_move_hotseat">Přesunout do lišty %1$d</string>
+     <string name="announce_for_unchecked">%1$s, nevybráno</string>
+     <string name="backup_fail">Záloha Launcheru selhala.</string>
+     <string name="icon_reorganize_channel">图标整理</string>
+     <string name="notification_reset_description">%1$s%1$s Může obnovit Launcher do %2$s</string>
+     <string name="notification_reset_duration">Za 2 hodiny,</string>
+     <string name="notification_reset_title">Čištění dokončeno</string>
+     <string name="quick_app">Quick App</string>
+     <string name="refresh">Obnovit</string>
+     <string name="reset_fail">Obnovení selhalo</string>
+     <string name="reset_title">Obnovení</string>
 </resources>

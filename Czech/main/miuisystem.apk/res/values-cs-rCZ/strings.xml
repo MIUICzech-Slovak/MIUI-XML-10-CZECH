@@ -118,4 +118,5 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
+  <string name="notice_audition">Zvuky přírody</string>
 </resources>

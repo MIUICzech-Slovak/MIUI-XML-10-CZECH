@@ -164,4 +164,8 @@
   <string name="user_switching_dialog_text">Přepínání...</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
   <string name="autofill">Auto. vyplnit</string>
+  <string name="miui_forbid_poweroff_when_device_locked">Nelze vypnout. Zařízení je uzamčeno.</string>
+     <string name="super_resolution_maintain_tips">Super rozlišení není dostupné.</string>
+     <string name="wifi_assistant_wifi_no_internet">Tato Wi-Fi síť nemá přístup na internet</string>
+     <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
 </resources>

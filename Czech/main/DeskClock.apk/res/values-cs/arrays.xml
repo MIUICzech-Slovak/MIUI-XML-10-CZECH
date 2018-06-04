@@ -89,4 +89,14 @@
         <item>Blíží se píšečná bouře!</item>
         <item>Přejeme příjemný den!</item>
      </string-array>
+     </string-array>
+     <string-array name="timer_duration">
+        <item>Celkem %1$s</item>
+        <item>Celkem %2$s</item>
+        <item>Celkem %1$s%2$s</item>
+        <item>Celkem %3$s</item>
+        <item>Celkem %1$s%3$s</item>
+        <item>Celkem %2$s%3$s</item>
+        <item>Celkem %1$s%2$s%3$s</item>
+     </string-array>
 </resources>

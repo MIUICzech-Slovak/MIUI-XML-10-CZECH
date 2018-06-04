@@ -1834,7 +1834,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="quick_settings_autobrightness_label">Autom. jas</string>
      <string name="quick_settings_batterysaver_label">Šetření baterie</string>
      <string name="quick_settings_drivemode_label">Automobil</string>
-     <string name="quick_settings_dual_location_label">GPS</string>
+     <string name="quick_settings_dual_location_label">Dual GPS</string>
      <string name="quick_settings_edit_label">Upravit</string>
      <string name="quick_settings_midrop_label">MiDrop</string>
      <string name="quick_settings_mute_label">Ztišit</string>
@@ -1853,7 +1853,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="report_rejected_touch">Report rejected touch</string>
      <string name="select_logd_level">Select log level</string>
      <string name="snooze_option_15_min">15 minut</string>
-     <string name="snooze_option_1_hour">1 hodina</string>
+     <string name="snooze_option_1_hour">1 hodinu</string>
      <string name="snooze_option_2_hour">2 hodiny</string>
      <string name="snooze_option_30_min">30 Minut</string>
      <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
