@@ -521,7 +521,6 @@
      <string name="date_calculate_hint">Které datum vyjde po určitém počtu dní</string>
      <string name="date_jump_hint">Skočit na dnešní datum</string>
      <string name="date_jump_title">Skočit na datum</string>
-     <string name="edit_event_birthday_reminder_3_days_before">Připomenout i za 3 dny</string>
      <string name="guide_card_import">Importovat</string>
      <string name="guide_card_primary_text">Importovat narozeniny přátel</string>
      <string name="guide_card_second_text">Dávkový import</string>
