@@ -1087,14 +1087,12 @@ Také jste připojeni k aplikaci %3$s, která může sledovat vaši osobní akt
 
 Další informace vám poskytne administrátor."</string>
   <string name="monitoring_description_ca_cert_settings">Otevřít důvěryhodná oprávnění</string>
-  <string name="monitoring_description_ca_cert_settings_separator">" "</string>
   <string name="monitoring_description_ca_certificate">V zařízení je nainstalována certifikační autorita. Zabezpečený síťový provoz může být sledován nebo upravován.</string>
   <string name="monitoring_description_do_body">Administrátor může sledovat a spravovat nastavení, firemní přístup, aplikace, data přidružená k tomuto zařízení a jeho polohu.</string>
   <string name="monitoring_description_do_body_vpn">Jste připojeni k aplikaci %1$s, která může sledovat vaši aktivitu v síti, včetně e-mailů, aplikací a webů.</string>
   <string name="monitoring_description_do_header_generic">Vaše zařízení je spravováno aplikací %1$s.</string>
   <string name="monitoring_description_do_header_with_name">Organizace %1$s používá ke správě tohoto zařízení aplikaci %2$s.</string>
   <string name="monitoring_description_do_learn_more">Další informace</string>
-  <string name="monitoring_description_do_learn_more_separator">" "</string>
   <string name="monitoring_description_managed_profile_ca_certificate">Organizace do vašeho pracovního profilu nainstalovala certifikační autoritu. Zabezpečený síťový provoz může být sledován nebo upravován.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Váš pracovní profil je připojen k aplikaci %1$s, která může sledovat vaši aktivitu v síti, včetně e-mailů, aplikací a webů.</string>
   <string name="monitoring_description_management">"Zařízení spravuje vaše organizace.
@@ -1126,7 +1124,6 @@ Další informace vám poskytne administrátor.
 
 Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v síti."</string>
   <string name="monitoring_description_vpn_settings">Otevřít nastavení VPN</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">Certifikáty CA</string>
   <string name="monitoring_subtitle_network_logging">Protokolování sítě</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
