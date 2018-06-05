@@ -235,7 +235,7 @@ Zapojte do původního telefonu jeho kabel. Pomocí adaptéru v balení kabel p
   <string name="go_back_button_label">Zpět</string>
   <string name="google_services_automatic_storage_manager">Když je úložiště téměř plné, uvolněte místo v zařízení odstraněním některých dat ze zařízení (například zálohovaných fotek a videí).</string>
   <string name="google_services_automatic_storage_manager_dialog_text">K těmto datům budete mít přístup, když budete připojeni k internetu. Tuto funkci a obsah k odstranění můžete spravovat v Nastavení &gt; Úložiště &gt; Spravovat úložiště.</string>
-  <string name="google_services_kids_automatic_storage_manager"><b>Když je úložiště téměř plné, uvolněte místo v zařízení</b> odstraněním některých dat ze zařízení (například zálohovaných fotek a videí).</string>
+  <string name="google_services_kids_automatic_storage_manager">&lt;b&gt;Kdy&amp;#382; je &amp;#250;lo&amp;#382;i&amp;#353;t&amp;#283; t&amp;#233;m&amp;#283;&amp;#345; pln&amp;#233;, uvoln&amp;#283;te m&amp;#237;sto v za&amp;#345;&amp;#237;zen&amp;#237;&lt;/b&gt; odstran&amp;#283;n&amp;#237;m n&amp;#283;kter&amp;#253;ch dat ze za&amp;#345;&amp;#237;zen&amp;#237; (nap&amp;#345;&amp;#237;klad z&amp;#225;lohovan&amp;#253;ch fotek a vide&amp;#237;).</string>
   <string name="help_feedback_label">Nápověda a zpětná vazba</string>
   <string name="home">Domovská stránka Nastavení</string>
   <string name="home_app">Výchozí aplikace</string>

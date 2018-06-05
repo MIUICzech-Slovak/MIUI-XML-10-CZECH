@@ -523,6 +523,8 @@ and never miss the cool new ones!"</string>
   <string name="repair_done">Obnoveno</string>
   <string name="repair_error">Nelze obnovit</string>
   <string name="repair_file">Obnovit šifrované soubory</string>
+  <string name="request_permission_msg">Povolte MiDrive přístup k vašemu účtu.</string>
+  <string name="request_permission_title">Jsou vyžadována povolení</string>
   <string name="request_timeout">Požadavek sítě neodpovídá</string>
   <string name="reset_password">Obnovit heslo</string>
   <string name="restoring">Obnovení...</string>
@@ -704,11 +706,9 @@ Bylo přičteno dalších %1$s"</string>
   <string name="weixin_sticker_tag_str">WeChat stickers</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Mi účet</string>
+  <string name="xiaomi_drive_description_content">MiDrive je online úložiště. Chcete jej přestat využívat?</string>
+  <string name="xiaomi_drive_description_title">Co je to MiDrive</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="request_permission_msg">Povolte MiDrive přístup k vašemu účtu.</string>
-   <string name="request_permission_title">Jsou vyžadována povolení</string>
-   <string name="xiaomi_drive_description_content">MiDrive je online úložiště. Chcete jej přestat využívat?</string>
-   <string name="xiaomi_drive_description_title">Co je to MiDrive</string>
 </resources>

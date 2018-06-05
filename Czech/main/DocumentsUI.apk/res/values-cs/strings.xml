@@ -89,7 +89,7 @@
   <string name="open_external_dialog_request">Chcete aplikaci ^1 udělit přístup k adresáři ^2 v úložišti ^3 ?</string>
   <string name="open_external_dialog_request_primary_volume">Chcete aplikaci ^1 udělit přístup k adresáři ^2 ?</string>
   <string name="open_external_dialog_root_request">Chcete aplikaci ^1 udělit přístup ke svým datům v úložišti ^2, včetně fotek a videí?</string>
-   <string name="overwrite_file_confirmation_message">Přepsat soubor %1$s?</string>
+  <string name="overwrite_file_confirmation_message">Přepsat soubor %1$s?</string>
   <string name="query_error">Obsah nyní nelze načíst</string>
   <string name="rename_error">Dokument se nepodařilo přejmenovat.</string>
   <string name="root_available_bytes">Volný prostor: %1$s</string>

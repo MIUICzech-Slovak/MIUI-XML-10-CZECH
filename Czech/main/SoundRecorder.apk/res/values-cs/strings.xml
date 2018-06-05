@@ -14,10 +14,14 @@
   <string name="cloud_record">Nahrávka v Cloudu (%d)</string>
   <string name="cloud_record_open">Synchr. nahrávky</string>
   <string name="cloud_record_tip">Synchr. nahrávky s MiCloud.</string>
+  <string name="cloud_service_state_open_reminder">Povolte synchronizaci s MiCloud.</string>
   <string name="cloud_status_full_dialog_cancel">Později</string>
   <string name="cloud_status_full_dialog_msg">Vaše cloudové úložiště je plné.</string>
   <string name="cloud_status_full_dialog_ok">Zakoupit</string>
   <string name="cloud_status_full_dialog_title">MiCloud úložiště je plné</string>
+  <string name="content_desc_back_button">Zpět</string>
+  <string name="content_desc_close_button">Zavřít</string>
+  <string name="content_desc_edit_city_manage">Spravovat města</string>
   <string name="data_connection_body">"Tip:
 Při použití mobilních dat se budou účtovat poplatky u operátora."</string>
   <string name="data_connection_button_text">OK</string>
@@ -50,6 +54,8 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="low_battery_error_title">Slabá baterie</string>
   <string name="mark_point_list_title">Označit</string>
   <string name="message_file_size_error">Nahrávka dosáhla maximální délku nahrávání podporovanou pro %s</string>
+  <string name="minute_rain">Minutová předpověď</string>
+  <string name="missing_required_permission">Zakázali jste požadované povolení.</string>
   <string name="new_record_name">Nová nahrávka</string>
   <string name="no_file">Žádné nahrávky</string>
   <string name="notification_message_all_paused">Může zvýšit spotřebu mobilních dat.</string>
@@ -148,10 +154,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
-  <string name="cloud_service_state_open_reminder">Povolte synchronizaci s MiCloud.</string>
-  <string name="content_desc_back_button">Zpět</string>
-   <string name="content_desc_close_button">Zavřít</string>
-   <string name="content_desc_edit_city_manage">Spravovat města</string>
-   <string name="minute_rain">Minutová předpověď</string>
-   <string name="missing_required_permission">Zakázali jste požadované povolení.</string>
 </resources>

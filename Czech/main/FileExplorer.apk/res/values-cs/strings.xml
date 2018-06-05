@@ -546,6 +546,7 @@ and never miss the cool new ones!"</string>
   <string name="search_file_type_other">Ostatní</string>
   <string name="search_file_type_picture">Fotografie</string>
   <string name="search_file_type_video">Video</string>
+  <string name="search_guid_hint">Vyhledat soubor...</string>
   <string name="search_hint">Zadejte část nebo celé jméno souboru</string>
   <string name="search_history">Vyhledat v historii</string>
   <string name="search_keyword">Značky</string>
@@ -703,5 +704,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="search_guid_hint">Vyhledat soubor...</string>
 </resources>

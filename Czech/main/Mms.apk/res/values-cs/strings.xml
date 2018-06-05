@@ -8,6 +8,7 @@
   <string name="add_attachment">Příloha</string>
   <string name="add_contact">Přidat kontakt</string>
   <string name="add_festival">Doporučené</string>
+  <string name="add_miui_contact">Kontakt</string>
   <string name="add_music">Přidat hudbu</string>
   <string name="add_nickname">Přezdívka</string>
   <string name="add_nickname_title">Přidat přezdívku</string>
@@ -22,7 +23,6 @@
   <string name="add_to_browser_favorite_failed">selhalo</string>
   <string name="add_to_browser_favorite_success">úspěšné</string>
   <string name="add_video">Přidat video</string>
-   <string name="add_miui_contact">Kontakt</string>
   <string name="adding_attachments">Čekejte prosím, než budou položky přidány do prezentace.</string>
   <string name="adding_attachments_title">Přidávání příloh</string>
   <string name="adding_recipients">Přidání příjemce...</string>
@@ -54,6 +54,16 @@
   <string name="bookmark_confirm_delete_message">Vybrané zprávy budou odstraněny z oblíbených</string>
   <string name="bookmark_empty">Žádné oblíbené zprávy</string>
   <string name="bookmark_list_title">Oblíbené</string>
+  <string name="button_emoji_creature">Zvířata</string>
+  <string name="button_emoji_lifestyle">Život</string>
+  <string name="button_emoji_smiley">Tváře</string>
+  <string name="button_emoji_symbol">Symboly</string>
+  <string name="button_emoji_text">Textové</string>
+  <string name="button_fold">Zabalit</string>
+  <string name="button_next_slide">Další</string>
+  <string name="button_pre_slide">Předchozí</string>
+  <string name="button_resend_message">Odeslat znovu</string>
+  <string name="button_unfold">Rozbalit</string>
   <string name="call_sender">Volat odesílatele</string>
   <string name="cannot_add_picture_and_video">Na jeden snímek nelze přidat video a obrázek.</string>
   <string name="cannot_add_slide_anymore">Další snímky nelze přidat.</string>
@@ -133,6 +143,9 @@
   <string name="delete_wild_sims_title">Vymazat vybraná čísla</string>
   <string name="delivery_report_activity">Potvrzení o doručení</string>
   <string name="delivery_toast_body">Zpráva pro %s doručena</string>
+  <string name="dialog_message_fake_cell_detect_error">Upravit informace o této zprávě? MIUI odešlě číslo (%1$s), obsah zprávy a polohu na Xiaomi server.</string>
+  <string name="dialog_message_sms_report">SPAM SMS a informace o odesílateli budou odeslány Xiaomi pro další analýzu.</string>
+  <string name="dialog_title_fake_cell_detect_error">Upravit</string>
   <string name="disable_notifications_dialog_message">Zamezit duplicitnímu oznamování zpráv pro výchozí SMS/MMS aplikaci?</string>
   <string name="disabled">Deaktivováno</string>
   <string name="discard">Zrušit</string>
@@ -145,6 +158,7 @@
   <string name="download_later">V současné době nelze stáhnout. Zkuste to prosím později.</string>
   <string name="downloading">Stahování</string>
   <string name="downloading_file_can_not_play">Počkejte na stažení nahrávky</string>
+  <string name="draft">Koncept</string>
   <string name="duration_not_a_number">Doba trvání musí být číslo</string>
   <string name="duration_sec">Trvání (%s s)</string>
   <string name="duration_selector_title">"Doba trvání snímku "</string>
@@ -177,6 +191,7 @@
   <string name="fail_to_view_attachment">Příloha není dostupná</string>
   <string name="failed_to_add_media">Tuto položku %1$s, nelze do zprávy přidat.</string>
   <string name="failed_to_resize_image">Velikost fotografie se nepodařilo přizpůsobit.</string>
+  <string name="fake_cell_alert_detect_error">Nebylo odesláno z falešné BTS</string>
   <string name="fake_cell_alert_hint">Vypadá to, že sms byla odeslána z jiného čísla, než je zobrazeno. Buďte opatrní, pokud SMS vyžaduje přihlašovací údaje nebo platby.</string>
   <string name="fake_cell_checking_hint">Kontrola zabezpečení...</string>
   <string name="fake_cell_detection_entry">Zjištěna falešná základní stanice</string>
@@ -381,6 +396,9 @@
   <string name="no_subject_view">(Předmět neuveden)</string>
   <string name="non_english_subject_limit">Maximálně 13 znaků pro ne-anglický předmět</string>
   <string name="nosend_message">Nebylo odesláno</string>
+  <string name="notification_channel_description">Upozornění a zprávy</string>
+  <string name="notification_channel_name">Zprávy</string>
+  <string name="notification_copy">Zkopírovat heslo</string>
   <string name="notification_failed_multiple">%s zpráv nelze odeslat.</string>
   <string name="notification_failed_multiple_title">Zprávy neodeslané</string>
   <string name="notification_multiple">[%s]</string>
@@ -422,6 +440,7 @@
   <string name="pref_sms_storage_title">Úložiště</string>
   <string name="pref_sms_theme_title">Nastavení vzhledu</string>
   <string name="pref_summary_allow_si_sl_push">Povolit zprávám načítat obsah webstránek</string>
+  <string name="pref_summary_allow_upload_message_info">SPAM SMS a informace o odesílateli budou odeslány Xiaomi pro další analýzu.</string>
   <string name="pref_summary_auto_delete">Plné úložiště, vymažte staré zprávy.</string>
   <string name="pref_summary_delete_limit">Počet zpráv v konverzaci: %1$s</string>
   <string name="pref_summary_delivery_reports">Požadovat oznámení o doručení odeslané zprávy</string>
@@ -444,6 +463,7 @@
   <string name="pref_time_auto_group_title">Seskupení zpráv</string>
   <string name="pref_title_about_smart_sms">O poskytovateli inteligentních zpráv</string>
   <string name="pref_title_allow_si_sl_push">Povolit WAP Push</string>
+  <string name="pref_title_allow_upload_message_info">Odeslat SPAM SMS</string>
   <string name="pref_title_auto_delete">Vymazat staré SMS</string>
   <string name="pref_title_card_format">Formát vizitky</string>
   <string name="pref_title_delivery_reports">Doručenka</string>
@@ -557,6 +577,7 @@
   <string name="select_local_audio">Vybrat zvuk</string>
   <string name="select_local_video">Vybrat video</string>
   <string name="select_message_send_sim">Vybrat SIM kartu</string>
+  <string name="select_phone_number">Vyberte telefonní číslo</string>
   <string name="select_recipient">Příjemce</string>
   <string name="select_sim">Vyberte SIM kartu</string>
   <string name="select_top_text">Text nahoře</string>
@@ -601,6 +622,7 @@
   <string name="sms_full_title">Textové zprávy mají zaplněnou paměť</string>
   <string name="sms_rejected_body">Příchozí zpráva odmítnuta z neznámého důvodu.</string>
   <string name="sms_rejected_title">Textová zpráva odmítnuta</string>
+  <string name="sms_report">Nahlásit SPAM SMS</string>
   <string name="sms_report_dialog_content">Nelze odeslat potvrzení.</string>
   <string name="sms_report_dialog_retry">Znovu</string>
   <string name="sms_report_dialog_title">Znovu</string>
@@ -661,6 +683,7 @@
   <string name="to_count">%d lidí</string>
   <string name="to_label">"Komu "</string>
   <string name="to_send_wrapper">Bude odesláno %s hod.</string>
+  <string name="toast_pending_hangup_msg">Zpráva bude odeslána po ukončení hovoru</string>
   <string name="today">Dnes</string>
   <string name="too_many_attachments">Počet vložených příloh je omezen na %1$s. Bude přidáno pouze prvních %2$s příloh.</string>
   <string name="too_many_recipients">Počet příjemců této zprávy je příliš vysoký (%1$s). Počet příjemců je omezen na %2$s.</string>
@@ -684,6 +707,7 @@ Pokus: %s."</string>
   <string name="unsticked_conversation">Připnutí již zrušeno</string>
   <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
   <string name="url_result_safe">URL je bezpečená</string>
+  <string name="url_scan_again">Zkontrolovat znovu</string>
   <string name="url_scanning">Kontrola URL...</string>
   <string name="user_agreement1">Pozorně si přečtěte všechny podmínky před tím, než začnete používat nebo instalovat další aplikace.</string>
   <string name="user_agreement2">" Podmínky používání"</string>
@@ -708,28 +732,4 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
   <string name="yesterday">Včera</string>
-  <string name="pref_summary_allow_upload_message_info">SPAM SMS a informace o odesílateli budou odeslány Xiaomi pro další analýzu.</string>
-  <string name="dialog_message_sms_report">SPAM SMS a informace o odesílateli budou odeslány Xiaomi pro další analýzu.</string>
-  <string name="pref_title_allow_upload_message_info">Odeslat SPAM SMS</string>
-  <string name="select_phone_number">Vyberte telefonní číslo</string>
-  <string name="sms_report">Nahlásit SPAM SMS</string>
-  <string name="button_emoji_creature">Zvířata</string>
-  <string name="button_emoji_lifestyle">Život</string>
-  <string name="button_emoji_smiley">Tváře</string>
-  <string name="button_emoji_symbol">Symboly</string>
-  <string name="button_emoji_text">Textové</string>
-  <string name="button_fold">Zabalit</string>
-  <string name="button_next_slide">Další</string>
-  <string name="button_pre_slide">Předchozí</string>
-  <string name="button_resend_message">Odeslat znovu</string>
-  <string name="button_unfold">Rozbalit</string>  
-  <string name="dialog_message_fake_cell_detect_error">Upravit informace o této zprávě? MIUI odešlě číslo (%1$s), obsah zprávy a polohu na Xiaomi server.</string>
-  <string name="dialog_title_fake_cell_detect_error">Upravit</string>
-  <string name="draft">Koncept</string>
-  <string name="fake_cell_alert_detect_error">Nebylo odesláno z falešné BTS</string>
-  <string name="notification_channel_description">Upozornění a zprávy</string>
-     <string name="notification_channel_name">Zprávy</string>
-     <string name="notification_copy">Zkopírovat heslo</string>
-     <string name="toast_pending_hangup_msg">Zpráva bude odeslána po ukončení hovoru</string>
-     <string name="url_scan_again">Zkontrolovat znovu</string> 
 </resources>

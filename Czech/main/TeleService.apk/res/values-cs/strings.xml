@@ -266,6 +266,7 @@
   <string name="close">Zavřít</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Zavřít</string>
+  <string name="close_volte">Deaktivovat VoLTE</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
   <string name="command_error_fdn_failure">Tato operace nemůže být povolena, pokud je funkce PTČ zapnuta. Prosím vypněte PTČ a zkuste to znovu.</string>
   <string name="config_default_data_sim">Nastavení</string>
@@ -335,7 +336,9 @@
   <string name="dial_related_setting_catory">Vytočit</string>
   <string name="dialerKeyboardHintText">Číslo vytočíte pomocí klávesnice.</string>
   <string name="dialog_call_ordinary_telephone">Běžný hovor (%ds)</string>
+  <string name="dialog_cancel">Zrušit</string>
   <string name="dialog_network_priority_title">Priorita</string>
+  <string name="dialog_report">Nahlásit</string>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_0_number">0</string>
   <string name="dialpad_1_letters"/>
@@ -397,6 +400,8 @@
   <string name="dtmf_tone_entries_normal">Normální</string>
   <string name="dtmf_tones_summary">Nastavit délku tónů DTMF</string>
   <string name="dtmf_tones_title">Tóny DTMF</string>
+  <string name="dual_4g_switch_summary">Povolit LTE připojení pro obě SIM karty.</string>
+  <string name="dual_4g_switch_title">Dual LTE</string>
   <string name="ecm_exit_dialog">Dialog ukončení režimu tísňového zpětného volání</string>
   <string name="editContact">Upravit</string>
   <string name="edit_fdn_contact">Upravit PTČ</string>
@@ -434,6 +439,7 @@
   <string name="enable_disable_retail_directory">Adresář prodejců</string>
   <string name="enable_disable_stock_quotes">Zprávy z akciových trhů</string>
   <string name="enable_disable_technology_news">Technologické zprávy</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE vyžaduje LTE připojení pro oba SIM sloty. Přepnout na Dual LTE?</string>
   <string name="enable_fdn">Funkce PTČ je ZAPNUTA</string>
   <string name="enable_fdn_ok">Vypnout funkci PTČ</string>
   <string name="enable_in_progress">Čekejte prosím...</string>
@@ -648,6 +654,10 @@
   <string name="missed_call_notify_times_summary">Opakovat každých 5 min.</string>
   <string name="missed_call_notify_times_title">Upozornění na zmeškaný hovor</string>
   <string name="missed_call_notify_twice">2krát</string>
+  <string name="miui_network_selection_reset_text">Reset</string>
+  <string name="miui_notification_network_selection_text" formatted="false">SIM %s Vybraná síť (%s) nedostupná</string>
+  <string name="miui_notification_network_selection_title">SIM nemá signál</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s nemá signál</string>
   <string name="mmiCancelled">Kód MMI byl zrušen</string>
   <string name="mmiStarted">Kód MMI byl spuštěn</string>
   <string name="mo_call_type_title">MO Call Type</string>
@@ -656,6 +666,8 @@
   <string name="mobile_data_on">zap</string>
   <string name="mobile_network_settings_not_available">Nastavení mobilní sítě nejsou pro tohoto uživatele dostupná</string>
   <string name="mobile_networks">Nastavení mobilní sítě</string>
+  <string name="modem_dialog_body">Mobilní síť je nestabilní, což způsobuje ztrátu spojení nebo problémy se sítí. Odeslat hlášení o chybě?</string>
+  <string name="modem_dialog_title">Mobilní síť je nestabilní</string>
   <string name="msim_apn_not_set">Nenastaveno</string>
   <string name="msim_default_setting">Výchozí nastavení</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -815,6 +827,7 @@ Může to trvat i 5 min."</string>
   <string name="ota_touch_activate">"K aktivaci telefonní služby je potřeba uskutečnit speciální hovor. Stiskněte tlačítko Aktivovat a aktivujte telefon podle pokynů, které Vám budou sděleny."</string>
   <string name="ota_try_again">Zkuste to znovu</string>
   <string name="ota_unsuccessful">"Váš telefon nebyl aktivován. Možná bude nutné vyhledat oblast s lepším pokrytím (blízko okna nebo venku). Zkuste to znovu nebo kontaktujte oddělení zákaznických služeb, kde získáte další informace.</string>
+  <string name="other_available_phone_accounts">Ostatní účty</string>
   <string name="other_settings">Další nastavení hovorů</string>
   <string name="other_settings_category">Ostatní</string>
   <string name="overseas_roaming_setting">Mezinárodní roaming</string>
@@ -873,6 +886,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="pocket_mode_summary">Zařízení se automaticky uzamkne v kapse</string>
   <string name="pocket_mode_title">Zabránit náhodnému použití</string>
   <string name="port_title">Číslo portu</string>
+  <string name="prefered_network_type_3g_promp">Před výběrem 3G sítě je lepší deaktivovat VoLTE. Deaktivovat nyní?</string>
   <string name="preference_auto_ip_summary_disable">Deaktivováno</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_category_ringtone">Vyzvánění</string>
@@ -949,10 +963,15 @@ Počet zbývajících pokusů: %d."</string>
   <string name="preferred_network_type_pref_entries_only_3g">Jen 3G</string>
   <string name="preferred_network_type_td_scdma">GSM / TD-SCDMA</string>
   <string name="preferred_network_type_title">Volba typu sítě</string>
+  <string name="preferred_phone_account">Preferovaný účet</string>
   <string name="primary_account_summary_with">Primární účet. %s</string>
   <string name="private_num">Soukromé číslo</string>
   <string name="proceed">Pokračovat</string>
   <string name="progress_dialog_exiting_ecm">Ukončení režimu Nouzového tísňového hovoru</string>
+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE Není dostupné. Vypněte VoLTE pro běžné volání.</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">Služba není dostupná. Vypněte VoLTE v Nastavení.</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Před povolením VoLTE vyberte LTE síť.</string>
+  <string name="prompt_when_turnon_volte_without_lte">LTE síť není momentálně dostupná. Povolení VoLTE může způsobit problémy s voláním.</string>
   <string name="propmpt_dialog_do_not_ask">Znovu nezobrazovat</string>
   <string name="propmpt_dialog_network_failed_title">Call timeout</string>
   <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
@@ -970,6 +989,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="puk_unlock_failed">Odblokování PUK neúspěšné.</string>
   <string name="puk_unlock_success">Odblokování PUK úspěšné.</string>
   <string name="puk_unlocked">Karta SIM byla odblokována</string>
+  <string name="quick_dial_setting_title">Rychlá volba</string>
   <string name="radio_off_error">Před zobrazením nastavení zapněte rádio.</string>
   <string name="rc_unlock_failed">Požadavek na odblokování firemní RUIM nebyl úspěšný.</string>
   <string name="rc_unlock_success">Požadavek na odblokování firemní RUIM byl úspěšný.</string>
@@ -1078,6 +1098,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="simContacts_title">Správa kontaktů na SIM kartě</string>
   <string name="simFdnContacts_empty">Žádné fixní kontakty.</string>
   <string name="sim_absent">Chybí</string>
+  <string name="sim_accounts">SIM účty</string>
   <string name="sim_card_activate">Ověření SIM</string>
   <string name="sim_card_summary_no_sim_card">Žádná SIM karta</string>
   <string name="sim_cards_network_mode_changed_summary">Zobrazit nastavení SMS a Hovoru</string>
@@ -1215,6 +1236,8 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Změna TTY režimu není povolena během VT hovoru</string>
   <string name="tty_mode_option_summary">Nastavit režim TTY</string>
   <string name="tty_mode_option_title">Režim TTY</string>
+  <string name="turn_off_dual_4g_failed">Nelze deaktivovat Dual LTE.</string>
+  <string name="turn_on_dual_4g_failed">Nelze povolit Dual LTE.</string>
   <string name="turnover_mute_summary">Otočení displeje směrem dolů ztiší vyzvánění</string>
   <string name="turnover_mute_title">Otočením ztišit</string>
   <string name="undefined">Nedefinované</string>
@@ -1235,6 +1258,9 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="vibrate_after_connected_summary">Vibrovat při přijetí</string>
   <string name="vibrate_after_connected_title">Vibrovat při spojení</string>
   <string name="vibrate_on_ring_title">Vibrovat při vyzvánění</string>
+  <string name="vice_slot_volte_data_switch_prompt">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu. Může to navýšit poplatky operátora.</string>
+  <string name="vice_slot_volte_data_switch_summary">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu</string>
+  <string name="vice_slot_volte_data_switch_title">Používat mobilní data během hovoru přes VoLTE na druhé SIM</string>
   <string name="vm_change_failed">"Nelze změnit číslo hlasové schránky.\nKontaktujte Vašeho operátora, pokud tento problém přetrvává."</string>
   <string name="vm_changed">Číslo hlasové schránky bylo změněno.</string>
   <string name="voice_privacy">Ochrana soukromí hlasové pošty</string>
@@ -1259,8 +1285,11 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="volte_provision_text">Detekce VoLTE na vaší SIM není podporována, chcete jej aktivovat?</string>
   <string name="volte_provision_title">Povolit VoLTE</string>
   <string name="volte_switch_not_support_summary">VoLTE hovory nejsou podporovány na datové SIM kartě.</string>
+  <string name="volte_switch_not_support_summary2">VoLTE hovory nejsou podporovány vaším operátorem.</string>
   <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
+  <string name="volte_switch_summary2">Ověřte se, že váš operátor podporuje VoLTE, než jej povolíte. Může to ovlivnit běžné hovory.</string>
   <string name="volte_switch_title">Povolit VoLTE</string>
+  <string name="volte_tips_when_turn_on">VoLTE služby jsou dostupné jen v pokrytí LTE.</string>
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="wifi_calling_call_assistant">Asistent hovoru</string>
@@ -1279,33 +1308,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="other_available_phone_accounts">Ostatní účty</string>
-   <string name="preferred_phone_account">Preferovaný účet</string>
-   <string name="sim_accounts">SIM účty</string>
-   <string name="volte_switch_not_support_summary2">VoLTE hovory nejsou podporovány vaším operátorem.</string>
-   <string name="miui_notification_network_selection_text" formatted="false">SIM %s Vybraná síť (%s) nedostupná</string>
-   <string name="dual_4g_switch_summary">Povolit LTE připojení pro obě SIM karty.</string>
-   <string name="dual_4g_switch_title">Dual LTE</string>
-   <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE vyžaduje LTE připojení pro oba SIM sloty. Přepnout na Dual LTE?</string>
-   <string name="turn_off_dual_4g_failed">Nelze deaktivovat Dual LTE.</string>
-   <string name="turn_on_dual_4g_failed">Nelze povolit Dual LTE.</string>
-   <string name="miui_network_selection_reset_text">Reset</string>
-   <string name="miui_notification_network_selection_title">SIM nemá signál</string>
-   <string name="miui_notification_network_selection_title_by_sim">SIM %s nemá signál</string>
-   <string name="dialog_cancel">Zrušit</string>
-   <string name="dialog_report">Nahlásit</string>
-   <string name="modem_dialog_body">Mobilní síť je nestabilní, což způsobuje ztrátu spojení nebo problémy se sítí. Odeslat hlášení o chybě?</string>
-   <string name="modem_dialog_title">Mobilní síť je nestabilní</string>
-    <string name="quick_dial_setting_title">Rychlá volba</string>
-    <string name="vice_slot_volte_data_switch_prompt">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu. Může to navýšit poplatky operátora.</string>
-  <string name="vice_slot_volte_data_switch_summary">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu</string>
-  <string name="vice_slot_volte_data_switch_title">Používat mobilní data během hovoru přes VoLTE na druhé SIM</string>
-  <string name="prompt_to_turnoff_volte_when_failed">VoLTE Není dostupné. Vypněte VoLTE pro běžné volání.</string>
-  <string name="prompt_to_turnoff_volte_when_supp_service">Služba není dostupná. Vypněte VoLTE v Nastavení.</string>
-  <string name="prompt_when_turnon_volte_without_lte">LTE síť není momentálně dostupná. Povolení VoLTE může způsobit problémy s voláním.</string>
-  <string name="volte_switch_summary2">Ověřte se, že váš operátor podporuje VoLTE, než jej povolíte. Může to ovlivnit běžné hovory.</string>
-  <string name="volte_tips_when_turn_on">VoLTE služby jsou dostupné jen v pokrytí LTE.</string>
-  <string name="close_volte">Deaktivovat VoLTE</string>
-  <string name="prefered_network_type_3g_promp">Před výběrem 3G sítě je lepší deaktivovat VoLTE. Deaktivovat nyní?</string>
-  <string name="prompt_when_turnon_volte_on_3g_prefered">Před povolením VoLTE vyberte LTE síť.</string>
 </resources>

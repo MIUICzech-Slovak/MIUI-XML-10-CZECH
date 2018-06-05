@@ -83,6 +83,7 @@
   <string name="national_father_day"/>
   <string name="new_years_day"/>
   <string name="no_notification_tips">Žádná upozornění</string>
+  <string name="notice_audition">Zvuky přírody</string>
   <string name="partys_day"/>
   <string name="peace_day"/>
   <string name="presentation_payphone">Telefonní automat</string>
@@ -118,5 +119,4 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
-  <string name="notice_audition">Zvuky přírody</string>
 </resources>

@@ -7,10 +7,10 @@
   <string name="btn_download">Stáhnout novou verzi (%1$s)</string>
   <string name="btn_install">Instalovat novou verzi</string>
   <string name="btn_no">Zrušit</string>
-  <string name="btn_pause">Zastavit</string>
-  <string name="btn_stop">Ukončit</string>
   <string name="btn_ok">OK</string>
+  <string name="btn_pause">Zastavit</string>
   <string name="btn_share">Sdílet</string>
+  <string name="btn_stop">Ukončit</string>
   <string name="btn_yes">Ano</string>
   <string name="check_new_version">Zkontrolovat</string>
   <string name="dialog_3g_desc">Stahování nové verze MIUI přes mobilní data může navýšit vaše měsíční poplatky. Doporučujeme připojení k Wi-Fi.</string>
@@ -30,6 +30,8 @@ Vaše data budou zachována."</string>
   <string name="menu_title_current_version_log">Informace o aktualizaci</string>
   <string name="menu_title_pick_rom_file">Vybrat ZIP z úložiště</string>
   <string name="menu_title_recovery">Restartovat do TWRP recovery</string>
+  <string name="message_checkbox">Nezobrazovat oznámení od miuios.cz</string>
+  <string name="message_title">Oznámení!</string>
   <string name="new_version">Je dostupná nová verze!</string>
   <string name="no_info">Informace nejsou dostupné</string>
   <string name="no_network">Žádný přístup v síti.</string>
@@ -55,6 +57,4 @@ Vaše data budou zachována."</string>
   <string name="version">Nainstalovaná verze</string>
   <string name="weekly">Týdenní</string>
   <string name="wifi_recommended">Připojte se na Wi-fi síť pro stažení aktualizace!</string>
-  <string name="message_checkbox">Nezobrazovat oznámení od miuios.cz</string>
-  <string name="message_title">Oznámení!</string>
 </resources>

@@ -11,7 +11,6 @@
   <string name="activate_fail_notification_title">Znovu aktivovat synchr.</string>
   <string name="activating">Aktivace...</string>
   <string name="address">Adresa</string>
-  <string name="user_experience_program">Program zkušenosti úživatelů</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">Narozeniny</string>
@@ -323,6 +322,7 @@
   <string name="tuesday_short">Úte</string>
   <string name="tuesday_shortest">Ú</string>
   <string name="user_agreement">Podmínky používání</string>
+  <string name="user_experience_program">Program zkušenosti úživatelů</string>
   <string name="user_manual">Návod</string>
   <string name="web_sso_login_fail">Musíte se znovu přihlásit</string>
   <string name="web_sso_login_message">Přihlašování...</string>

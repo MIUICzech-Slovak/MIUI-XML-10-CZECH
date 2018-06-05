@@ -12,6 +12,7 @@
   <string name="disable_find_device_error">Nelze deaktivovat vyhledávání zařízení. %1$s</string>
   <string name="disable_find_device_success">Vyhledávání zařízení je vypnuto.</string>
   <string name="doing_extra_login_steps">Ověřování přihlášení...</string>
+  <string name="emergency_call">Nouzový hovor</string>
   <string name="enable_find_device_error">Nelze aktivovat vyhledávání zařízení. %1$s</string>
   <string name="enable_find_device_success">Vyhledávání zařízení je aktivní.</string>
   <string name="find_device">Vyhledat zařízení</string>
@@ -24,6 +25,7 @@
   <string name="find_device_error_server">Chyba serveru (%s)</string>
   <string name="find_device_error_unknown">Neznámá chyba (%s)</string>
   <string name="find_device_noise_title">Vyhledání zařízení zvukem</string>
+  <string name="find_device_notice">Jděte na i.mi.com pro vyhledání vašeho zařízeníenia nebo jeho zablokování.</string>
   <string name="find_device_notice_p1">Jděte na</string>
   <string name="find_device_notice_p3">" pro vyhledání, zablokování, nebo obnovu vašeho zařízení.
 Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</string>
@@ -35,6 +37,7 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="lock_msg_phone">Kontaktní údaje: %s</string>
   <string name="login_extra_steps">Ověřené přihlášení</string>
   <string name="login_failed">Nelze se přihlásit %s</string>
+  <string name="open_wifi_settings">Otevřít nastavení Wi-Fi</string>
   <string name="passport_checking_vcode">Kontrola hesla...</string>
   <string name="passport_error_empty_vcode">Zadejte ověřovací kód</string>
   <string name="passport_notification_need_unlock_again">Zkuste odblokovat znovu</string>
@@ -46,6 +49,7 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="phone_locked">Toto zařízení je zřejmě propojeno s jiným Mi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
   <string name="phone_locked_account_email">, propojený email: %s</string>
   <string name="phone_locked_account_phone">, propojené telefonní číslo: %s</string>
+  <string name="return_to_call">Zpět k hovoru</string>
   <string name="stop_on_empty_captcha">Captcha nesmí být prázdná</string>
   <string name="stop_on_empty_password">Heslo nesmí být prázdné</string>
   <string name="sys_notification_async_open_failed_content">Zkuste to znovu.</string>
@@ -81,8 +85,4 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlocking">Aktivování...</string>
   <string name="verifing_account">Ověřování hesla...</string>
   <string name="verify_password_failed">Nelze ověřit Mi účet. %s.</string>
-  <string name="open_wifi_settings">Otevřít nastavení Wi-Fi</string>
-  <string name="emergency_call">Nouzový hovor</string>
-  <string name="return_to_call">Zpět k hovoru</string>
-  <string name="find_device_notice">Jděte na i.mi.com pro vyhledání vašeho zařízeníenia nebo jeho zablokování.</string>
 </resources>

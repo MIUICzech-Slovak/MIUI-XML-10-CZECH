@@ -1,11 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_External_Storage">Přístup a změna souborů na úložišti</string>
+  <string name="HIPS_Perm_Location">Získat polohu</string>
+  <string name="HIPS_Perm_PhoneID">Získat informace o zařízení</string>
+  <string name="HIPS_Perm_Settings">Změnit nastavení</string>
+  <string name="HIPS_Perm_SystemAlert">Zobrazit vyskakovací okno</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Změnit Wi-Fi připojení</string>
+  <string name="HIPS_Perm_background_start_activity">Spuštění na pozadí</string>
+  <string name="HIPS_Perm_get_accounts">Přístup k účtům v zařízení</string>
+  <string name="HIPS_Perm_get_installed_apps">Získat seznam nainstalovaných aplikací</string>
+  <string name="HIPS_Perm_show_when_locked">Zobrazit na zamykací obrazovce</string>
   <string name="app_name">MiDrop</string>
+  <string name="btn_goto_grant">Povolit</string>
   <string name="cancel_confirm">Zrušit</string>
   <string name="cancel_confirm_title">Přenos je dokončen, chcete jej zrušit?</string>
   <string name="cancel_receive_confirm">Zrušit</string>
   <string name="cancel_receive_stop">Pokračovat v přijímání</string>
   <string name="cancel_stop">Pokračovat v odesílání</string>
+  <string name="description_content">MiDrop poskytuje přenos souborů mezi zařízeními.</string>
+  <string name="description_title">Co je to MiDrop</string>
+  <string name="drive_low_memory_description_content">Dochází vám volné místo na úložišti. Chcete uvolnit místo?</string>
+  <string name="drive_low_memory_description_title">Málo volného místa</string>
+  <string name="drive_low_memory_description_toast">Dochází vám volné místo na úložišti</string>
+  <string name="drive_low_memory_positive_content">Vyčistit</string>
   <string name="file_not_support">Tento typ souboru není podporován</string>
   <string name="help">Pomoc</string>
   <string name="i_know">OK</string>
@@ -52,6 +69,8 @@
   <string name="receiver_transfer_interrupt">Přenos přerušen, nevypínejte Wi-Fi hotspot během přenosu.</string>
   <string name="receiver_video_file_current">Přijímání %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ od %1$s</string>
+  <string name="request_permission_msg">MiDrop vyžaduje %s, povolte oprávnění</string>
+  <string name="request_permission_title">Povolení</string>
   <string name="runtime_permission_ungranted">Nelze použít MiDrop kvůli zakázanému povolení</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
@@ -73,26 +92,7 @@
   <string name="sender_transfer_interrupt">Přenos přerušen, nevypínejte Wi-Fi během přenosu.</string>
   <string name="sender_wait">Čekání</string>
   <string name="sender_wait_queue">Čekání</string>
+  <string name="source_file_missing">Soubor neexistuje</string>
   <string name="transfer_interrupt">Přenos přerušen</string>
   <string name="transmission_connect">Příjemce nenalezen</string>
-  <string name="HIPS_Perm_External_Storage">Přístup a změna souborů na úložišti</string>
-   <string name="HIPS_Perm_Location">Získat polohu</string>
-   <string name="HIPS_Perm_PhoneID">Získat informace o zařízení</string>
-   <string name="HIPS_Perm_Settings">Změnit nastavení</string>
-   <string name="HIPS_Perm_WIFI_Connectivity">Změnit Wi-Fi připojení</string>
-   <string name="HIPS_Perm_background_start_activity">Spuštění na pozadí</string>
-   <string name="HIPS_Perm_get_accounts">Přístup k účtům v zařízení</string>
-   <string name="HIPS_Perm_get_installed_apps">Získat seznam nainstalovaných aplikací</string>
-   <string name="btn_goto_grant">Povolit</string>
-   <string name="description_content">MiDrop poskytuje přenos souborů mezi zařízeními.</string>
-   <string name="description_title">Co je to MiDrop</string>
-   <string name="request_permission_msg">MiDrop vyžaduje %s, povolte oprávnění</string>
-   <string name="request_permission_title">Povolení</string>
-   <string name="drive_low_memory_description_content">Dochází vám volné místo na úložišti. Chcete uvolnit místo?</string>
-   <string name="drive_low_memory_description_title">Málo volného místa</string>
-   <string name="drive_low_memory_description_toast">Dochází vám volné místo na úložišti</string>
-   <string name="drive_low_memory_positive_content">Vyčistit</string>
-   <string name="source_file_missing">Soubor neexistuje</string>
-   <string name="HIPS_Perm_SystemAlert">Zobrazit vyskakovací okno</string>
-  <string name="HIPS_Perm_show_when_locked">Zobrazit na zamykací obrazovce</string>
 </resources>

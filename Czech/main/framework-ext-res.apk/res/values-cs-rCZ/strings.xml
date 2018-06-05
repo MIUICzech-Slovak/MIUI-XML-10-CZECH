@@ -18,6 +18,7 @@
   <string name="auto_start_warning_allow">Povolit</string>
   <string name="auto_start_warning_deny">Odmítnout</string>
   <string name="auto_start_warning_title">Povolit aplikaci %s spouštět se automaticky?</string>
+  <string name="autofill">Auto. vyplnit</string>
   <string name="button_text_cancel">Zrušit</string>
   <string name="button_text_delete">Vymazat</string>
   <string name="button_text_delete_timer">Vymazat (%d)</string>
@@ -68,6 +69,7 @@
   <string name="maml_component_customization_title">Nastavení</string>
   <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
   <string name="memory_clear_result">"Uvolněno: %1$sB \nDostupné: %2$sB"</string>
+  <string name="miui_forbid_poweroff_when_device_locked">Nelze vypnout. Zařízení je uzamčeno.</string>
   <string name="miui_screen_ratio_hint">Chyba poměru stran</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Znovu nezobrazovat</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Jděte to Nastavení</string>
@@ -151,6 +153,7 @@
   <string name="status_bar_toggle_vibrate">Vibrace</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+  <string name="super_resolution_maintain_tips">Super rozlišení není dostupné.</string>
   <string name="switch_brand_desc_tv">Zabezpečení je poskytováno Graphite</string>
   <string name="switch_desc_tv">Dva profily. Jedno zařízení.</string>
   <string name="switching_tv">Přepínání...</string>
@@ -162,10 +165,7 @@
   <string name="twohours">1 hodina</string>
   <string name="unknown_caller">Neznámé číslo</string>
   <string name="user_switching_dialog_text">Přepínání...</string>
+  <string name="wifi_assistant_wifi_no_internet">Tato Wi-Fi síť nemá přístup na internet</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
-  <string name="autofill">Auto. vyplnit</string>
-  <string name="miui_forbid_poweroff_when_device_locked">Nelze vypnout. Zařízení je uzamčeno.</string>
-     <string name="super_resolution_maintain_tips">Super rozlišení není dostupné.</string>
-     <string name="wifi_assistant_wifi_no_internet">Tato Wi-Fi síť nemá přístup na internet</string>
-     <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
 </resources>

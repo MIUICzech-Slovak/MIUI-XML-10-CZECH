@@ -2,6 +2,7 @@
 <resources>
   <string name="app_info">Nahrávání, dotykem zastavíte</string>
   <string name="app_name">Nahrávání plochy</string>
+  <string name="app_notification_info">Nahávání plochy je spuštěno na pozadí</string>
   <string name="app_notification_title">Nahrávání plochy</string>
   <string name="auto_stop_title">Video uloženo</string>
   <string name="battery_not_allowed">Nelze nahrávat plochu, pokud je apacita baterie menší, než 3%%. Je nutné nabít baterii alespoň na 20%%.</string>
@@ -13,15 +14,21 @@
   <string name="button_confirm">OK</string>
   <string name="button_goon_recorder">Pokračovat</string>
   <string name="cancel_edit">Zrušit</string>
+  <string name="cannot_change_frames">Snímkovací frekvence může být nastavena pouze v případě, kdy používáte fixní hodnotu.</string>
   <string name="cannot_change_parames">Nelze měnit nastavení během nahrávání</string>
   <string name="cannot_record">Nelze nahrát, zkuste to znovu později.</string>
+  <string name="close_screen_record">Nahrávání ukončeno</string>
   <string name="date_month">-</string>
   <string name="date_year">-</string>
   <string name="delete_confirm_text">Vymazat tuto nahrávku?</string>
   <string name="delete_confirm_text_multi1">Vymazat</string>
   <string name="delete_confirm_text_multi2">nahrávky?</string>
+  <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
+  <string name="description_title">Co je nahrávání plochy</string>
   <string name="deselect_all">Odznačit</string>
   <string name="error_open_file_failed_no_app_found">Nelze otěvřít tento soubor</string>
+  <string name="fixed_frame_rate">Fixní snímkovací frekvence</string>
+  <string name="fixed_frame_rate_summary">Nahrávání s fixní snímkovací frekvencí vylepšuje kvalitu nahrávky.</string>
   <string name="frames">Počet snímků</string>
   <string name="frames_summary">Více snímků eliminuje rozmazání při pohybu</string>
   <string name="frequently_click_toast">Probíhá spouštění služby, čekejte prosím...</string>
@@ -33,6 +40,9 @@
   <string name="hint_volume_down">Hlasitost dolů</string>
   <string name="hint_volume_up">Hlasitost nahoru</string>
   <string name="home_title_none">Vyberte položky</string>
+  <string name="is_checked">Vybráno</string>
+  <string name="is_go_home">Zpět do nahrávání</string>
+  <string name="is_go_home_summary">Otevřít aplikaci po ukončení nahrávání</string>
   <string name="loopback_sound">Systémové zvuky</string>
   <string name="low_battery">Nejprve nabijte baterii před spuštěním nahrávání</string>
   <string name="low_battery_title">Slabá baterie</string>
@@ -51,6 +61,7 @@
   <string name="quit_recording">Ukončeno</string>
   <string name="recording_failure">Poslední nahrávání selhalo, spusťte nahrávání znovu</string>
   <string name="recording_max_size">Nahrávání bylo zastaveno a uloženo z důvodu maximální velikosti souboru. Můžete spustit nahrávání znovu a pokračovat.</string>
+  <string name="recording_without_mic">Mikrofon je využíván jinou aplikací</string>
   <string name="resolution">Rozlišení</string>
   <string name="resolution_summary">Videa ve vysokém rozlišení jsou ostřejší</string>
   <string name="screen_orientation">Orientace</string>
@@ -58,6 +69,7 @@
   <string name="screen_record_option">Natavení nahrávání</string>
   <string name="screen_record_params">Parametry nahrávání</string>
   <string name="select_all">Vše</string>
+  <string name="settings">Nastavení</string>
   <string name="show_hard_key">Zobrazit navigační tlačítka</string>
   <string name="show_hard_key_summary">Zobrazit upozornění při stisku Domů, Menu a Zpět</string>
   <string name="show_screen_touch">Zobrazit dotyky</string>
@@ -70,18 +82,6 @@
   <string name="stop_record_while_locking">Uzamčení zastaví nahrávání</string>
   <string name="stop_record_while_locking_summary">Ukončit nahrávání a uložit nahrávku uzamčením obrazovky</string>
   <string name="stop_recording">Zastavit nahrávání</string>
-  <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
-  <string name="description_title">Co je nahrávání plochy</string>
-  <string name="app_notification_info">Nahávání plochy je spuštěno na pozadí</string>
-  <string name="recording_without_mic">Mikrofon je využíván jinou aplikací</string>
-  <string name="cannot_change_frames">Snímkovací frekvence může být nastavena pouze v případě, kdy používáte fixní hodnotu.</string>
-  <string name="close_screen_record">Nahrávání ukončeno</string>
-  <string name="fixed_frame_rate">Fixní snímkovací frekvence</string>
-  <string name="fixed_frame_rate_summary">Nahrávání s fixní snímkovací frekvencí vylepšuje kvalitu nahrávky.</string>
-  <string name="is_checked">Vybráno</string>
-  <string name="is_go_home">Zpět do nahrávání</string>
-  <string name="is_go_home_summary">Otevřít aplikaci po ukončení nahrávání</string>
-  <string name="settings">Nastavení</string>
   <string name="storage_location">Úložiště</string>
   <string name="storage_location_summary">Vyberte úložiště pro uložení nahrávky</string>
   <string name="unchecked">Žádné</string>

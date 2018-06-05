@@ -8,6 +8,7 @@
   <string name="ble_device_rename">Přejmenovat</string>
   <string name="bluetooth_connected">Připojeno</string>
   <string name="bluetooth_connecting">Připojování...</string>
+  <string name="bluetooth_device_context_unpair">Odpárovat</string>
   <string name="bluetooth_disconnected">Odpojeno</string>
   <string name="bluetooth_disconnecting">Odpojování...</string>
   <string name="bluetooth_preference_connected_devices">Připojené zařízení</string>
@@ -33,7 +34,6 @@
   <string name="mi_key_summary_find_phone">Stiskněte a podržte MiKey pro vyzvánění</string>
   <string name="mi_key_summary_open_camera">Dvojitý stisk MiKey otevře fotoaparát</string>
   <string name="mi_key_summary_take_photo">Stiskněte MiKey pro zhotovení fotografie</string>
-  <string name="bluetooth_device_context_unpair">Odpárovat</string>
   <string name="mi_key_take_photo">Zhotovit fotografii</string>
   <string name="notify_device_lose_connection_text">Dotykem odpojíte %1$s.</string>
   <string name="notify_device_lose_connection_title">Zařízení %1$s není připojeno</string>

@@ -119,10 +119,10 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="phone_verify_processing">Ověřování...</string>
   <string name="phone_verify_text">%1$s nepoužije vaše telefonní číslo, pouze jej ověří.</string>
   <string name="phone_verify_title">Souhlasím s %1$s pro ověření vašeho telefonního čísla</string>
+  <string name="privacy_revoke_failed_msg">Aktivace vyžaduje získání autorizace pro používání Vašeho telefonního čísla.</string>
+  <string name="privacy_revoke_tips">Pokud odmítnete autorizaci, Zprávy se nebudou zálohovat a data budou vymazána ze serveru. Synchronizaci s MiCloud, Cloudové zprávy a ostatní funkce zpráv nebudou dostupné. Opravdu odmítnout autorizaci?</string>
   <string name="sim_unactivated_title">Vaše SIM karta není aktivovaná</string>
   <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="privacy_revoke_failed_msg">Aktivace vyžaduje získání autorizace pro používání Vašeho telefonního čísla.</string>
-  <string name="privacy_revoke_tips">Pokud odmítnete autorizaci, Zprávy se nebudou zálohovat a data budou vymazána ze serveru. Synchronizaci s MiCloud, Cloudové zprávy a ostatní funkce zpráv nebudou dostupné. Opravdu odmítnout autorizaci?</string>
 </resources>
