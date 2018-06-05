@@ -1785,7 +1785,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="accessibility_recent_task_unlocked_state">Odemknuto</string>
      <string name="auto_disable_screenbuttons_disable_toast_text">Navigation buttons disabled, double tap any button to turn them back on.</string>
      <string name="auto_disable_screenbuttons_enable_toast_text">Navigation buttons enabled</string>
-     <string name="back">Back</string>
+     <string name="back">Zpět</string>
      <string name="car_lockscreen_disclaimer_text">Stay fully aware of driving conditions and always obey applicable laws. Directions may be inaccurate, incomplete, dangerous, not suitable, prohibited, or involve crossing administrative areas. Business information may also be inaccurate or incomplete. Data is not real-time, and location accuracy cannot be guaranteed. Do not handle your mobile device or use apps not intended for Android Auto while driving.</string>
      <string name="car_lockscreen_disclaimer_title">Drive safely</string>
      <string name="change_theme_reboot">Změna téma vyžaduje restart zařízení.</string>
