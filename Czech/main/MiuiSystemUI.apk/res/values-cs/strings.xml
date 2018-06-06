@@ -1326,7 +1326,7 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
   <string name="qs_customize">Povolit přizpůsobení přepínačů</string>
   <string name="qs_customize_info">Info</string>
   <string name="qs_customize_remove">Odebrat</string>
-  <string name="qs_customize_title">Uúravit</string>
+  <string name="qs_customize_title">Upravit</string>
   <string name="qs_dnd_keep">Zachovat</string>
   <string name="qs_dnd_prompt_app">Režim Nerušit byl zapnut aplikací (%s).</string>
   <string name="qs_dnd_prompt_auto_rule">Režim Nerušit byl zapnut automatickým pravidlem (%s).</string>
