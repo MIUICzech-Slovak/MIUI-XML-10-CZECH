@@ -995,7 +995,6 @@ Zkuste to znovu za %2$d s."</string>
   <string name="left_keycode">Klávesa vlevo</string>
   <string name="left_nav_bar_button_type">Zvláštní typ tlačítka vlevo</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading_desktop">Načítání...</string>
   <string name="local_backup_password_summary_change">Tuto možnost vyberte, chcete-li změnit nebo odebrat heslo pro úplné zálohy do počítače</string>
   <string name="local_backup_password_summary_none">Úplné zálohy v počítači nejsou v současné době chráněny</string>
