@@ -870,7 +870,6 @@ Použijte síťovou nabíječku."</string>
   <string name="keyguard_missing_sim_instructions_long">SIM karta chybí nebo je nečitelná. Vložte SIM kartu.</string>
   <string name="keyguard_missing_sim_message">V telefonu není SIM karta.</string>
   <string name="keyguard_missing_sim_message_short">Není vložena SIM karta</string>
-  <string name="keyguard_more_overflow_text">+%d</string>
   <string name="keyguard_network_locked_message">Síť je blokována</string>
   <string name="keyguard_password_enter_password_code">Zadejte heslo pro odemknutí</string>
   <string name="keyguard_password_enter_pin_code">Zadejte kód PIN</string>
@@ -1596,7 +1595,6 @@ d. MMMM"</string>
   <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
   <string name="status_bar_network_flow_purchase">" | Zakoupit &gt;"</string>
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">Žádná oznámení</string>
   <string name="status_bar_no_recent_apps">Žádné nové aplikace</string>
   <string name="status_bar_notification_app_settings_title">Nastavení aplikace %s</string>
