@@ -2832,4 +2832,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wlan_change_protection_title">Zamezit změnu sítě</string>
   <string name="wrong_password">Nesprávné heslo</string>
   <string name="xunyou_server_expired">Relace vypršela</string>
+  <string name="app_manager_details_title">Informace o aplikaci</string>
 </resources>

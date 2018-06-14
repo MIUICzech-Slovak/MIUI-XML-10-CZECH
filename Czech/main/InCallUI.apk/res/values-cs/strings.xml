@@ -253,4 +253,5 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
+  <string name="conference_call_recorder_title">Konferenční hovor</string>
 </resources>

@@ -589,5 +589,16 @@
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
+  <string name="edit_chin">Brada</string>
+  <string name="edit_lips">Rty</string>
+  <string name="edit_neck">Krk</string>
+  <string name="edit_nose">Nos</string>
+  <string name="edit_risorius">Risorius</string>
+  <string name="edit_slim_nose">Nos</string>
+  <string name="edit_smile">Usměv</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D zkrášlení</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Vysoká kompatibilita</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Vysoká kvalita</string>
+  <string name="pref_video_encoder_title">Kódování videa</string>
   <string name="wait">Čekejte prosím...</string>
 </resources>

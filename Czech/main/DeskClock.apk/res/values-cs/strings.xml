@@ -205,4 +205,6 @@
   <string name="worldcolock_timezone_date">MMM dd</string>
   <string name="worldcolock_timezone_gap">Hodina</string>
   <string name="worldcolock_timezone_local">Stejný čas jako u vás</string>
+  <string name="open_keep_screen">Displej zůstane zapnutý</string>
+  <string name="shut_down_keep_screen">Displej se vypne</string>
 </resources>
