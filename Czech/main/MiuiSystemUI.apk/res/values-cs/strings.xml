@@ -1413,7 +1413,6 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
   <string name="quick_settings_night_secondary_label_on_at">Zapnuto v %s</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Zapnuto od západu slunce</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Do východu slunce</string>
-  <string name="notification_channel_battery">Baterie</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
   <string name="quick_settings_rssi_emergency_only">Pouze tísňová volání</string>
   <string name="quick_settings_rssi_label">RSSI</string>
