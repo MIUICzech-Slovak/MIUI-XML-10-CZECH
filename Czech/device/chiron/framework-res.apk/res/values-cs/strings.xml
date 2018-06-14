@@ -1366,4 +1366,5 @@ Chcete ji zavřít?"</string>
   <string name="zen_mode_forever">Dokud nevypnete režim Nerušit</string>
   <string name="zen_mode_forever_dnd">Dokud nevypnete režim Nerušit</string>
   <string name="zen_mode_until">Do %1$s</string>
+  <string name="tethered_notification_no_device_message">Nikdo není připojen</string>
 </resources>
