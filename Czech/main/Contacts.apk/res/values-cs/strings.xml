@@ -968,6 +968,7 @@ Synchronizujte je nyní."</string>
   <string name="preference_display">Zobrazit</string>
   <string name="preference_displayOptions">Možnosti zobrazení</string>
   <string name="preference_display_contact">Nastavení zobrazení</string>
+  <string name="no_setting_menu">Nastavení menu není dostupné</string>
   <string name="preference_export">Export</string>
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>

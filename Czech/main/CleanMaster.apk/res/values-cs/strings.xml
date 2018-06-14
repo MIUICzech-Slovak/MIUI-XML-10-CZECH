@@ -118,6 +118,12 @@
   <string name="clean_content_all">Vše</string>
   <string name="clean_content_one">1 položku</string>
   <string name="clean_content_three">3 položky</string>
+  <string name="tips_low_storage_dialog_cancel">Zrušit</string>
+  <string name="tips_low_storage_dialog_msg_storage">Máte zaplněno 90% interního úložiště. Odinstalujte nepoužívané aplikace.</string>
+  <string name="tips_low_storage_dialog_ok">Vyčistit</string>
+  <string name="tips_low_storage_dialog_ok_storage">Uvolnit místo</string>
+  <string name="tips_low_storage_dialog_title">Dochází volné místo</string>
+  <string name="menu_open">Otevřít</string>
   <string name="clean_content_two">2 položky</string>
   <string name="clean_content_zero">Nic</string>
   <string name="clean_long_msg">"Čištění %1$d souborů,%2$d dokončeno 

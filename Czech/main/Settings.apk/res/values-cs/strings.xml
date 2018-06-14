@@ -5200,6 +5200,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wifi_traffic_priority_regular">Normální režim</string>
   <string name="wifi_traffic_priority_regular_summary">Sdílet pásmo mezi aplikacemi v popředí a na pozadí</string>
   <string name="wifi_traffic_priority_summary">Upřednostnit rychlost připojení automaticky</string>
+  <string name="notch_force_black_desc">Pokud je zapnuto, oblast výřezu bude černá</string>
+  <string name="notch_force_black_title">Skrýt výřez na displeji</string>
   <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(nezměněno)</string>
