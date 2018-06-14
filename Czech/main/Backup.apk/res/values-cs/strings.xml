@@ -540,4 +540,59 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
+  <string name="feature_title_contacts">Kontakty</string>
+  <string name="feature_title_sms">SMS</string>
+  <string name="flash_drive_backup_btn">Zálohovat na USB úložiště</string>
+  <string name="flash_drive_backup_note">"Zálohovat aplikace na USB úložiště.
+Ujistěte se, že na USB úložišti je dostatek volného místa."</string>
+  <string name="flash_drive_backup_restore">USB zálohy</string>
+  <string name="flash_drive_connection_failed">USB úložiště je odpojeno</string>
+  <string name="flash_drive_restore_btn">Obnovit z USB klíče</string>
+  <string name="flash_drive_search_backup_files">"Vyhledávání zálohy na USB úložišti...
+Neměňte a nepřejmenovávejte zálohy."</string>
+  <string name="lack_perm_msg">Přenos vyžaduje tato povolení: %s.</string>
+  <string name="lack_perm_title">Jsou vyžadována povolení</string>
+  <string name="perm_camera">Fotoaparát</string>
+  <string name="perm_location">Poloha</string>
+  <string name="perm_read_call_log">Číst historii hovorů</string>
+  <string name="perm_read_contacts">Číst kontakty</string>
+  <string name="perm_read_phone_state">Číst stav zařízení</string>
+  <string name="perm_read_sms">Číst SMS</string>
+  <string name="perm_storage">Číst a zapisovat na externí úložiště</string>
+  <string name="platform_chooser_item_android_mi">MiPhone</string>
+  <string name="platform_chooser_item_android_others">Jiné značky</string>
+  <string name="storage_sd_card">SD karta</string>
+  <string name="storage_usb">USB úložiště</string>
+  <string name="trans_calculating_app_sd_description">Data na SD kartě</string>
+  <string name="trans_calculating_media_description">Multimediální soubory</string>
+  <string name="trans_calculating_tip">Výpočet %s...</string>
+  <string name="trans_install_guide_button_start">Start</string>
+  <string name="trans_install_guide_page_title">Nainstalujte Mi Přenos na na Vašem starém telefonu</string>
+  <string name="trans_install_guide_scan_install_tip">"Načtěte tento QR kód s vašim starým telefonem
+pro stažení aplikace Mi Přenos."</string>
+  <string name="trans_install_guide_step1_content">Načtěte QR kód s vašim starým telefonem pro stažení aplikace \"Mi Přenos\".</string>
+  <string name="trans_install_guide_step1_title">Krok 1</string>
+  <string name="trans_install_guide_step2_content">Po dokončení instalace stiskněte \"Start\".</string>
+  <string name="trans_install_guide_step2_title">Krok 2</string>
+  <string name="trans_intro_desc_4_market">"Mi Přenos používá Wi-Fi na přenos souborů. Proto není dostupné připojení Wi-Fi při přenosu souborů."</string>
+  <string name="trans_intro_desc_old_market">Stiskněte \"Start\". Načtěte QR kód na novém telefonu a stiskněte \"Odeslat\".</string>
+  <string name="trans_open_camera_failed_message">Restartujte své zařízení pro kontrolu, zda Mi Přenos má přístup k fotoaparátu.</string>
+  <string name="trans_open_camera_failed_title">Nelze připojit fotoaparát</string>
+  <string name="trans_open_location_button">Povolit</string>
+  <string name="trans_open_location_message">Povolit přístup k poloze pro načtení dostupných Wi-Fi sítí.</string>
+  <string name="trans_open_location_title">Povolit přístup k poloze</string>
+  <string name="trans_operate_tip_for_other_android">Otevřte Mi Přenos na starém telefonu, stiskněte \"Start\" a načtěte QR kód.</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Ohodnoťte Mi Přenos</string>
+  <string name="trans_success_dialog_market_comment_title">"Vaše nové zařízení je nyní zkopírováno.
+Líbí se vám Mi Přenos?"</string>
+  <string name="usb_backup_select_data_too_large">"Vybrané soubory jsou příliš velké. Ujistěte se, že máte dostatek volného místa na USB úložišti.
+Přeneste pouze důležité soubory."</string>
+  <string name="usb_restore_select_data_too_large">"Zálohované soubory jsou příliš velké. Jejich obnovení může chvíli trvat.
+Obnovení pouze důležitých souborů bude rychlejší."</string>
+  <string name="usb_trans_native_no_space">"Je k dispozici pouze %s ve vašem zařízení.
+Uvolněte prostor nebo přeneste méně souborů."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Je vyžadováno dodatečné úložiště pro přenos. Nedostatek místa pro pokračování v přenosu."</string>
+  <string name="usb_trans_old_phone_low_space_title">Není dostatek volného místa</string>
+  <string name="usb_trans_select_data_no_space">"Je k dispozici pouze %s na USB úložišti.
+Uvolněte prostor nebo přeneste méně souborů."</string>
 </resources>

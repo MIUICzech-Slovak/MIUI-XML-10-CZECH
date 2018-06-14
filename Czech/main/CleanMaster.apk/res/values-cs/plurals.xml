@@ -101,4 +101,14 @@
         <item quantity="other">%1$d s</item>
         <item quantity="one">%1$d s</item>
      </plurals>	
+     <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Čištění %1$d souborů, %2$d dokončeno
+"</item>
+        <item quantity="one">"Čistí se %1$d soubor, %2$d dokončeno 
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d%% položek/s zbývá: %2$s</item>
+        <item quantity="one">%1$d%% položek/s zbývá: %2$s</item>
+    </plurals>	 
 </resources>

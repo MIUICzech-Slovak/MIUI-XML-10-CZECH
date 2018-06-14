@@ -160,7 +160,7 @@
   <string name="guide_install_app_title">Instalovat aplikaci</string>
   <string name="guide_tips_editing_mode">Podržte prst na widgetu pro jeho přetažení na obrazovku</string>
   <string name="home_screen">Domácí obrazovka</string>
-  <string name="icon_reorganize_channel">图标整理</string>
+  <string name="icon_reorganize_channel">Uspořádat ikony</string>
   <string name="image_too_small_message">Obrázek nemá dostatečnou velikost</string>
   <string name="install">Instalovat</string>
   <string name="invalid_contact_shortcut">Neplatný zástupce kontaktu</string>
@@ -212,7 +212,9 @@
   <string name="notification_open_button">Otevřít</string>
   <string name="notification_reset_description">%1$s%1$s Může obnovit Launcher do %2$s</string>
   <string name="notification_reset_duration">Za 2 hodiny,</string>
-  <string name="notification_reset_title">Čištění dokončeno</string>
+  <string name="notification_reset_title">Uspořádání ikon dokončeno</string>
+  <string name="reset_description_first_time">Můžete obnovit rozložení ikon z %1$s do 2 hodin</string>
++  <string name="reset_description_others">Můžete obnovit rozložení ikon z %1$s</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Zrušit</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovat</string>

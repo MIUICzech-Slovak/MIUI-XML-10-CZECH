@@ -601,4 +601,8 @@
   <string name="pref_video_encoder_entry_h265">H.265 Vysoká kvalita</string>
   <string name="pref_video_encoder_title">Kódování videa</string>
   <string name="wait">Čekejte prosím...</string>
+  <string name="lens_dirty_detected_content">"Máte znečištěný objektiv fotoaparátu,
+vyčistěte jej pro ostřejší fotografie."</string>
+  <string name="lens_dirty_detected_title_back">Zadní fotoaparát je znečištěn</string>
+  <string name="lens_dirty_detected_title_front">Přední fotoaparát je znečištěn</string>
 </resources>

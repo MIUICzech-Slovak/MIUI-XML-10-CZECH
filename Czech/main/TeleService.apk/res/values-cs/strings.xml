@@ -1308,4 +1308,11 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="preferred_wificall_title">Nastavení sítě</string>
+  <string name="wfcmode_mobile_preferred">Preferovat mobilní</string>
+  <string name="wfcmode_wifi_only">Jen Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Preferovat Wi-Fi</string>
+  <string name="wifi_call_setting">Wi-Fi volání</string>
+  <string name="wificall_switch_summary">Vaše zařízení může přepínat mezi Wi-Fi a VoLTE v případě slabého připojení</string>
+  <string name="wificall_switch_title">Hovory přes Wi-Fi</string>
 </resources>
