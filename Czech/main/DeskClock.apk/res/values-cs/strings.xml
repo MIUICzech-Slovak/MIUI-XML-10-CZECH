@@ -109,8 +109,9 @@
   <string name="minute">1 min.</string>
   <string name="minutes">%d min.</string>
   <string name="module_download_cancel">Později</string>
-  <string name="module_download_data_msg">Pro funkci inteligentního budíku, zvuků přírody a narozenin vyžaduje aplikace přístup ke kontaktům a k síti. Použít datové připojení pro stažení nových zvuků?</string>
-  <string name="module_download_data_msg_golbal">Pro funkci inteligentního budíku a zvuků přírody je vyžadováno stažení nových zvuků. Použít datové připojení pro stažení nových zvuků?</string>
+  <string name="module_download_data_msg">Pro funkci inteligentního budíku, zvuků přírody a narozenin vyžaduje aplikace přístup ke kontaktům a k síti. Použít datové připojení pro stažení nových zvuků (20MB)?</string>
+  <string name="module_download_data_msg_golbal">Pro funkci inteligentního budíku a zvuků přírody je vyžadováno stažení nových zvuků. Použít datové připojení pro stažení nových zvuků (20MB)?</string>
+   <string name="dialog_message_not_remind">Znovu nezobrazovat</string>
   <string name="module_download_fail">Nelze stáhnout zvuky</string>
   <string name="module_download_msg">Pro funkci inteligentního budíku, zvuků přírody a narozenin vyžaduje aplikace přístup ke kontaktům a k síti. Souhlasíte?</string>
   <string name="module_download_msg_golbal">Pro funkci inteligentního budíku a zvuků přírody je vyžadováno stažení nových zvuků. Souhlasíte?</string>

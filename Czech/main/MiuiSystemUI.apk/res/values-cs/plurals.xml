@@ -137,4 +137,8 @@
        <item quantity="other">Zkuste to znovu za %d sekund</item>
        <item quantity="one">Zkuste to znovu za %d sekundu</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">Kategorií: %d</item>
+        <item quantity="one">Kategorií: %d</item>
+    </plurals>	 
 </resources>
