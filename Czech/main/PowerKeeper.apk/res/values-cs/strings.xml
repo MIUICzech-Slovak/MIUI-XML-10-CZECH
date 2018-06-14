@@ -19,7 +19,7 @@
   <string name="alter_message_switch_mode_message">Pokud změníte režimy, vaše předchozí nastavení nebudou znovu použita pro tuto aplikaci.</string>
   <string name="app_frozen_app_list_summary">Nastavení apl.</string>
   <string name="app_invisible_title">Skrytá apl.</string>
-  <string name="app_list_title">Vyberte apl.</string>
+  <string name="app_list_title">Vyberte aplikace</string>
   <string name="app_list_total">%d apl.</string>
   <string name="app_name">Úspora baterie</string>
   <string name="background">Aplikace je na pozadí</string>
