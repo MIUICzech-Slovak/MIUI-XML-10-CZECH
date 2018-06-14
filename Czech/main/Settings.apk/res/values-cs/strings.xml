@@ -3966,7 +3966,6 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_all_app_display_loading">Načítání...</string>
   <string name="status_bar_settings_app_notification_preferences">Nastavení aplikace</string>
   <string name="status_bar_settings_basic_settings">Základní nastavení</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Upravit název operátora</string>
   <string name="status_bar_settings_custom_notification">Správa notifikací</string>
   <string name="status_bar_settings_custom_wifi_name">Upravit název Wi-Fi</string>
