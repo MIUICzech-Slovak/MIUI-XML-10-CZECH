@@ -1306,4 +1306,16 @@
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
   <string name="you_are"/>
+  <string name="checked">Vybráno</string>
+  <string name="checked_something">Vybráno: %s</string>
+  <string name="enter_choice_mode">Dialog sdílení</string>
+  <string name="exit_choice_mode">Dialog sdílení</string>
+  <string name="feature_guidance_photo_effects">Efekty</string>
+  <string name="image_with_time">Fotografie vytvořena v %s</string>
+  <string name="image_with_time_and_location">Fotografie vytvořena v %1$s. Poloha: %2$s.</string>
+  <string name="storage_description_usb">USB úložiště</string>
+  <string name="unchecked">Odznačeno</string>
+  <string name="unchecked_something">Odznačeno %s</string>
+  <string name="video_with_time">Video vytvořeno v %s</string>
+  <string name="video_with_time_and_location">Video vytvořeno v %1$s. Poloha: %2$s.</string>
 </resources>

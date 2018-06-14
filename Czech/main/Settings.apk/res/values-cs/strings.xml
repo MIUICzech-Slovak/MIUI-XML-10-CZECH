@@ -1202,7 +1202,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="details_title">Podrobnosti využívání</string>
   <string name="dev_settings_warning_message">Tato nastavení jsou určena pouze pro vývojáře. Mohou způsobit rozbití nebo nesprávné fungování zařízení a nainstalovaných aplikací.</string>
   <string name="dev_settings_warning_title">Povolit nastavení pro vývojáře?</string>
-  <string name="developer_build">" | Týdenní"</string>
+  <string name="developer_build">Týdenní</string>
   <string name="development_enable">Povolit vývoj</string>
   <string name="development_settings_not_available">Pro tohoto uživatele jsou možnosti vývojáře nedostupné.</string>
   <string name="development_settings_summary">Umožňuje nastavit možnosti pro vývoj aplikací</string>
@@ -5376,4 +5376,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="miui_lab_ai_cloud_closed">"AI přednačítání není dostupné.</string>
   <string name="miui_lab_ai_preload_desc">AI přednačítání zvyšuje rychlost spouštění aplikací</string>
   <string name="miui_lab_ai_preload_title">AI přednačítání</string>  
+  <string name="wifi_click_login_wlan">Vyžaduje přihlášení/autorizaci</string>
 </resources>
