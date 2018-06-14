@@ -5373,4 +5373,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="miui_lab_ai_cloud_closed">"AI přednačítání není dostupné.</string>
+  <string name="miui_lab_ai_preload_desc">AI přednačítání zvyšuje rychlost spouštění aplikací</string>
+  <string name="miui_lab_ai_preload_title">AI přednačítání</string>  
 </resources>

@@ -168,4 +168,5 @@
   <string name="wifi_assistant_wifi_no_internet">Tato Wi-Fi síť nemá přístup na internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
+  <string name="resolver_app_recommend_flag">Doporučené</string>
 </resources>
