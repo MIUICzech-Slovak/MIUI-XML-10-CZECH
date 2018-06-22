@@ -5376,4 +5376,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="miui_lab_ai_preload_desc">AI přednačítání zvyšuje rychlost spouštění aplikací</string>
   <string name="miui_lab_ai_preload_title">AI přednačítání</string>  
   <string name="wifi_click_login_wlan">Vyžaduje přihlášení/autorizaci</string>
+  <string name="cancel_description">Zrušiť</string>
+  <string name="confirm_description">Potvrdit</string>
+  <string name="fallback_home_title">Načítání...</string>
+  <string name="key_fsg_dialog_message">Používáte ovládání gesty. Funkce, které se ovládají tlačítky nejsou dostupné. Chcete přepnout na ovládání tlačítky?</string>
+  <string name="key_fsg_dialog_negative">Zrušit</string>
+  <string name="key_fsg_dialog_positive">Přepnout</string>
 </resources>
