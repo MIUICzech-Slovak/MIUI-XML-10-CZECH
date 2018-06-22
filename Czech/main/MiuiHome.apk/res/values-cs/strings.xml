@@ -327,4 +327,6 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
   <string name="widget_quick_function">Zkratky</string>
+  <string name="default_folder_title_services">Služby</string>
+  <string name="open_personal_assistant_dialog_desc_international">Nebude možné využívat karty asistenta.</string>
 </resources>
