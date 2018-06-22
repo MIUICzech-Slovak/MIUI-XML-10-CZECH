@@ -52,4 +52,8 @@
   <string name="shake_enter_tip">Zatřesením zkalibrujete</string>
   <string name="using_camera_confirm_cancel">Ukončit</string>
   <string name="using_camera_confirm_ok">OK</string>
+  <string name="allow">Povoliť</string>
+  <string name="cancel">Zrušit</string>
+  <string name="open_perm_msg">Kompas vyžaduje přístup k poloze a fotoaparátu. Povolit?</string>
+  <string name="open_perm_title">Jsou vyžadována povolení</string>
 </resources>
