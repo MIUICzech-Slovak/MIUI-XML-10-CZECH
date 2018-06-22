@@ -430,7 +430,6 @@ Přejděte na stránku google.com/accounts/recovery"</string>
   <string name="kg_reordering_delete_drop_target_text">Odebrat</string>
   <string name="kg_sim_pin_instructions">Zadejte kód PIN SIM karty</string>
   <string name="kg_sim_unlock_progress_dialog_message">Odblokování SIM karty...</string>
-  <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Zkuste to znovu za %1$d s.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Již %dkrát jste nesprávně zadali heslo. 
 
