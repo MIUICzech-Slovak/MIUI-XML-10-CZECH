@@ -595,4 +595,11 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="usb_trans_old_phone_low_space_title">Není dostatek volného místa</string>
   <string name="usb_trans_select_data_no_space">"Je k dispozici pouze %s na USB úložišti.
 Uvolněte prostor nebo přeneste méně souborů."</string>
+<string name="err_acquire_system_service">Nelze spustit službu.</string>
+  <string name="trans_button_exit">Ukončit</string>
+  <string name="trans_button_stay">Zůstat</string>
+  <string name="trans_cancel_selection_message">Pokud ukončíte aplikaci Přenos, samotný přenos bude ukončen.</string>
+  <string name="trans_cancel_selection_title">Zůstat v Přenosu</string>
+  <string name="trans_select_notification_message">Dotykem zobrazíte</string>
+  <string name="trans_select_notification_title">Přenos pracuje...</string>
 </resources>

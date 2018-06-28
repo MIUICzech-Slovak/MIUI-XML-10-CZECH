@@ -261,4 +261,8 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
+  <string name="actionbar_close_description">Zavřít</string>
+  <string name="actionbar_home_description">Zpět</string>
+  <string name="menu_more_description">Více</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">Tato funkce není dostupná v režimu rozdělené obrazovky</string>
 </resources>

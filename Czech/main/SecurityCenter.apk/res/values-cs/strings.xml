@@ -2833,4 +2833,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wrong_password">Nesprávné heslo</string>
   <string name="xunyou_server_expired">Relace vypršela</string>
   <string name="app_manager_details_title">Informace o aplikaci</string>
+  <string name="notify_channel_name_security">Bezpečnost systému</string>
 </resources>

@@ -5382,4 +5382,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="key_fsg_dialog_message">Používáte ovládání gesty. Funkce, které se ovládají tlačítky nejsou dostupné. Chcete přepnout na ovládání tlačítky?</string>
   <string name="key_fsg_dialog_negative">Zrušit</string>
   <string name="key_fsg_dialog_positive">Přepnout</string>
+  <string name="sim_management_title_singlesim">SIM karta a sítě</string>
+  <string name="lockpassword_choose_your_pin_title">Zadejte 4-16 čísel</string>
+  <string name="add_fingerprint_dirty_fingerprint">Ujistěte se, že je povrch displeje čistý. Zkuste nastavit otisk prtu znovu.</string>
+  <string name="add_fingerprint_move_fast">Podržte prst o něco déle</string>
 </resources>

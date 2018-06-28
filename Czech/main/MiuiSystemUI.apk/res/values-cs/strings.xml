@@ -1870,4 +1870,8 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="zen_priority_introduction">Nebudou vás rušit zvuky ani vibrace s výjimkou budíků, upozornění, událostí a volajících, které zadáte. Nadále uslyšíte veškerý obsah, který si sami pustíte (např. hudba, videa nebo hry).</string>
   <string name="zen_silence_introduction">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her.</string>
   <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
+  <string name="accessibility_menu_item_split_disable">Aplikace nepodporuje rozdělení obrazovky.</string>
+  <string name="accessibility_menu_item_split_enable">Aplikace podporuje rozdělení obrazovky</string>
+  <string name="accessibility_splite_screen_primary">Přidat do primární rozdělené obrazovky</string>
+  <string name="accessibility_splite_screen_secondary">Přidat do sekundární rozdělené obrazovky</string>
 </resources>
