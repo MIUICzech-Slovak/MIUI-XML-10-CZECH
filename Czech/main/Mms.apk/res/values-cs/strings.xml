@@ -381,7 +381,7 @@
   <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
   <string name="need_download">Čekání na synchr...</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Mi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc">Cloudové zprávy vyžadují přístup k internetu pro jejich správné fungování.</string>
   <string name="networking_allow_desc_without_mx">Inteligentní zprávy umožňují rozpoznávání neznámých čísel, filtrovat spam, atd. Používáním této služby souhlasíte s Mi %1$s a %2$s.</string>
   <string name="networking_allow_title">Upozornění</string>
   <string name="new_message">Nová zpráva</string>
