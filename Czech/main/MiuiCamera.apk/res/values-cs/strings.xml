@@ -606,4 +606,5 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="lens_dirty_detected_title_back">Zadní fotoaparát je znečištěn</string>
   <string name="lens_dirty_detected_title_front">Přední fotoaparát je znečištěn</string>
   <string name="back_bokeh_use_hint">Ujistěte se, že objekt není dál, než 1,5m.</string>
+  <string name="pref_video_quality_summary">4K video není podporováno v režimu 120 FPS</string>
 </resources>

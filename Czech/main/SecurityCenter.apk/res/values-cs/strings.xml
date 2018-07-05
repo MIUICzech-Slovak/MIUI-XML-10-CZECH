@@ -2834,4 +2834,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="xunyou_server_expired">Relace vypršela</string>
   <string name="app_manager_details_title">Informace o aplikaci</string>
   <string name="notify_channel_name_security">Bezpečnost systému</string>
+  <string name="fod_authentication_shift_button">Zrušit</string>
+ <string name="fod_button_finger">Použít otisk prstu</string>
+  <string name="fod_button_password">Zadejte heslo</string>
+  <string name="fod_finger_notice_title">Položte prst na obrazovku</string>
+  <string name="fod_finger_windows_tips">Ověřte otisk prstu</string>
+  <string name="fod_tips_split_screen_more_than_half">Zadejte heslo</string>
 </resources>

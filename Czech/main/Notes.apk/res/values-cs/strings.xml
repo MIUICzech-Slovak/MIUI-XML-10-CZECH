@@ -265,4 +265,8 @@ http://www.miuios.cz/rom
   <string name="actionbar_home_description">Zpět</string>
   <string name="menu_more_description">Více</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Tato funkce není dostupná v režimu rozdělené obrazovky</string>
+  <string name="date_time_picker_alarm_reminder">Budík</string>
+  <string name="date_time_picker_dialog_title">Nastavit datum a čas</string>
+  <string name="date_time_picker_has_not_set_alarm">Budík není nastaven</string>
+  <string name="date_time_picker_has_set_alarm">Budík je nastaven</string>
 </resources>

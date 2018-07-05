@@ -79,4 +79,10 @@
    <string name="cat_16">Ženy</string>
    <string name="cat_17">Filmy</string>
    <string name="cat_18">Zvířata</string>  
+   <string name="idbct_desc">Přizpůsobit kvalitu tapet</string>
+  <string name="idbct_opt_auto_select_desc_text">Stáhnout v nižším rozlišení na mobilních datech a v HD na Wi-Fi</string>
+  <string name="idbct_opt_auto_select_main_text">Automaticky</string>
+  <string name="idbct_opt_high_def_desc_text">Vždy stáhnout v HD kvalitě</string>
+  <string name="idbct_opt_high_def_main_text">HD</string>
+  <string name="idbct_title">Režim stahování</string>
 </resources>

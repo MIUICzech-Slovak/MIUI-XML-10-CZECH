@@ -3985,7 +3985,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_show_carrier_summary">Zobrazit pouze na zamyk. obrazovce a v roletce</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Zobrazit název operátora na zamyk. obrazovce</string>
   <string name="status_bar_settings_show_floating_notification">Plovoucí upozornění</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Plovoucí upozornění automaticky zmizí po zobrazení se v horní části displeje.</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Povolit duležitá upozornění v horní části displeje.</string>
   <string name="status_bar_settings_show_flow_info">Zobrazit info o spotřebě dat</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikace</string>
   <string name="status_bar_settings_show_keyguard_notification">Upozornění na zamyk. obr.</string>
@@ -5386,4 +5386,20 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="lockpassword_choose_your_pin_title">Zadejte 4-16 čísel</string>
   <string name="add_fingerprint_dirty_fingerprint">Ujistěte se, že je povrch displeje čistý. Zkuste nastavit otisk prtu znovu.</string>
   <string name="add_fingerprint_move_fast">Podržte prst o něco déle</string>
+  <string name="flash_drive_backup_restore">Zálohovat nebo obnovit pomocí USB</string>
+  <string name="flash_drive_backup_restore_summary">Připojte USB disk</string>
+  <string name="extended_power_menu">Rozšířené menu restartování</string>
+  <string name="secspace_fod_finger_tips">Nelze ověřit. Zkuste to znovu.</string>
+  <string name="secspace_fod_finger_title">Ověřte otisk prstu</string>
+  <string name="secspace_fod_use_password">Zadejte heslo</string>
+  <string name="bt_ldac_declaration">Pokud Bluetooth zařízení podporuje LDAC, bude připojeno automaticky. LDAC poskytuje vysokou kvalitu přehrávání zvuku na úkor spotřeby baterie.</string>
+  <string name="bt_ldac_dialog_summary">"LDAC poskytuje vysokou kvalitu přehrávání zvuku na úkor spotřeby baterie. Můžete to změnit v [Nastavení]"</string>
+  <string name="bt_ldac_dialog_title">Toto zařízení podporuje LDAC:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC poskytuje vysokou kvalitu přehrávání zvuku na úkor spotřeby baterie.</string>
+  <string name="bt_ldac_open_dialog_title">Chcete povolit LDAC?</string>
+  <string name="bt_ldac_pre_summary">Vysoká kvalita přehrávání</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Atributy</string>
+  <string name="bt_ldac_remember_choice">Paměť nastavení</string>
+  <string name="bt_ldac_settings">Nastavení</string>
 </resources>
