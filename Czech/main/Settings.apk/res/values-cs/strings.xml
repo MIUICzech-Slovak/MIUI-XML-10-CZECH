@@ -2253,7 +2253,7 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="manage_condition_providers_summary_zero">Žádné aplikace neposkytují podmínky</string>
   <string name="manage_device_admin">Správci zařízení</string>
   <string name="manage_device_admin_summary">Zobrazit nebo deaktivovat správce zařízení</string>
-  <string name="manage_facerecoginition_text">Správovat tváře</string>
+  <string name="manage_facerecoginition_text">Spravovat tváře</string>
   <string name="manage_fingerprint_text">Správa otisků</string>
   <string name="manage_mobile_plan_title">Mobilní tarif</string>
   <string name="manage_notification_access">Přístup k oznámením</string>
@@ -2604,7 +2604,7 @@ Zvolte Váš operační systém:"</string>
   <string name="navigation_guide_dialog_dont_show_again">Znovu nezobrazovat</string>
   <string name="navigation_guide_dialog_ok">Naučit se</string>
   <string name="navigation_guide_dialog_skip">Přeskočit</string>
-  <string name="navigation_guide_dialog_summary">Poižít gesta namísto tlačítek.</string>
+  <string name="navigation_guide_dialog_summary">Použít gesta namísto tlačítek</string>
   <string name="navigation_guide_dialog_title">Ukázat gesta</string>
   <string name="navigation_guide_home_summary">Potáhněte nahoru</string>
   <string name="navigation_guide_home_title">Zpět na domácí obrazovku</string>
