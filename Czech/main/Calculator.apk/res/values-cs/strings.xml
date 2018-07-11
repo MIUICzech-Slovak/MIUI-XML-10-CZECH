@@ -62,13 +62,13 @@
   <string name="loan_edittext_hint_fund">Zadejte částku</string>
   <string name="loan_edittext_hint_fund_combined">Kapitálové úvěry</string>
   <string name="loan_first_pay_date">Datum první splátky</string>
-  <string name="loan_interest_rate">Cena peněz</string>
+  <string name="loan_interest_rate">Úrok</string>
   <string name="loan_pay_years">Doba splácení úvěru</string>
   <string name="loan_payback_way">Splátka</string>
   <string name="loan_unit">nespočetný</string>
   <string name="menuDesc">menu</string>
   <string name="minusDesc">mínus</string>
-  <string name="mortgage_amount">Celkem</string>
+  <string name="mortgage_amount">Celkem (x10K)</string>
   <string name="mortgage_average_repayment_first_month">První měsíc splácení</string>
   <string name="mortgage_average_repayment_monthly">Měsíční splátka</string>
   <string name="mortgage_calculate">Vypočítat</string>
@@ -330,4 +330,11 @@ má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
 Delta aktualizace má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
+  <string name="tab_title_calculator">Kalkulačka</string>
+  <string name="tab_title_convert">Konvertor</string>
+ <string name="tab_title_tax_mortgage">Hypotéka</string>
+  <string name="tab_title_tax_mortgage_global">Hypotéka</string>
+  <string name="interest_rate_hint">Zadejte úrok</string>
+  <string name="loan_repayment_detail">" Splátek"</string>
+  <string name="loan_repayment_detail_loading">Výpočet...</string>
 </resources>
