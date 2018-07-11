@@ -1443,7 +1443,6 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">Bezpečnost</string>
   <string name="menu_text_garbage_cleanup">Čistič</string>
-  <string name="menu_text_garbage_cleanup_danger">%s nad</string>
   <string name="menu_text_license_manager">Povolení</string>
   <string name="menu_text_networkassistants">Spotřeba dat</string>
   <string name="menu_text_networkassistants_danger">%s nad limit!</string>
@@ -1451,7 +1450,6 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="menu_text_optimize_manage">Zrychlení</string>
   <string name="menu_text_power_manager">Správa výkonu</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">Baterie %s</string>
   <string name="menu_text_power_percent_title_default">Baterie</string>
   <string name="menu_wh_remove">Odebrat</string>
   <string name="mi_service_app_detail">Podrobnosti o spotřebě dat</string>
