@@ -2840,4 +2840,25 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="fod_finger_notice_title">Položte prst na obrazovku</string>
   <string name="fod_finger_windows_tips">Ověřte otisk prstu</string>
   <string name="fod_tips_split_screen_more_than_half">Zadejte heslo</string>
+  <string name="menu_summary_antispam">Blokovat SMS a hovory</string>
+  <string name="menu_summary_antispam_2">Blokované SMS a hovory</string>
+  <string name="menu_summary_antivirus">Zkontrolovat viry v zařízení</string>
+  <string name="menu_summary_antivirus_2">Nalezena rizika</string>
+  <string name="menu_summary_antivirus_3">Nebylo zkontrolováno</string>
+  <string name="menu_summary_app_manager">Správa aplikací</string>
+  <string name="menu_summary_app_manager_2">Dostupné aktualizace</string>
+  <string name="menu_summary_garbage_cleanup">Žádný odpad</string>
+  <string name="menu_summary_garbage_cleanup_2">Odpad</string>
+  <string name="menu_summary_garbage_cleanup_3">Vyčistit odpad</string>
+  <string name="menu_summary_networkassistants">Správa mobilních dat</string>
+  <string name="menu_summary_networkassistants_2">Limit překročen</string>
+  <string name="menu_summary_networkassistants_3">Dostatek dat</string>
+  <string name="menu_summary_networkassistants_4">Docházejí vám data</string>
+  <string name="menu_summary_power_manager">Šetření baterie prodlužuje používání telefonu</string>
+  <string name="menu_summary_power_manager_1">Baterie je plně nabita</string>
+  <string name="menu_summary_power_manager_2">Zbývá: %s</string>
+  <string name="menu_summary_power_manager_3">Nabíjení</string>
+  <string name="menu_summary_power_manager_4">Zbývá: %s</string>  
+  <string name="network_traffic_warning_text">MIUI nemůže vypočítat spotřebu dat pro jednotlivé systémové aplikace. Podrobnosti o spotřebě dat naleznete v jednotlivých aplikacích.</string>
+  <string name="network_traffic_warning_title">Spotřeba dat pro systémové aplikace</string>
 </resources>

@@ -154,4 +154,5 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
+  <string name="record_format_preference_title">Formát nahrávání</string>
 </resources>

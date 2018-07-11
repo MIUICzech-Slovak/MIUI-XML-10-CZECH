@@ -136,7 +136,7 @@ Vzorkovací frekvence"</string>
   <string name="charge_length_format">před %1$s</string>
   <string name="choose_profile">Vyberte profil</string>
   <string name="clear_adb_keys">Zrušit autorizace k ladění USB</string>
-  <string name="close">Zavřít</string>
+  <string name="close">Vypnout</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORNĚNÍ: Pokud bude toto nastavení zapnuto, nebudou v tomto zařízení fungovat funkce ochrany zařízení.</string>
   <string name="confirm_enable_oem_unlock_title">Povolit odemknutí OEM?</string>
   <string name="connected_via_network_scorer">Automaticky připojeno přes poskytovatele %1$s</string>

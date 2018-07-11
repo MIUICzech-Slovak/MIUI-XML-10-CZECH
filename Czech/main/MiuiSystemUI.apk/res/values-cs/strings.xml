@@ -1907,4 +1907,8 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="structure_face_delete_data_dialog_msg">Nelze spustit kameru. Zkuste to znovu.</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Zkusit znovu</string>
   <string name="structure_face_delete_data_dialog_title">Nelze spustit kameru</string>
+  <string name="wireless_change_to_ac_charging">Bezdrátové nabíjení</string>
+  <string name="wireless_charge_current">Nabíjení</string>
+  <string name="wireless_charge_reset_device">Nabíjení je pomalé. Změntě polohu zařízení.</string>
+  <string name="wireless_charge_reset_device_detail">Zkontrolujte umístění zařízení na podložce</string>  
 </resources>

@@ -607,4 +607,16 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="lens_dirty_detected_title_front">Přední fotoaparát je znečištěn</string>
   <string name="back_bokeh_use_hint">Ujistěte se, že objekt není dál, než 1,5m.</string>
   <string name="pref_video_quality_summary">4K video není podporováno v režimu 120 FPS</string>
+  <string name="lighting_hint_needed">Umístěte objekt na světlo</string>
+  <string name="lighting_hint_title">Studiové osvětlení</string>
+  <string name="lighting_hint_too_close">Oddalte kameru</string>
+ <string name="lighting_hint_too_far">Přibližte kameru</string>
+  <string name="lighting_hint_usage">"V režimu Portrét můžete využít efekty osvětlení"</string>
+  <string name="lighting_pattern_dot">Bodové</string>
+  <string name="lighting_pattern_leaf">Leaves</string>
+  <string name="lighting_pattern_movie">Film</string>
+  <string name="lighting_pattern_nature">Přirozené</string>
+  <string name="lighting_pattern_rainbow">Duha</string>
+  <string name="lighting_pattern_shutter">Blinds</string>
+  <string name="lighting_pattern_stage">Pódium</string>  
 </resources>

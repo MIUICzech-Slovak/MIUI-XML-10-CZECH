@@ -191,4 +191,8 @@
         <item quantity="other">Zakázat připojení pro %s aplikací</item>
         <item quantity="one">Zakázat připojení pro %s aplikaci</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Dokončete %1$d kroky k obnovení továrního nastavení</item>
+        <item quantity="one">Dokončete %1$d krok k obnovení továrního nastavení</item>
+    </plurals>	
 </resources>

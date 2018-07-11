@@ -9,4 +9,8 @@
         <item quantity="other">Dostupná aktualizace pro témata (%1$d)</item>
         <item quantity="one">Dostupná aktualizace pro %1$d téma</item>
     </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d obrázků</item>
+        <item quantity="one">%1$s | %2$d obrázek</item>
+    </plurals>	
 </resources>
