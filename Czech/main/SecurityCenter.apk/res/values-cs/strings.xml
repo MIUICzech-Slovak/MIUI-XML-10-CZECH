@@ -2859,4 +2859,16 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="menu_summary_power_manager_4">Zbývá: %s</string>  
   <string name="network_traffic_warning_text">MIUI nemůže vypočítat spotřebu dat pro jednotlivé systémové aplikace. Podrobnosti o spotřebě dat naleznete v jednotlivých aplikacích.</string>
   <string name="network_traffic_warning_title">Spotřeba dat pro systémové aplikace</string>
+  <string name="gb_create_icon_summary">Vytvořit odkaz na ploše</string>
+  <string name="gb_first_window_antimsg_summary_quick_answer">Použít rychlé odpovědi</string>
+  <string name="gb_first_window_antimsg_summary_transparent_show">Zobrazit text na průhledném pozadí</string>
+  <string name="gb_first_window_antimsg_title">Pohodlné upozornění</string>
+  <string name="gb_first_window_gamebox_summary_four">Vymazat cache, zhotovit nahrávky obrazovky a screenshoty</string>
+  <string name="gb_first_window_gamebox_summary_six">Použít rychlé odpovědi, zhotovit nahrávky obrazovky a screenshoty</string>
+  <string name="gb_first_window_handsfree_summary">Zapnout reproduktor automaticky</string>
+  <string name="gb_first_window_handsfree_title">Hands-free hovory</string>
+  <string name="gb_first_window_start">Spustit hru</string>
+  <string name="gb_first_window_summary">Zrychlit systém a zvýšit výkon</string>
+  <string name="gb_first_window_title">Zrychlení her</string>
+  <string name="manage_hybrid_permissions">Spravovat povolení aplikace</string>
 </resources>

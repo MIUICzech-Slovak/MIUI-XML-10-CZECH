@@ -618,5 +618,6 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="lighting_pattern_nature">Přirozené</string>
   <string name="lighting_pattern_rainbow">Duha</string>
   <string name="lighting_pattern_shutter">Blinds</string>
-  <string name="lighting_pattern_stage">Pódium</string>  
+  <string name="lighting_pattern_stage">Pódium</string>
+  <string name="pref_camera_super_resolution_title">Povolit SR</string>  
 </resources>

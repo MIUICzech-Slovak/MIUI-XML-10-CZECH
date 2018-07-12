@@ -607,4 +607,10 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
  <string name="member_menu_vipname_mega">Mega</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
+  <string name="hybrid_check_network">Nastavení sítě</string>
+  <string name="hybrid_data_error">Nastala chyba</string>
+  <string name="hybrid_network_access_denied">Přístup k síti zamítnut</string>
+  <string name="hybrid_network_unavaliable">Nelze se připojit k síti</string>
+  <string name="hybrid_service_unavailiable">Služba není dostupná</string>
+  <string name="hybrid_try_again">Zkusit znovu</string>  
 </resources>

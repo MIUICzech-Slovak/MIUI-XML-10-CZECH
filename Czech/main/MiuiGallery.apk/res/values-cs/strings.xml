@@ -1318,4 +1318,10 @@
   <string name="unchecked_something">Odznačeno %s</string>
   <string name="video_with_time">Video vytvořeno v %s</string>
   <string name="video_with_time_and_location">Video vytvořeno v %1$s. Poloha: %2$s.</string>
+  <string name="album_notes">Poznámky</string>
+  <string name="feature_guidance_video_editor_smart_effects">Jsou dostupné nové efekty</string>
+  <string name="picker_origin_request_progress_message">Příprava souborů (%1$d/%2$d)...</string>
+  <string name="search_request_requesting">Aplikováno</string>
+  <string name="secret_reason_video_not_support">Nelze přidat video do Tajného alba</string>
+  <string name="video_editor_video_loading">Příprava videa</string>
 </resources>

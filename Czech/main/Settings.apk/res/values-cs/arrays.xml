@@ -1012,4 +1012,8 @@ Postupujte dle pokynů"</item>
         <item>"Mobilní data "</item>
         <item>"Wi-Fi "</item>
     </string-array>	
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Grafický</item>
+        <item>Procenta</item>
+    </string-array>
 </resources>

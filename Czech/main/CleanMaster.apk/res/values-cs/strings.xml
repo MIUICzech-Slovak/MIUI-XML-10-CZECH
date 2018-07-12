@@ -507,4 +507,27 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="whatsapp_btn_quick_cleanup">Vyčistit %s</string>
+  <string name="whatsapp_clean_exit_confirm_cancel">Zrušit</string>
+  <string name="whatsapp_clean_exit_confirm_msg">Zastavit kontrolu</string>
+  <string name="whatsapp_clean_exit_confirm_ok">OK</string>
+  <string name="whatsapp_clean_exit_confirm_title">Zastavit kontrolu WhatsApp</string>
+  <string name="whatsapp_content_empty">Žádné soubory k vymazání</string>
+  <string name="whatsapp_delete_confirm_message">Vymazat?</string>
+  <string name="whatsapp_delete_done">Hotovo!</string>
+  <string name="whatsapp_file_show_order">Dnes</string>
+  <string name="whatsapp_function_summery">Vyčistit WhatsApp soubory</string>
+  <string name="whatsapp_function_title">Čištění WhatsApp</string>
+  <string name="whatsapp_group_audio">Zvuk</string>
+  <string name="whatsapp_group_document">Dokumenty</string>
+  <string name="whatsapp_group_gif">GIF</string>
+  <string name="whatsapp_group_image">Obrázky</string>
+  <string name="whatsapp_group_video">Video</string>
+  <string name="whatsapp_group_voice">Hlas</string>
+  <string name="whatsapp_group_wallpaper">Tapeta</string>
+  <string name="whatsapp_title">Čištění WhatsApp</string>
+  <string name="whatsapp_type_document_recv">Přijaté soubory</string>
+  <string name="whatsapp_type_document_send">Odeslané soubory</string>
+  <string name="whatsapp_type_image_recv">Přijaté obrázky</string>
+  <string name="whatsapp_type_image_send">Odeslané obrázky</string>  
 </resources>

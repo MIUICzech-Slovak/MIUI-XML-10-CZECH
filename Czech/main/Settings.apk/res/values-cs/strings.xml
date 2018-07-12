@@ -5402,4 +5402,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="bt_ldac_property">Atributy</string>
   <string name="bt_ldac_remember_choice">Paměť nastavení</string>
   <string name="bt_ldac_settings">Nastavení</string>
+  <string name="structure_manage_facerecoginition_text">Spravovat 3D data tváře</string>
+  <string name="rgb_manage_facerecoginition_text">Spravovat 3D data tváře</string>
 </resources>
