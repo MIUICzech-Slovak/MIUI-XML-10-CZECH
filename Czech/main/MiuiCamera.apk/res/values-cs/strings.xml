@@ -197,7 +197,7 @@
   <string name="portrait_mode_depth_effect_success_hint">Efekt hloubky ostrosti</string>
   <string name="portrait_mode_lowlight_hint">Je vyžadováno více světla</string>
   <string name="portrait_mode_too_close_hint">Postavte se dál od objektu</string>
-  <string name="portrait_mode_too_far_hint">Umístěte objekt max 2,5m od objektivu</string>
+  <string name="portrait_mode_too_far_hint">Umístěte objekt max 2 m od objektivu</string>
   <string name="portrait_mode_use_hint">"Režim Portrét vám pomůže rozmazat pozadí 
  a zvýraznit osobu na fotografii"</string>
   <string name="portrait_with_facebeauty_hint">Režim vyhlazení pleti je dostupný</string>

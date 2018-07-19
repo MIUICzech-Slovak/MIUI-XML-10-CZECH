@@ -179,4 +179,12 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="total_space">Celkem: %s</string>
   <string name="try_again">Dotykem zkuste znovu</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
+  <string name="btn_restore_abort">Zrušit</string>
+  <string name="btn_restore_cancel">Zrušit</string>
+  <string name="btn_restore_resume">Obnovit</string>
+  <string name="btn_restore_retry">Znovu</string>
+  <string name="msg_alert_cancel_restore">Záloha z cloudu se obnovuje, chcete ji zastavit?</string>
+  <string name="msg_alert_restore_error">Obnova selhala. Zkuste to znovu.</string>
+  <string name="title_alert_cancel_restore">Zastavit obnovu</string>
+  <string name="title_alert_restore_error">Obnovení selhalo</string>
 </resources>

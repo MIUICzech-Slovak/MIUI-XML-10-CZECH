@@ -5409,4 +5409,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="sound_stereo_mode_summary">Dostupné pouze v případě přehrávání zvuku reproduktorem</string>
   <string name="sound_stereo_mode_title">Stereo zvuk</string>
   <string name="unmute_sound_title">Zvuk tichého režimu</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">Tuto funkci nelze použít z důvdu slabé baterie</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">Baterie musí být nabita alespoň na 5%.</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Zkratka v roletce</string>
 </resources>

@@ -530,5 +530,7 @@
   <string name="whatsapp_type_document_send">Odeslané soubory</string>
   <string name="whatsapp_type_image_recv">Přijaté obrázky</string>
   <string name="whatsapp_type_image_send">Odeslané obrázky</string>
-  <string name="main_total_garbage">Celkem</string>  
+  <string name="main_total_garbage">Celkem</string>
+  <string name="whatsapp_delete_confirm_cancel">Zrušit</string>
+  <string name="whatsapp_delete_confirm_ok">OK</string>  
 </resources>
