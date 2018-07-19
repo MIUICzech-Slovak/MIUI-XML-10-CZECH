@@ -529,5 +529,6 @@
   <string name="whatsapp_type_document_recv">Přijaté soubory</string>
   <string name="whatsapp_type_document_send">Odeslané soubory</string>
   <string name="whatsapp_type_image_recv">Přijaté obrázky</string>
-  <string name="whatsapp_type_image_send">Odeslané obrázky</string>  
+  <string name="whatsapp_type_image_send">Odeslané obrázky</string>
+  <string name="main_total_garbage">Celkem</string>  
 </resources>

@@ -430,4 +430,12 @@
         <item quantity="other">Aplikací: %d</item>
         <item quantity="one">Aplikací: %dp</item>
     </plurals>	
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Aplikací: %d</item>
+        <item quantity="one">Aplikací: %d</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">Skrytých aplikací: %d</item>
+        <item quantity="one">Skrytých aplikací: %d</item>
+    </plurals>	
 </resources>
