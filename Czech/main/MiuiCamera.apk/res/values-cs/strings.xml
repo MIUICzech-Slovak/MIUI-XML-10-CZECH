@@ -619,5 +619,7 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="lighting_pattern_rainbow">Duha</string>
   <string name="lighting_pattern_shutter">Blinds</string>
   <string name="lighting_pattern_stage">Pódium</string>
-  <string name="pref_camera_super_resolution_title">Povolit SR</string>  
+  <string name="pref_camera_super_resolution_title">Povolit SR</string> 
+  <string name="pref_camera_video_bokeh_off">Video bokeh je vypnuté</string>
+  <string name="pref_camera_video_bokeh_on">Video bokeh</string>   
 </resources>

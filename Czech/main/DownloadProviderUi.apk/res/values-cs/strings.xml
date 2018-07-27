@@ -158,7 +158,7 @@
   <string name="missing_title">Neznámý</string>
   <string name="net_error">Nelze se připojit k síti</string>
   <string name="network_error">Nelze se připojit k síti</string>
-  <string name="new_add">Nový</string>
+  <string name="new_add">Nové stahování</string>
   <string name="new_add_bt">Přidat torrent</string>
   <string name="no_downloads">Žádná stahování</string>
   <string name="no_file_hint">Tento soubor už je v pořadí na stažení</string>
@@ -185,14 +185,16 @@
   <string name="paused_waiting_to_retry">Čekání na obnovení</string>
   <string name="period_of_validity">"Platnost: "</string>
   <string name="pref_download_revert_default">Výchozí umístění</string>
-  <string name="pref_download_settings_title">Spotřeba mobilních dat</string>
-  <string name="pref_download_storage_path">Složka pro stahování</string>
+  <string name="pref_download_settings_title">Limit stahování přes mobilní data</string>
+  <string name="pref_download_storage_path">Umístění</string>
   <string name="pref_summary_any_bytes_popup">Stahovat pouze přes Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Při stahování pomocí mobilního internetu se zeptat, pokud soubor přesahuje povolený limit"</string>
   <string name="pref_summary_max_bytes_limit_format">Stáhnout přes Wi-Fi, pokud je soubor větší než %s</string>
   <string name="pref_summary_no_limit_popup">Neomezená velikost souboru</string>
   <string name="pref_title_enable_max_bytes_popup">Ptát se při stahování</string>
   <string name="preferences_title">Nastavení</string>
+  <string name="home_page_new_download_guide">Nová stahování budou zde</string>
+  <string name="dialog_content_limit_max">Bez limitu</string>
   <string name="privacy_tip_cancel">Zrušit</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>

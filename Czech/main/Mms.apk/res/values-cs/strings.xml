@@ -730,6 +730,16 @@ Pokus: %s."</string>
   <string name="wild_msg_title">Vyberte tel. číslo pro synchr.</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
+   <string name="notification_channel_other_description">Ostatní upozornění</string>
+  <string name="notification_channel_other_name">Jiné</string>
+  <string name="notification_channel_sim1_description">SIM1 SMS upozornění</string>
+  <string name="notification_channel_sim1_name">SIM1 SMS</string>
+  <string name="notification_channel_sim2_description">SIM2 SMS upozornění</string>
+  <string name="notification_channel_sim2_name">SIM2 SMS</string>
+  <string name="notification_channel_msg_description">SMS upozornění</string>
+  <string name="notification_channel_msg_name">SMS</string>
+  <string name="notification_group_name">Zprávy</string>
+  <string name="unsubscribe">Odhlásit</string>
   <string name="yes">OK</string>
   <string name="yesterday">Včera</string>
 </resources>

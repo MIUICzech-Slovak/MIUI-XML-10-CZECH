@@ -613,4 +613,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="hybrid_network_unavaliable">Nelze se připojit k síti</string>
   <string name="hybrid_service_unavailiable">Služba není dostupná</string>
   <string name="hybrid_try_again">Zkusit znovu</string>  
+  <string name="close_shortcut">Zavřít</string>
 </resources>

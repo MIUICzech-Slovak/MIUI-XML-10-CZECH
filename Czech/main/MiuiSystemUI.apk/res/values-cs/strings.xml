@@ -1060,7 +1060,9 @@ Zkuste to znovu za %2$d s."</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s Bluetooth</string>
   <string name="miui_ringer_count_down">Odpočítávání</string>
-  <string name="miui_ringer_count_down_time">Odpočítávání: %s</string>
+  <string name="miui_ringer_count_down_time">%s</string>
+  <string name="accessibility_quick_settings_alarm_on">Budík je nastaven.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Stav baterie Bluetooth zařízení %d procent.</string>
   <string name="miui_ringer_standard">Ticho</string>
   <string name="miui_ringer_standard_description">Ztišit zvonění pro hovory a upozornění</string>
   <string name="miui_ringer_total">Nerušit</string>

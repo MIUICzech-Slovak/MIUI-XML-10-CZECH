@@ -769,7 +769,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="same_bookmarks_warning">Tato záložka již existuje</string>
   <string name="same_folder_name_warning">Tato složka již existuje</string>
   <string name="save_button_text">Uložit</string>
-  <string name="save_dialog_title">Uložit</string>
+  <string name="save_dialog_title">"Uložit soubor "</string>
   <string name="save_file">Uložit %s soubor</string>
   <string name="save_file_already_exist_alert_message">Soubor již existuje, chcete jej přepsat?</string>
   <string name="save_file_already_exist_alert_title">Upozornění</string>
@@ -1006,4 +1006,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
+  <string name="data_traffic_continue">Pokračovat</string>
+  <string name="data_traffic_prompt_free_data">Přehrávání videa na mobilních datech může navýšit vaše poplatky.</string>
+  <string name="data_traffic_stop">Ukončit</string>  
 </resources>

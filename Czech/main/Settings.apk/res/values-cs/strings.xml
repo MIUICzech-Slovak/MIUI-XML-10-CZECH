@@ -4303,7 +4303,8 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
   <string name="toast_lockscreen_glogin_empty_password">Zadejte heslo</string>
   <string name="toast_need_login">Přihlaste se Mi účtem</string>
   <string name="total">Režim Nerušit</string>
-  <string name="total_info">Ztišit zvonění %1$s kromě budíku.</string>
+  <string name="total_info">Ztišit zvonění a vibrace kromě budíku.</string>
+  <string name="total_info_no_vibrator">Ztišit zvuky kromě budíku</string>
   <string name="total_info_sub">a vypnout vibrace</string>
   <string name="total_memory">Celková paměť</string>
   <string name="total_size">Celkem %s</string>
