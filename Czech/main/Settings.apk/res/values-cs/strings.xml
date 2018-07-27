@@ -5413,5 +5413,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="structure_face_enroll_not_able_low_electric_itle">Tuto funkci nelze použít z důvdu slabé baterie</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Baterie musí být nabita alespoň na 5%.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Zkratka v roletce</string>
-  <string name="master_clear_summary">Vymaže všechna data v zařízení</string>
 </resources>
