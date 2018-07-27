@@ -137,7 +137,6 @@
   <string name="notealert_enter">Zobrazit</string>
   <string name="notealert_ok">Ignorovat</string>
   <string name="notelist_menu_new">Přidat poznámku</string>
-  <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Upozornění</string>
   <string name="permdesc_accessNote">Škodlivé aplikace to mohou použít pro přístup k vašim osobním údajům.</string>
   <string name="permlab_accessNote">Přístup k poznámkám</string>
