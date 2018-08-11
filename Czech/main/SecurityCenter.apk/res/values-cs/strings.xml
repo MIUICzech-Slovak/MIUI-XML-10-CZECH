@@ -912,7 +912,7 @@ For more info check the message you received from your service provider"</string
   <string name="dlg_white_antispam_message">Přidat toto číslo do výjimek a povolit jej?</string>
   <string name="dns_exception_summary">Nastavení DNS vašeho routeru není dostupné.</string>
   <string name="dns_exception_title">Kontrola DNS</string>
-  <string name="do_clean">Češtění...</string>
+  <string name="do_clean">Čištění...</string>
   <string name="domestic_roaming_setting">Národní roaming</string>
   <string name="dont_bore">nenechte se rušit upozorněními</string>
   <string name="dont_bore_text">Ztišit upozornění a deaktivovat tlačítka na displeji</string>
