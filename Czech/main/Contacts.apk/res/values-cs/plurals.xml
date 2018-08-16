@@ -181,5 +181,9 @@
       <plurals name="group_copy_success_toast">
           <item quantity="other">Zkopírovaných kontaktů: %1$d</item>
          <item quantity="one">Zkopírovaných kontaktů: %1$d</item>
-      </plurals>	
+      </plurals>
+      <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Importované kontakty: %1$d</item>
+        <item quantity="one">Importované kontakty: %1$d</item>
+    </plurals>	
 </resources>

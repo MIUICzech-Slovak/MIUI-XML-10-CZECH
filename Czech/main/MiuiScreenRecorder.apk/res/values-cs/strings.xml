@@ -85,4 +85,8 @@
   <string name="storage_location">Úložiště</string>
   <string name="storage_location_summary">Vyberte úložiště pro uložení nahrávky</string>
   <string name="unchecked">Žádné</string>
+  <string name="first_using_mic_dialog_message">Nahrávání vyžaduje přístup k mikrofonu. Chcete povolit přístup?</string>
+  <string name="first_using_mic_dialog_title">Jsou vyžadována povolení</string>
+  <string name="using_record_confirm_cancel">Odmítnout</string>
+  <string name="using_record_confirm_ok">Povolit</string>
 </resources>

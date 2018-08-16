@@ -268,4 +268,6 @@ http://www.miuios.cz/rom
   <string name="date_time_picker_dialog_title">Nastavit datum a čas</string>
   <string name="date_time_picker_has_not_set_alarm">Budík není nastaven</string>
   <string name="date_time_picker_has_set_alarm">Budík je nastaven</string>
+  <string name="setting_other">Ostatní</string>
+  <string name="setting_privacy">Ochrana soukromí</string>
 </resources>

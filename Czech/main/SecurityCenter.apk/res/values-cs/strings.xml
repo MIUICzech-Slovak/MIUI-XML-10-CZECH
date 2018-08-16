@@ -1081,8 +1081,8 @@ For more info check the message you received from your service provider"</string
   <string name="gs_game_net_priority_detail">Omezit rychlost stahování na pozadí pro rychlejší připojení her</string>
   <string name="gs_game_performance">Výkon</string>
   <string name="gs_game_shortcut">Užijte si plynulé hraní</string>
-  <string name="gs_gamebox">In-game shortcuts</string>
-  <string name="gs_gamebox_detail">Show in-game shortcut panel</string>
+  <string name="gs_gamebox">Odkazy ve hře</string>
+  <string name="gs_gamebox_detail">Zobrazit odkazy ve hře</string>
   <string name="gs_only_self_start_for_list">Omezit procesy na pozadí pro úsporu baterie</string>
   <string name="gs_open_game_booster">Zrychlení</string>
   <string name="gs_performance_mode">Výkonný režim</string>
@@ -2883,5 +2883,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="privacy_apps_tutorial">Návod</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Pokud skryjete aplikaci, je přesunuta do skryté složky. Její ikona na ploše je odstraněna. Tato funkce není dostupná pro systémové aplikace.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po zadaní hesla se zobrazí složka se skrytými aplikacemi.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>  
+  <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string> 
+  <string name="gamebox_type_float">Pevný odkaz</string>
+  <string name="forbid_autobright_summary">Jas displeje zůstane stejný behěm hraní hry</string> 
 </resources>

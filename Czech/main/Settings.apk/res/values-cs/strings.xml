@@ -5414,4 +5414,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="structure_face_enroll_not_able_low_electric_msg">Baterie musí být nabita alespoň na 5%.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Zkratka v roletce</string>
   <string name="keyguard_vertical_clock_title">Vertikální hodiny</string>
+  <string name="status_bar_settings_expand_top_notification">Rozbalit první upozornění</string>
 </resources>

@@ -1062,6 +1062,7 @@ Zkuste to znovu za %2$d s."</string>
   <string name="miui_ringer_count_down">Odpočítávání</string>
   <string name="accessibility_quick_settings_alarm_on">Budík je nastaven.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Stav baterie Bluetooth zařízení %d procent.</string>
+   <string name="fingerprint_dialog_touch_sensor">Dotkněte se snímače otisku prstu</string>
   <string name="miui_ringer_standard">Ticho</string>
   <string name="miui_ringer_standard_description">Ztišit zvonění pro hovory a upozornění</string>
   <string name="miui_ringer_total">Nerušit</string>

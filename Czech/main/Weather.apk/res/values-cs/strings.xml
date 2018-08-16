@@ -188,4 +188,8 @@ Zadejte město manuálně"</string>
   <string name="xiaomi_weather_description_content">Xiaomi aplikace Počasí vám poskytuje informace o počasí ve vašem městě. Její odinstalování ovlivní widget hodin, teplotu v roletce a další funkce. Chcete ji odinstalovat?</string>
   <string name="xiaomi_weather_description_title">O Počasí</string>
   <string name="your_location">Vaše poloha</string>
+  <string name="hourly_forecast_title_24_hours_desc">24-hodinová předpověď</string>
+  <string name="hourly_forecast_title_hourly_desc">hodinová předpověď</string>
+  <string name="privacy_policy">Ochrana soukromí</string>
+  <string name="user_agreement">Podmínky používání</string>
 </resources>

@@ -1324,4 +1324,8 @@
   <string name="search_request_requesting">Aplikováno</string>
   <string name="secret_reason_video_not_support">Nelze přidat video do Tajného alba</string>
   <string name="video_editor_video_loading">Příprava videa</string>
+  <string name="ai_album_open_switch_button_title">Analyzovat fotografie</string>
+  <string name="ai_album_requesting_title">AI algoritmus zpracovává vaše fotografie. Vraťe se později.</string>
+  <string name="ai_album_setting_sub_title">Povolit AI algoritmus pro identifikování objektů, měst, lidí na fotografiích.</string>
+  <string name="ai_album_setting_title">Identifikovat objekty na fotografiích</string>
 </resources>
