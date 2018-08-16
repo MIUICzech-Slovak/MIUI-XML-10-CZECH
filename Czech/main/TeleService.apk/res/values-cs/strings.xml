@@ -1316,5 +1316,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="wificall_switch_summary">Vaše zařízení může přepínat mezi Wi-Fi a VoLTE v případě slabého připojení</string>
   <string name="wificall_switch_title">Hovory přes Wi-Fi</string>
   <string name="dds_switch_warning_message_data_off">Nelze najít SIM %1$s. SIM %2$s je nastavena jako výchozí pro mobilní data. Mobilní data budou vypnuta.</string>
-  <string name="dds_switch_warning_message_data_on">"Nelze najít SIM %1$s. SIM %2$s je nastavena jako výchozí pro mobilní data. Mobilní data budou vypnuta.</string
+  <string name="dds_switch_warning_message_data_on">"Nelze najít SIM %1$s. SIM %2$s je nastavena jako výchozí pro mobilní data. Mobilní data budou vypnuta.</string>
 </resources>
