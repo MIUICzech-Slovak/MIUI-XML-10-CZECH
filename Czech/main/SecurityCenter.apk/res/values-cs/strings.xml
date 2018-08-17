@@ -409,7 +409,7 @@
   <string name="auto_atsk_condition_battery_level_text_down">Pokud baterie dosáhne %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Pokud baterie je nabita na %s</string>
   <string name="auto_back_booster">Zastavit zrychlení</string>
-  <string name="auto_booster_suc">Zrycheno</string>
+  <string name="auto_booster_suc">Zrychleno</string>
   <string name="auto_clean_close">Autom. čištění je vypnuto</string>
   <string name="auto_clean_switch_off">Vyp.</string>
   <string name="auto_clean_switch_on">Zap.</string>
