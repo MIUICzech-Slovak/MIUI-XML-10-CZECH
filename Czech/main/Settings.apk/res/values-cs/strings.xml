@@ -5415,4 +5415,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="status_bar_settings_notification_shade_shortcut">Zkratka v roletce</string>
   <string name="keyguard_vertical_clock_title">Vertikální hodiny</string>
   <string name="status_bar_settings_expand_top_notification">Rozbalit první upozornění</string>
+  <string name="delete_sound_effect">Zvuk vymazání</string>
+  <string name="keyguard_security_setting_others">Ostatní</string>
+  <string name="keyguard_security_setting_privacy_policy">Ochrana soukromí</string>
 </resources>

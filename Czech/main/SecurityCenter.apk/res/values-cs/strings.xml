@@ -2883,7 +2883,18 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="privacy_apps_tutorial">Návod</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Pokud skryjete aplikaci, je přesunuta do skryté složky. Její ikona na ploše je odstraněna. Tato funkce není dostupná pro systémové aplikace.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po zadaní hesla se zobrazí složka se skrytými aplikacemi.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string> 
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Roztáhněte dva prsty po displeji. Bude zobrazeno okno pro zadání hesla.</string> 
   <string name="gamebox_type_float">Pevný odkaz</string>
   <string name="forbid_autobright_summary">Jas displeje zůstane stejný behěm hraní hry</string> 
+  <string name="extreme_add_white_list_summary">Maximálně 4 aplikace</string>
+  <string name="extreme_add_white_list_title">Výjimky</string>
+  <string name="extreme_power_save_description">"- Extrémní úspora baterie omezí aktivity na pozadí a upozornění.
+- Pokud chcete, aby aplikace běžela na pozadí, přidejte ji do výjimek a uzamkněte v RAM. Můžete povolit maximálně 4 aplikace.
+- Extrémní úspora baterie vypne NFC.
+- Extrémní úspora baterie bude automaticky deaktivována, pokud má baterie více než 30%."</string>
+  <string name="extreme_power_save_mode_summary">Extrémní úspora baterie omezí aktivity na pozadí, zastaví synchronizaci a zredukuje barvy na displeji.</string>
+  <string name="extreme_power_save_mode_title">Extrémní úspora baterie</string>  
+  <string name="notification_exit_extreme_mode_text">Baterie má víc než %s</string>
+  <string name="notification_exit_extreme_mode_title">Vypnuta Extrémní úspora baterie</string>
+  <string name="notification_open_extreme_mode_text">Povolena Extrémní úspora baterie</string>
 </resources>

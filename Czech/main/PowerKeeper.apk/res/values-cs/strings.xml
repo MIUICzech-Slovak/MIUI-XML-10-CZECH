@@ -239,4 +239,8 @@
   <string name="user_define_mode">Název</string>
   <string name="warm_configure">Nastavení kontroly teploty</string>
   <string name="warm_performance_tip">Ve výkonných operacích se může teplota zařízení zvýšit</string>
+  <string name="about_extreme_mode">Extrémní úspora baterie</string>
+  <string name="extreme_mode_max_item_alert">Pouze 4 aplikace mohou být spuštěny na pozadí při Extrémní úspoře baterie</string>
+  <string name="message_i_know">Rozumím</string>
+  <string name="privacy">Ochrana soukromí</string>
 </resources>

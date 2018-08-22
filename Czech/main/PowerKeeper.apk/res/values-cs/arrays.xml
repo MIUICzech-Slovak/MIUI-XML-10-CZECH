@@ -95,4 +95,8 @@
          <item>Výkonný</item>
          <item>Vyvážený</item>
      </string-array>
+     <string-array name="emode_app_groups">
+        <item>Systémové aplikace</item>
+        <item>Ostatní aplikace</item>
+    </string-array>
 </resources>

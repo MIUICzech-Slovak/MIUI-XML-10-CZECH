@@ -25,6 +25,7 @@
   <string name="background">Stáhnout na pozadí</string>
   <string name="backup_cancel">Ne</string>
   <string name="backup_checkbox_msg">Automaticky zálohovat</string>
+  <string name="operation_show_privacy_policy">Zobrazit Ochranu soukromí</string>
   <string name="backup_confirm">Zálohovat</string>
   <string name="backup_success_cancel">OK</string>
   <string name="backup_success_confirm">Zobrazit</string>

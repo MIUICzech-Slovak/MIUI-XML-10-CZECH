@@ -270,4 +270,6 @@ http://www.miuios.cz/rom
   <string name="date_time_picker_has_set_alarm">Budík je nastaven</string>
   <string name="setting_other">Ostatní</string>
   <string name="setting_privacy">Ochrana soukromí</string>
+  <string name="toast_notes_hidden_edit">Poznámka byla skryta. Potáhněte nahoru pro její zobrazení.</string>
+  <string name="toast_notes_hidden_home">Poznámka byla skryta. Potáhněte dolů pro její zobrazení.</string>
 </resources>

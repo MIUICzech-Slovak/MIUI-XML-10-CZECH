@@ -1063,6 +1063,17 @@ Zkuste to znovu za %2$d s."</string>
   <string name="accessibility_quick_settings_alarm_on">Budík je nastaven.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Stav baterie Bluetooth zařízení %d procent.</string>
    <string name="fingerprint_dialog_touch_sensor">Dotkněte se snímače otisku prstu</string>
+   <string name="battery_can_use_time">Zbývá přibližně: %s</string>
+  <string name="dlg_cancel">Zrušit</string>
+  <string name="dlg_confirm">Povolit</string>
+  <string name="dlg_summary_close_app">Omezit aktivity na pozadí a upozornění</string>
+  <string name="dlg_summary_close_theme">Omezit animovaná témata</string>
+  <string name="dlg_summary_close_wifi">Vypnout Wi-Fi, Bluetooth a hotspot</string>
+  <string name="dlg_summary_nfc">Vypnout NFC</string>
+  <string name="dlg_summary_title">Extrémní úspora baterie deaktivuje všechny aktivity na pozadí. Pokud chcete, aby aplikace běžela na pozadí, přidejte ji do výjimek.</string>
+  <string name="enable_extreme_power_save_mode">Extrémní úspora baterie</string>
+  <string name="open_extreme_power_save_mode_title">Povolit Extrémní úsporu baterie</string>
+  <string name="quick_settings_extreme_batterysaver_label">Extrémní úspora</string>
   <string name="miui_ringer_standard">Ticho</string>
   <string name="miui_ringer_standard_description">Ztišit zvonění pro hovory a upozornění</string>
   <string name="miui_ringer_total">Nerušit</string>
