@@ -437,5 +437,13 @@
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">Skrytých aplikací: %d</item>
         <item quantity="one">Skrytých aplikací: %d</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d more characters</item>
+        <item quantity="one">    +%1$d more character</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problémů vyžaduje opravu</item>
+        <item quantity="one">%1$d problém vyžaduje opravu</item>
     </plurals>	
 </resources>

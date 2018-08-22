@@ -623,5 +623,7 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh je vypnuté</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string> 
   <string name="preference_other">Ostatní</string>
-  <string name="preference_privacy_title">Ochrana soukromí</string>  
+  <string name="preference_privacy_title">Ochrana soukromí</string>
+  <string name="accessibility_intent_done_retry">Znovu</string>
+  <string name="view_privacy_policy">Ochrana soukromí</string>  
 </resources>
