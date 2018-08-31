@@ -214,4 +214,9 @@
   <string name="timer_end_time">Časovač skončí za %s</string>
   <string name="timer_can_continue_in_timer">Otevřete časovač pro pokračování</string>
   <string name="timer_is_paused">Časovač je pozastaven</string>
+  <string name="expired_timers_dismissed">Časovač je zrušen</string>
+  <string name="other_category_title">Ostatní</string>
+  <string name="privacy_policy">Ochrana soukromí</string>
+  <string name="timer_created">Časovač vytvořen</string>
+  <string name="invalid_timer_length">Chyba nastavení časovače</string>
 </resources>

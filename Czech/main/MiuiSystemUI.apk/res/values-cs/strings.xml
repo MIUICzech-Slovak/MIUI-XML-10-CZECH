@@ -1951,4 +1951,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="lockscreen_storage_locked">Odemkněte pro všechny funkce a data</string>
   <string name="structure_face_unlock_not_same_person">Musíte dokončit snímání své tváře. Nevyměňujte se s jinou osobou.</string>
   <string name="structure_face_unlock_really_person">Vypadá to, že jste se s někým vyměnili.</string>  
+  <string name="keyguard_charging_back_to_lockscreen">Zpět</string>
+  <string name="keyguard_left_torch">Svítilna</string>
+  <string name="switch_system_user">Otevřít První profil</string>
 </resources>

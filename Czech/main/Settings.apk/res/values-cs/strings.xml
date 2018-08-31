@@ -5418,4 +5418,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="delete_sound_effect">Zvuk vymazání</string>
   <string name="keyguard_security_setting_others">Ostatní</string>
   <string name="keyguard_security_setting_privacy_policy">Ochrana soukromí</string>
+  <string name="check_importance_dialog_cancel">Zrušit</string>
+  <string name="navigation_guide_appswitch_anim_summary">Potáhněte prstem od hrany pro přepnutí aplikací</string>
+  <string name="navigation_guide_appswitch_anim_title">Přepnout na předchozí aplikaci</string>
+  <string name="navigation_guide_appswitch_click">Nejprve povolte \"Přepnout na předch. apl.\"</string>
+  <string name="status_bar_settings_notification_use_app_icon">Požít ikony aplikací</string>
 </resources>

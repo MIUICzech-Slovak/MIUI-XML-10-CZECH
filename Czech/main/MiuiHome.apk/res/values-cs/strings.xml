@@ -329,4 +329,5 @@
   <string name="widget_quick_function">Zkratky</string>
   <string name="default_folder_title_services">Služby</string>
   <string name="open_personal_assistant_dialog_desc_international">Nebude možné využívat karty asistenta.</string>
+  <string name="use_theme_screen_cells_title">Povolit změnu mřížky dle tématu</string>
 </resources>
