@@ -510,4 +510,5 @@ Zkontrolujte také složku SPAM."</string>
   <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se odstraní, pokud budete pokračovat).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
+   <string name="account_invalid_user_avatar">Fotografii nelze použít</string>
 </resources>

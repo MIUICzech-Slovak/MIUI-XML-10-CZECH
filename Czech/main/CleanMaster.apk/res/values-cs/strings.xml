@@ -533,4 +533,6 @@
   <string name="main_total_garbage">Celkem</string>
   <string name="whatsapp_delete_confirm_cancel">Zrušit</string>
   <string name="whatsapp_delete_confirm_ok">OK</string>  
+   <string name="toast_updater_close_4g_text">Aplikace nebudou aktualizovány přes mobilní data</string>
+  <string name="toast_updater_open_4g_text">Aplikace budou aktualizovány přes mobilní data</string>  
 </resources>

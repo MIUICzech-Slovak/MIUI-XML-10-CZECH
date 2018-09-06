@@ -463,4 +463,10 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
   <string name="wallpaper_set_as_desktop">Nastavit jako plochu</string>
+  <string name="exit_extreme_mode_dialog_agree">Souhlasím</string>
+  <string name="exit_extreme_mode_dialog_cancel">Zrušit</string>
+  <string name="exit_extreme_mode_dialog_title">Deaktivovat Extrémní režim</string>
+  <string name="extreme_mode_dialog_message">Tato funkce není dostupná v Extrémním režimu.</string>
+  <string name="extreme_mode_dialog_ok">Rozumím</string>
+  <string name="extreme_mode_dialog_title">Upozornění</string>  
 </resources>

@@ -13,6 +13,7 @@
      <string-array name="thermal_summaries">
          <item>Současný výchozí režim</item>
          <item>Současný výkonný režim</item>
+         <item>Nedostupné pro Extrémní režim</item>
      </string-array>	
   <string-array name="event_name_translate">
     <item>Aplikace je na pozadí</item>
@@ -99,4 +100,12 @@
         <item>Systémové aplikace</item>
         <item>Ostatní aplikace</item>
     </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aktivní aplikace</item>
+        <item>Uspané aplikace</item>
+    </string-array>	
+    <string-array name="hmode_app_classify1">
+        <item>Vlastní</item>
+        <item>Úspora baterie</item>
+    </string-array>	
 </resources>

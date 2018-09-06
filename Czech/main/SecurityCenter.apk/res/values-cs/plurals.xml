@@ -445,5 +445,13 @@
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problémů vyžaduje opravu</item>
         <item quantity="one">%1$d problém vyžaduje opravu</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">položek</item>
+        <item quantity="one">položky</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Přidat %dmin</item>
+        <item quantity="one">Přidat %dmin</item>
     </plurals>	
 </resources>

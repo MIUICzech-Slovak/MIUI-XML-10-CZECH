@@ -1954,4 +1954,5 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="keyguard_charging_back_to_lockscreen">Zpět</string>
   <string name="keyguard_left_torch">Svítilna</string>
   <string name="switch_system_user">Otevřít První profil</string>
+  <string name="miui_screen_rotation_freeze_message">Rotace deaktivována</string>
 </resources>

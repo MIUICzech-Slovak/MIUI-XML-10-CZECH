@@ -140,5 +140,17 @@
     <plurals name="notification_num_channels">
         <item quantity="other">Kategorií: %d</item>
         <item quantity="one">Kategorií: %d</item>
-    </plurals>	 
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Zbývá: %dh</item>
+        <item quantity="one">Zbývá: %dh</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Zbývá: %dmin</item>
+        <item quantity="one">Zbývá: %dmin</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Zbývá: %1$dh %2$dmin</item>
+        <item quantity="one">Zbývá: %1$dh %2$dmin</item>
+    </plurals>		 
 </resources>

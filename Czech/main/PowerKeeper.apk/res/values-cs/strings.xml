@@ -200,7 +200,8 @@
   <string name="power_mode_view_event_title">Úlohy</string>
   <string name="power_mode_view_user_define_title">Nová úloha</string>
   <string name="power_optimize_activity_profile_file_error">Chyba úspory baterie</string>
-  <string name="power_usage">Využití výkonu</string>
+  <string name="power_usage">Využití baterie</string>
+  <string name="config_classify">Seřadit podle nastavení</string>
   <string name="pref_config_title">Optimalizace výkonu</string>
   <string name="quick_disconnect_description">Aplikace nebude mít přístup k síti na pozadí</string>
   <string name="quick_disconnect_title">Odpojit</string>

@@ -421,4 +421,14 @@
   <string name="wx_timeline">Baterie</string>
   <string name="xspace_resolver_activity_title">vyberte aplikaci</string>
   <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
+  <string name="app_setting">Nastavení</string>
+  <string name="app_setting_add_header_bg">Pozadí</string>
+  <string name="app_setting_datetime">Zobrazit datum</string>
+  <string name="app_setting_dialog_cancel">Zrušit</string>
+  <string name="app_setting_has_not_setted">Není nastaveno</string>
+  <string name="app_setting_has_setted">Nastaveno</string>
+  <string name="app_setting_more_setting">Více nastavení</string>
+  <string name="app_setting_on_off_setting">Nastavení</string>
+  <string name="app_setting_privacy_policy">Ochrana soukromí</string>
+  <string name="app_setting_search">Zobrazit vyhledávání</string>  
 </resources>
