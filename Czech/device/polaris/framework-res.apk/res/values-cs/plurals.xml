@@ -108,6 +108,12 @@
         <item quantity="few">za %d roky</item>
         <item quantity="many">za %d roku</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Zkuste to znovu za %d sekund.</item>
+        <item quantity="one">Zkuste to znovu za 1 sekundu.</item>
+        <item quantity="few">Zkuste to znovu za %d sekundy.</item>
+        <item quantity="many">Zkuste to znovu za %d sekundy.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Posledních %d dnů</item>
         <item quantity="one">Poslední %d den</item>
@@ -158,7 +164,7 @@
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">%d hodin</item>
-        <item quantity="one">Jednu hodinu</item>
+        <item quantity="one">1 hodina</item>
         <item quantity="few">%d hodiny</item>
         <item quantity="many">%d hodiny</item>
     </plurals>
@@ -170,7 +176,7 @@
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
         <item quantity="other">%1$d hodin (do %2$s)</item>
-        <item quantity="one">Jednu hodinu (do %2$s)</item>
+        <item quantity="one">1 hodina (do %2$s)</item>
         <item quantity="few">%1$d hodiny (do %2$s)</item>
         <item quantity="many">%1$d hodiny (do %2$s)</item>
     </plurals>
