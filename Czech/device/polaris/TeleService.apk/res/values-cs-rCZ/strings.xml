@@ -446,7 +446,6 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
      <string name="pin2_error_exception">Došlo k chybě sítě nebo SIM karty.</string>
      <string name="pointer_location">Umístění ukazatele</string>
      <string name="pointer_location_summary">Zobrazit překryvnou vrstvu s aktuálními daty o dotycích</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_duration">%1$s – plně se nabije za %2$s</string>
      <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Při vašem obvyklém využití (%2$s) vydrží asi do %1$s</string>
@@ -483,7 +482,6 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
      <string name="private_dns_mode_provider">Název hostitele poskytovatele soukromého DNS</string>
      <string name="private_dns_mode_provider_failure">Nelze se připojit</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadejte název hostitele poskytovatele DNS</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="radio_off_during_emergency_call">Během nouzového volání není možné zapnout režim letadla.</string>
      <string name="remaining_length_format">Zbývající čas: %1$s</string>
      <string name="retail_demo_reset_message">Chcete-li v ukázkovém režimu obnovit zařízení do továrního nastavení, zadejte heslo</string>
