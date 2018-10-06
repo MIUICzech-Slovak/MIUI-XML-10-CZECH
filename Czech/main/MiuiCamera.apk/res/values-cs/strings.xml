@@ -52,7 +52,7 @@
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Režim přiblížení</string>
-  <string name="ai_scene_mode_use_hint_text">Otevřít AI Fotoaparát, identifikovat scénu a optimalizovat nastavení pro co nejlepší záběr</string>
+  <string name="ai_scene_mode_use_hint_text">Povolte AI Fotoaparát, identifikuje scénu a optimalizuje nastavení pro co nejlepší záběr</string>
   <string name="audio_focus_exit_button_text">Ukončit</string>
   <string name="beauty_fragment_tab_name_beauty">Zkrášlit</string>
   <string name="beauty_fragment_tab_name_makeup">Rozšířené</string>
@@ -344,7 +344,7 @@
   <string name="pref_camera_manual_mode_title">Manuální režim</string>
   <string name="pref_camera_mfnr_sat_enable_title">Povolit MFNR</string>
   <string name="pref_camera_mono_mode_title">Mono</string>
-  <string name="pref_camera_movie_solid_title">Stabilizace videa</string>
+  <string name="pref_camera_movie_solid_title">Stabilizace obrazu</string>
   <string name="pref_camera_multilevel_entry_high">Vysoké</string>
   <string name="pref_camera_multilevel_entry_higher">Vyšší</string>
   <string name="pref_camera_multilevel_entry_highest">Nejvyšší</string>
@@ -578,7 +578,7 @@
   <string name="ubifocus_capture_warning_message">Je mnohem lepší, když jsou v náhledu bližší (do 1m od objektivu) a vzdálenější objekty</string>
   <string name="user_agree">Souhlasím</string>
   <string name="user_agreement2">Podmínkami používání</string>
-  <string name="user_agreement4">Ochranou soukromí</string>
+  <string name="user_agreement4">Ochrana soukromí</string>
   <string name="user_notice_identify_summary_format">Používáním této služby souhlasíte s Xiaomi %1$s a %2$s.</string>
   <string name="user_notice_title">Podmínky používání</string>
   <string name="video_camera_label">Videokamera</string>

@@ -742,4 +742,6 @@ Pokus: %s."</string>
   <string name="unsubscribe">Odhlásit</string>
   <string name="yes">OK</string>
   <string name="yesterday">Včera</string>
+  <string name="dialog_title_networking">Podmínky používání</string>
+  <string name="dialog_message_networking">SMS aplikace vyžaduje připojení na internet pro fungování cloudových zpráv.</string>
 </resources>

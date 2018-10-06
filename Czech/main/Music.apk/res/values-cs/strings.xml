@@ -521,7 +521,7 @@ poskytována především firmou Ultimate Inc."</string>
   <string name="local_page_artist_more">Více skladeb od %s</string>
   <string name="local_page_custom_subtitle">Nové skladby každý den</string>
   <string name="local_page_custom_title">Pro vás</string>
-  <string name="local_page_playlist">Moje playlisty</string>
+  <string name="local_page_playlist">Playlisty</string>
   <string name="local_page_song_all">Všechny skladby</string>
   <string name="local_page_song_download">Místní skladby</string>
   <string name="local_page_song_download_history">Stažené</string>
@@ -712,7 +712,7 @@ poskytována především firmou Ultimate Inc."</string>
   <string name="permission_declaration_title">Povolit přístup</string>
   <string name="pick_favorite_song">Oblíbené</string>
   <string name="pick_local_song">Místní skladby</string>
-  <string name="pick_recent_song">Nedávno přehrané</string>
+  <string name="pick_recent_song">Nedávné</string>
   <string name="play_all_song">Přehrát vše</string>
   <string name="play_mode_all_loop">Opakovat vše</string>
   <string name="play_mode_one_loop">Smyčka</string>
