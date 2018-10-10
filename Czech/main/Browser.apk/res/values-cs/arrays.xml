@@ -41,4 +41,9 @@
         <item>Na šířku</item>
         <item>Na výšku</item>
      </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Vždy se zeptat</item>
+        <item>Otevřít</item>
+        <item>Zavřít</item>
+    </string-array>
 </resources>

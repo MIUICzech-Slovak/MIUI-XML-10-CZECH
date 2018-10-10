@@ -5423,5 +5423,21 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="navigation_guide_appswitch_anim_summary">Potáhněte prstem od hrany pro přepnutí aplikací</string>
   <string name="navigation_guide_appswitch_anim_title">Přepnout na předchozí aplikaci</string>
   <string name="navigation_guide_appswitch_click">Nejprve povolte \"Přepnout na předch. apl.\"</string>
-  <string name="status_bar_settings_notification_use_app_icon">Požít ikony aplikací</string>
+  <string name="status_bar_settings_notification_use_app_icon">Použít ikony aplikací</string>
+  <string name="fingerprint_others_title">Ostatní</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Pulz</string>
+  <string name="gxzw_anim_rhythm">Rytmus</string>
+  <string name="gxzw_anim_title">Animace otisku prstu</string>
+  <string name="child_mode_settings">Rodičovský zámok</string>
+  <string name="dangerous_option">High-risk developer options</string>
+  <string name="dangerous_option_hint">%1$s je povoleno. Dotykem změníte nastavení.</string>
+  <string name="dangerous_option_hint_title">High-risk feature enabled</string>
+  <string name="gxzw_dialog_message">Pro spolehlivé používání senzoru otisku prstu v displeji, nepoužívejte ochranná skla a fólie.</string>
+  <string name="gxzw_dialog_not_show_again">Znovu nezobrazovat</string>
+  <string name="gxzw_dialog_ok">Rozumím</string>
+  <string name="gxzw_dialog_title">Senzor otisku prstu</string>
+  <string name="miui_optimization_disabled">Deaktivovat MIUI optimalizaci</string>
+  <string name="switch_access_service_on">Přepnout přístup</string>
 </resources>

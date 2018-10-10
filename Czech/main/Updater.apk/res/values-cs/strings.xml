@@ -35,7 +35,7 @@ Vaše data budou zachována."</string>
   <string name="new_version">Je dostupná nová verze!</string>
   <string name="no_info">Informace nejsou dostupné</string>
   <string name="no_network">Žádný přístup v síti.</string>
-  <string name="no_update">Není dostupná nová verze!</string>
+  <string name="no_update">Není dostupná nová verze nebo nastala chyba serveru. Zkontrolujte miuios.cz pro kontrolu nové verze</string>
   <string name="no_xioamieu">"Nepoužíváte MIUI ROM od miuios.cz nebo xiaomi.eu!
   Aktualizace pro vás není dostupná!"</string>
   <string name="notif_cancel">Zrušit</string>

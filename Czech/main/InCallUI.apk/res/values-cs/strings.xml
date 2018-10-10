@@ -254,4 +254,5 @@
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="conference_call_recorder_title">Konferenční hovor</string>
+  <string name="volume_boost_text">Hlasitost je zesílena</string>
 </resources>

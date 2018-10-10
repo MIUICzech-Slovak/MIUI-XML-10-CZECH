@@ -9,4 +9,8 @@
         <item quantity="other">Čeká na stáhnutí: %d</item>
         <item quantity="one">Čeká na stáhnutí: 1</item>
     </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Nelze stáhnout: %1$d</item>
+        <item quantity="one">Nelze stáhnout: %1$d</item>
+    </plurals>
 </resources>

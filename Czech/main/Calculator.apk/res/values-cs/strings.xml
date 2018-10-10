@@ -337,4 +337,5 @@ Delta aktualizace má velikost: %2$s"</string>
   <string name="interest_rate_hint">Zadejte úrok</string>
   <string name="loan_repayment_detail">" Splátek"</string>
   <string name="loan_repayment_detail_loading">Výpočet...</string>
+  <string name="not_supported_due_to_language">tato funkce není podporována mimo Čínu</string>
 </resources>

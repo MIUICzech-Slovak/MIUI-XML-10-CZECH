@@ -47,10 +47,10 @@
   <string name="cloud_app_restore_wifi_prompt">Pro obnovení aplikací se připojte k Wi-Fi.</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Záloha bude odeslána na MiCloud při připojení k Wi-Fi: 
-*\u0009\u0009\u0009\u0009Apl, Rozložení plochy, a tapety 
-*\u0009\u0009\u0009\u0009Budíky, hodiny, a nastavení času 
-*\u0009\u0009\u0009\u0009Nastavení upozornění 
-*\u0009\u0009\u0009\u0009Nastavení systému a MIUI 
+*  Apl, Rozložení plochy, a tapety 
+*  Budíky, hodiny, a nastavení času 
+*  Nastavení upozornění 
+*  Nastavení systému a MIUI 
 Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Plánování zálohy</string>
   <string name="cloud_back_up_frequence_long">Každých 7 dní</string>
@@ -187,4 +187,13 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="msg_alert_restore_error">Obnova selhala. Zkuste to znovu.</string>
   <string name="title_alert_cancel_restore">Zastavit obnovu</string>
   <string name="title_alert_restore_error">Obnovení selhalo</string>
+  <string name="error_retry_later">Selhalo, zkuste to později.</string>
+  <string name="home_hint_other_launcher">Ostatní nastavení plochy</string>
+  <string name="load_backup_failed">Načítání zálohy selhalo</string>
+  <string name="loading_user_backup">Načítání zálohy...</string>
+  <string name="main_space">První profil</string>
+  <string name="second_space">Druhý profil</string>
+  <string name="self_device">"Tohoto zařízení "</string>
+  <string name="try_continue">Pokračovat</string>
+  <string name="unsupported_home">Aktualizujte na nejnovější verzi MIUI.</string>
 </resources>

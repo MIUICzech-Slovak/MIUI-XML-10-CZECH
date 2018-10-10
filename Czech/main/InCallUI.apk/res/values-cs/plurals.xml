@@ -17,4 +17,16 @@
         <item quantity="other">Nahrané hovory: %d</item>
         <item quantity="one">Nahrané hovory: 1</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">1s</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">1h</item>
+    </plurals>	
 </resources>

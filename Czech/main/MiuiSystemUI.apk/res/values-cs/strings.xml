@@ -1955,4 +1955,9 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="keyguard_left_torch">Svítilna</string>
   <string name="switch_system_user">Otevřít První profil</string>
   <string name="miui_screen_rotation_freeze_message">Rotace deaktivována</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Pro přidání tlačítka jej podržte a přesuňte do vrchní části.</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Režim letadlo</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Pouze nouzový hovor</string>
+  <string name="lock_screen_no_sim_card_no_service">Žádný signál</string>
+  <string name="torch_high_temperature_warning">Vaše zařízení je přehřáté. Nelze použít svítilnu.</string>
 </resources>

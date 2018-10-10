@@ -169,4 +169,5 @@
   <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
   <string name="resolver_app_recommend_flag">Doporučené</string>
+  <string name="security_permission_network_failed_text">Nelze se připojit k síti. Zkuste to znovu později.</string>
 </resources>

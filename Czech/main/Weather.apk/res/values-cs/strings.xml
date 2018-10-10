@@ -192,4 +192,6 @@ Zadejte město manuálně"</string>
   <string name="hourly_forecast_title_hourly_desc">hodinová předpověď</string>
   <string name="privacy_policy">Ochrana soukromí</string>
   <string name="user_agreement">Podmínky používání</string>
+  <string name="content_desc_city_manage_del">Vymazat</string>
+  <string name="content_desc_city_manage_edit">Spravovat města</string>  
 </resources>
