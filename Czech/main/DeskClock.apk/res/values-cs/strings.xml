@@ -219,4 +219,8 @@
   <string name="privacy_policy">Ochrana soukromí</string>
   <string name="timer_created">Časovač vytvořen</string>
   <string name="invalid_timer_length">Chyba nastavení časovače</string>
+  <string name="timer_alert_mute_off">Budík bude zvonit po zastavení časovače</string>
+  <string name="timer_alert_mute_on">Budík nebude zvonit po zastavení časovače</string>
+  <string name="timer_alert_mute_remind">Dotykem ztišíte budík</string>
+  <string name="timer_alert_mute_switch">Přepněte pro ztišení časovače</string>  
 </resources>

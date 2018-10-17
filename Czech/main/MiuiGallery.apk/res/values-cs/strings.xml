@@ -1328,4 +1328,12 @@
   <string name="ai_album_requesting_title">AI algoritmus zpracovává vaše fotografie. Vraťe se později.</string>
   <string name="ai_album_setting_sub_title">Povolit AI algoritmus pro identifikování objektů, měst, lidí na fotografiích.</string>
   <string name="ai_album_setting_title">Identifikovat objekty na fotografiích</string>
+  <string name="collage_select_image_range">Koláž může obsahovat 1-4 fotografie</string>
+  <string name="frame_not_support_image_ratio">Tento poměr stran není podporován</string>
+  <string name="operation_produce">Kreativita</string>
+  <string name="photo_editor_crop_auto_tips">Automaticky ořezané</string>
+  <string name="photo_editor_frame">Rámeček</string>
+  <string name="photo_movie_select_image_range">Klipy mohou obsahovat 3-6 fotografií</string>
+  <string name="select_image_operation">Přidávání fotografií</string>
+  <string name="unsupport_video">%s video není podporováno</string>
 </resources>

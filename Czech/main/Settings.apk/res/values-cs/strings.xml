@@ -5440,4 +5440,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="gxzw_dialog_title">Senzor otisku prstu</string>
   <string name="miui_optimization_disabled">Deaktivovat MIUI optimalizaci</string>
   <string name="switch_access_service_on">Přepnout přístup</string>
+  <string name="camera_front">Přední %s</string>
+  <string name="camera_rear">Zadní %s</string>
+  <string name="device_camera">Fotoaparát</string>
+  <string name="status_bar_settings_peek_notification_icon">Zobrazit ikony upozornění</string>
 </resources>

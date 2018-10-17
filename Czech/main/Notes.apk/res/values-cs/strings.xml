@@ -272,4 +272,8 @@ http://www.miuios.cz/rom
   <string name="setting_privacy">Ochrana soukromí</string>
   <string name="toast_notes_hidden_edit">Poznámka byla skryta. Potáhněte nahoru pro její zobrazení.</string>
   <string name="toast_notes_hidden_home">Poznámka byla skryta. Potáhněte dolů pro její zobrazení.</string>
+  <string name="cta_confirm_cancel">Zakázat</string>
+  <string name="cta_confirm_ok">Povolit</string>
+  <string name="cta_dialog_message">Poznámky vyžadují povolení pro připojení k síti, nahrávání zvuku a přístup ke kontaktům. Chcete povolit?</string>
+  <string name="cta_dialog_title">Povolení</string>  
 </resources>

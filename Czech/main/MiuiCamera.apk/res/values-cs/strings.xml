@@ -625,5 +625,6 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="preference_other">Ostatní</string>
   <string name="preference_privacy_title">Ochrana soukromí</string>
   <string name="accessibility_intent_done_retry">Znovu</string>
-  <string name="view_privacy_policy">Ochrana soukromí</string>  
+  <string name="view_privacy_policy">Ochrana soukromí</string> 
+  <string name="ultra_wide_mode">Ultra-široký režim</string> 
 </resources>

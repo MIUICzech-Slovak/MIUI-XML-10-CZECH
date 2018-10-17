@@ -1043,4 +1043,6 @@ Chcete opustit tuto stránku?"</string>
   <string name="data_monitor">Upozornění na spotřebu dat</string>
   <string name="pref_tab_restore">Obnovit naposledy otevřenou stránku</string>
   <string name="pref_slide_back_forward">Navigace posouváním prstu</string>
+  <string name="guide_slide_down">Potáhněte dolů</string>
+  <string name="guide_slide_up">Potáhněte nahoru</string>  
 </resources>

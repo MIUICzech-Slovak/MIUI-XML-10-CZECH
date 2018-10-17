@@ -50,5 +50,10 @@
          <item>Říj</item>
          <item>Lis</item>
          <item>Pro</item>
-     </string-array>	
+     </string-array>
+     <string-array name="menu_copy_or_move">
+        <item>Přesunout</item>
+        <item>Kopírovat</item>
+        <item>Zrušit</item>
+    </string-array>	
 </resources>
