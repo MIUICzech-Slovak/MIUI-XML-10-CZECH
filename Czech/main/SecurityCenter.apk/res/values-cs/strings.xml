@@ -2995,6 +2995,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="status_bar_settings_user_fold_disable">Vyp.</string>
   <string name="status_bar_settings_user_fold_enable">Zap.</string>
    <string name="card_main_deepclean_whatsapp_title">WhatsApp čistič</string>
-  <string name="card_main_hwtest_title">Test harware</string>
+  <string name="card_main_hwtest_title">Test hardware</string>
   <string name="menu_item_about_privacy_title">Ochrana soukromí</string>
 </resources>
