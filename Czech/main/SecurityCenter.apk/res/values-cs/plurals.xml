@@ -454,4 +454,8 @@
         <item quantity="other">Přidat %dmin</item>
         <item quantity="one">Přidat %dmin</item>
     </plurals>	
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Vybito %2$d%% baterie během posledních %1$d min.</item>
+        <item quantity="one">Vybito %2$d%% baterie během posledních %1$d min.</item>
+    </plurals>
 </resources>

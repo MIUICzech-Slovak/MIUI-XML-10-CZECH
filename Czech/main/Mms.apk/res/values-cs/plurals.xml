@@ -69,4 +69,8 @@
          <item quantity="zero">SMS: %d</item>
          <item quantity="one">SMS: %d</item>
      </plurals>	 
+     <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">SMS přijata %1$s a %2$d ostatním</item>
+        <item quantity="one">SMS přijata %1$s a %2$d dalším</item>
+    </plurals>
 </resources>

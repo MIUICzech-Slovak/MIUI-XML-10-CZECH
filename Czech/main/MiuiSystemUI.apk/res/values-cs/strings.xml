@@ -1960,4 +1960,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="lock_screen_no_sim_card_emergency_only">Pouze nouzový hovor</string>
   <string name="lock_screen_no_sim_card_no_service">Žádný signál</string>
   <string name="torch_high_temperature_warning">Vaše zařízení je přehřáté. Nelze použít svítilnu.</string>
+    <string name="structure_face_unlock_tof_covered">Nelze naskenovat tvář. Oddalte zařízení a zkuste to znovu.</string>
+
 </resources>

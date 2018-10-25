@@ -468,5 +468,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="exit_extreme_mode_dialog_title">Deaktivovat Extrémní režim</string>
   <string name="extreme_mode_dialog_message">Tato funkce není dostupná v Extrémním režimu.</string>
   <string name="extreme_mode_dialog_ok">Rozumím</string>
-  <string name="extreme_mode_dialog_title">Upozornění</string>  
+  <string name="extreme_mode_dialog_title">Upozornění</string> 
+  <string name="component_title_settings_video_wallpaper">Tapety s efekty</string>
+  <string name="theme_detail_tab_comment">Komentáře</string>
+  <string name="theme_detail_tab_recommend">Doporučené</string>
+  <string name="theme_detail_tab_theme">Témata</string> 
 </resources>
