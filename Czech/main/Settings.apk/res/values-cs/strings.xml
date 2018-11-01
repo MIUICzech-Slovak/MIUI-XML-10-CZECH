@@ -5484,4 +5484,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="restore_dialog_content">Obnovení identifikace zařízení obnoví i vaše doporučení.</string>
   <string name="restore_dialog_positive">Obnovit</string>
   <string name="restore_dialog_title">Upozornění</string>
+  <string name="keyguard_notification_status_title">Upozornění</string>
 </resources>

@@ -1336,4 +1336,8 @@
   <string name="photo_movie_select_image_range">Klipy mohou obsahovat 3-6 fotografií</string>
   <string name="select_image_operation">Přidávání fotografií</string>
   <string name="unsupport_video">%s video není podporováno</string>
+  <string name="operation_set_slide_wallpaper">Nastavit jako prezentaci na pozadí</string>
+  <string name="picker_origin_request_progress_fail">Nelze stáhnout obrázek.</string>
+  <string name="set_as_slide_wallpaper_description">Tento obrázek je pouze náhled. Chcete stáhnout originál?</string>
+  <string name="set_as_slide_wallpaper_title">Nastavit jako prezentaci na pozadí</string>
 </resources>

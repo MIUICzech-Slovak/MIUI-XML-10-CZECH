@@ -1317,4 +1317,8 @@ Vyberte si z následujících možností:</string>
   <string name="toast_call_no_SoundRecorder">Nahrávání není dostupné</string>
     <string name="toast_call_no_notes">Poznámky nejsou dostupné</string>
      <string name="preference_privacy_policy_title">Ochrana soukromí</string>
+     <string name="description_image_button_sim1_named_dial">Vytočit přes SIM1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Vytočit přes SIM2 %s</string>
+  <string name="scan_business_card">Skenovat vizitku</string>
+  <string name="scan_bussiness_card_merge_tip">Data byla přepsána</string>
 </resources>

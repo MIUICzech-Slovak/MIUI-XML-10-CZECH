@@ -152,5 +152,13 @@
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
         <item quantity="other">Zbývá: %1$dh %2$dmin</item>
         <item quantity="one">Zbývá: %1$dh %2$dmin</item>
-    </plurals>		 
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Zadání hesla je vyžadováno po %d hodinách neaktivity</item>
+        <item quantity="one">Zadání hesla je vyžadováno po %d hodině neaktivity</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Zadání gesta je vyžadováno po %d hodinách neaktivity</item>
+        <item quantity="one">Zadání gesta je vyžadováno po %d hodině neaktivity</item>
+    </plurals>			 
 </resources>

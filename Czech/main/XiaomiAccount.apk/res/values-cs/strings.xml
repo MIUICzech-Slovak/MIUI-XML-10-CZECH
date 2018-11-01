@@ -511,4 +511,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
    <string name="account_invalid_user_avatar">Fotografii nelze použít</string>
+   <string name="passport_input_phone_password">Zadejte PIN pro číslo %s</string>
+  <string name="passport_international_register_by_email">Vytvořit účet pomocí emailové adresy</string>
+  <string name="passport_sms_verification_code_login_or_register">Přihlásit se nebo registrovat pomocí SMS</string>
 </resources>

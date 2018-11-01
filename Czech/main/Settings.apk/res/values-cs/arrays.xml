@@ -10,6 +10,11 @@
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>Rozsvítit displej</item>
+        <item>Zobrazit animaci</item>
+        <item>Neprobouzet displej</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
          <item>Vždy</item>
          <item>30 minut</item>

@@ -534,5 +534,18 @@
   <string name="whatsapp_delete_confirm_cancel">Zrušit</string>
   <string name="whatsapp_delete_confirm_ok">OK</string>  
    <string name="toast_updater_close_4g_text">Aplikace nebudou aktualizovány přes mobilní data</string>
-  <string name="toast_updater_open_4g_text">Aplikace budou aktualizovány přes mobilní data</string>  
+  <string name="toast_updater_open_4g_text">Aplikace budou aktualizovány přes mobilní data</string>
+  <string name="app_clean_group_document_recv">Přijaté soubory</string>
+  <string name="app_clean_group_document_send">Odeslané soubory</string>
+  <string name="app_clean_group_image_recv">Přijaté obrázky</string>
+  <string name="app_clean_group_image_send">Odeslané obrázky</string>
+  <string name="facebook_clean_exit_confirm_cancel">Pokračovat v kontrole</string>
+  <string name="facebook_clean_exit_confirm_msg">Kontrola nebyla dokončena. Chcete ji ukončit?</string>
+  <string name="facebook_clean_exit_confirm_ok">Ukončit</string>
+  <string name="facebook_clean_exit_confirm_title">Ukončit kontrolu?</string>
+  <string name="facebook_cleaner">Facebook čistič</string>
+  <string name="facebook_group_cache">Cache</string>
+  <string name="facebook_group_gif">GIF</string>
+  <string name="facebook_group_image">Obrázky</string>
+  <string name="facebook_group_video">Videa</string>  
 </resources>
