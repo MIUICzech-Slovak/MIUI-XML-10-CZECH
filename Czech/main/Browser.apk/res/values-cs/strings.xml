@@ -877,7 +877,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="suggest_access_item_website_mark">WEBSITE</string>
   <string name="suggest_item_delete_text">Vymazat</string>
   <string name="suggest_open_app_failed">Nebylo možné otevřít tuto aplikaci</string>
-  <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
+  <string name="suggestion_clear_record_message">Chcete vymazat historii zadávání?</string>
   <string name="switchText">ANO</string>
   <string name="switch_proxy_dialog_msg">"Bylo zjištěno napadení vaší sítě. Použijte MIUI aplikaci Optimalizace nebo to nahlaste vašemu operátorovi."</string>
   <string name="switch_proxy_dialog_title">Napadení sítě</string>
@@ -1044,5 +1044,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_tab_restore">Obnovit naposledy otevřenou stránku</string>
   <string name="pref_slide_back_forward">Navigace posouváním prstu</string>
   <string name="guide_slide_down">Potáhněte dolů</string>
-  <string name="guide_slide_up">Potáhněte nahoru</string>  
+  <string name="guide_slide_up">Potáhněte nahoru</string>
+  <string name="suggestion_input_history_title_text">HISTORIE</string>
+  <string name="suggestion_input_hitory_clear_text">VYMAZAT</string>
 </resources>
