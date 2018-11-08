@@ -168,4 +168,21 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnost: "</string>
   <string name="wifi_ssid">"SSID: "</string>
+  <string name="agree_btn">Souhlasím</string>
+  <string name="business_card">Vizitka</string>
+  <string name="business_card_title">Zaměřte na vizitku</string>
+  <string name="business_copy">Kopírovat</string>
+  <string name="business_new_contacts">Vytvořit kontakt</string>
+  <string name="business_no_result">Nelze rozpoznat vizitku.</string>
+  <string name="calender">Kalendář</string>
+  <string name="call_anyone">Zavolat</string>  
+  <string name="drag_crop_to_business_card">Oříznout</string>
+  <string name="open_url">Otevřít URL</string>
+  <string name="got_it">Rozumím</string>
+  <string name="gps">Navigovat</string>
+  <string name="new_schedule">Vytvořit událost</string>
+  <string name="refresh">Obnovit</string>
+  <string name="send_mail">Odeslat e-mail</string>
+  <string name="switch_open">Povolit</string>
+  <string name="wifi_exist_fail">Wi-Fi hotspot \"%1$s\" již existuje.</string>
 </resources>

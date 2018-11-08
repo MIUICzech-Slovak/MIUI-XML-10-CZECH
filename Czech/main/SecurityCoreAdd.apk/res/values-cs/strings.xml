@@ -377,4 +377,6 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_content">Odinstalace klonované aplikace vymaže všechna její data.</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
+    <string name="xspace_remove">Vymazat účty klonovaných aplikací</string>
+
 </resources>

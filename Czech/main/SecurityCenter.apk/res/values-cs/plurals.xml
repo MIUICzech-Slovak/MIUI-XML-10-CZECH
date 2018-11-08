@@ -458,4 +458,8 @@
         <item quantity="other">Vybito %2$d%% baterie během posledních %1$d min.</item>
         <item quantity="one">Vybito %2$d%% baterie během posledních %1$d min.</item>
     </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">Zamknutých aplikací: %d</item>
+        <item quantity="one">Zamknutých aplikací: %d</item>
+    </plurals>	
 </resources>

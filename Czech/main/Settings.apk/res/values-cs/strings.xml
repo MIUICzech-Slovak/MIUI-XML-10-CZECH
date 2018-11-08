@@ -5485,4 +5485,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="restore_dialog_positive">Obnovit</string>
   <string name="restore_dialog_title">Upozornění</string>
   <string name="keyguard_notification_status_title">Upozornění</string>
+  <string name="others">Ostatní</string>
+  <string name="slider_vocie_online_theme">Online zvuk</string>
+  <string name="sound_stereo_mode_summary">Dostupné pouze pokud přehráváte zvuk přes reproduktor</string>
+  <string name="sound_stereo_mode_title">Stereo zvuk</string>
 </resources>
