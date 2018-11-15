@@ -46,4 +46,9 @@
         <item>Otevřít</item>
         <item>Zavřít</item>
     </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Zpět / Další</item>
+        <item>Změnit kartu</item>
+        <item>Žádná</item>
+    </string-array>	
 </resources>

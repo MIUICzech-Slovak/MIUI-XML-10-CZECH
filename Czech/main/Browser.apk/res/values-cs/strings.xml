@@ -1047,4 +1047,13 @@ Chcete opustit tuto stránku?"</string>
   <string name="guide_slide_up">Potáhněte nahoru</string>
   <string name="suggestion_input_history_title_text">HISTORIE</string>
   <string name="suggestion_input_hitory_clear_text">VYMAZAT</string>
+  <string name="action_menu_toast_incognito_off">Deaktivovat inkognito režim</string>
+  <string name="action_menu_toast_incognito_on">Aktivovat inkognito režim</string>
+  <string name="contextmenu_incognito">Inkognito režim</string>
+  <string name="document_download_immediate">Ihned stáhnout</string>
+  <string name="document_download_normal">Běžné stahování</string>
+  <string name="document_download_recommending">Bezpečné stahování</string>
+  <string name="download_dialog_file_length_default_txt">Načítání...</string>
+  <string name="pref_fling_gesture">Gesta potáhnutím</string>
+  <string name="suggestion_sliding_item_more_text">VÍCE</string>
 </resources>

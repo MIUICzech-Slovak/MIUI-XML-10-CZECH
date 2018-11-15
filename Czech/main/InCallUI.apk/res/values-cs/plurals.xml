@@ -28,5 +28,13 @@
     <plurals name="duration_hours">
         <item quantity="other">%dh</item>
         <item quantity="one">1h</item>
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">Připojených: %s</item>
+        <item quantity="one">Připojených: %s</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Znovu vytočené %dx</item>
+        <item quantity="one">Znovu vytočené %dx</item>
     </plurals>	
 </resources>

@@ -1340,4 +1340,16 @@
   <string name="picker_origin_request_progress_fail">Nelze stáhnout obrázek.</string>
   <string name="set_as_slide_wallpaper_description">Tento obrázek je pouze náhled. Chcete stáhnout originál?</string>
   <string name="set_as_slide_wallpaper_title">Nastavit jako prezentaci na pozadí</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Galerie bude ukládat soubory na interní úložiště. Můžete to změnit v nastavení.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">Nelze získat povolení.</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Další</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Povolení</string>
+  <string name="ext_sdcard_guide_text">Galerie vyžaduje povolení k přístupu na SD kartu:</string>
+  <string name="ext_sdcard_operation_failed_text">Galerie vyžaduje povolení k přístupu na SD kartu.</string>
+  <string name="ext_sdcard_operation_failed_title">Nelze dokončit</string>
+  <string name="ext_sdcard_permission_request_button_text">Rozumím</string>
+  <string name="ext_sdcard_permission_request_reason">Galerie vyžaduje povolení k přístupu na SD kartu.</string>
+  <string name="ext_sdcard_permission_request_title">Povolit Galerii přístup k SD kartě</string>
+  <string name="ext_sdcard_request_failed_button_text">OK</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Hotovo!</string>  
 </resources>
