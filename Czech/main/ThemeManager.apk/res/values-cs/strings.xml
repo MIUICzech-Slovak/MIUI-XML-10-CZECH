@@ -96,7 +96,7 @@
   <string name="home_apply_failured">Nelze nastavit tapetu</string>
   <string name="home_apply_success">Tapeta nastavena</string>
   <string name="in_the_end">Nic víc</string>
-  <string name="incompatible_dialog_message">Toto téma není plně kompatibilní s MIUI 8. Některé její části nemusí být zobrazeny správně nebo mohou způsobit neočekávané chyby.</string>
+  <string name="incompatible_dialog_message">Toto téma není plně kompatibilní s vaší verzí MIUI. Některé její části nemusí být zobrazeny správně nebo mohou způsobit neočekávané chyby.</string>
   <string name="incompatible_dialog_ok">Rozumím</string>
   <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
   <string name="is_setting_wallpaper_message">Nastavení tapety...</string>
