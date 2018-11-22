@@ -1961,5 +1961,12 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="lock_screen_no_sim_card_no_service">Žádný signál</string>
   <string name="torch_high_temperature_warning">Vaše zařízení je přehřáté. Nelze použít svítilnu.</string>
     <string name="structure_face_unlock_tof_covered">Nelze naskenovat tvář. Oddalte zařízení a zkuste to znovu.</string>
-
+    <string name="accessibility_left_control_center_button">Odkaz</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Hudba</string>
+  <string name="clock_city_name_local">Lokální</string>
+  <string name="face_data_manage_unlock_slide_msg">Nahradit zkratky odemknutí tváří</string>
+  <string name="lock_screen_magazine_default_content">Denní nové tapety</string>
+  <string name="lock_screen_magazine_default_entry_title">Podrobnosti o tapetě</string>
+  <string name="lock_screen_magazine_default_title">Hudba</string>
+  <string name="open_lock_screen_magazine_hint_text">Potáhněte napravo pro více možností</string>
 </resources>

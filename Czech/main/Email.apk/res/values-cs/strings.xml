@@ -930,4 +930,7 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+   <string name="dialog_agree">Souhlasím</string>
+  <string name="dialog_disagree">Nesouhlasím</string>
+  <string name="list_empty_to_fresh">Žádná zpráva, potáhněte dolů pro obnovení.</string>
 </resources>

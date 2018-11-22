@@ -90,5 +90,8 @@
   <string name="two_dimensional_code_scan">Skenování QR kódu</string>
   <string name="user_agreement">Podmínky používání</string>
   <string name="user_strayed_warning">Tato stránka je pouze pro testování, vraťte se zpět.</string>
+  <string name="other_settings_enhanced_lockscreen">Denní tapeta</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Získejte nové tapety na zamknuté obrazovce</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">T&amp;C</string>  
   <string name="welcome">Vítejte</string>
 </resources>

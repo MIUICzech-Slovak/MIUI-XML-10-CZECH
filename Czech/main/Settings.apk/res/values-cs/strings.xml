@@ -5488,4 +5488,14 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="others">Ostatní</string>
   <string name="slider_vocie_online_theme">Online zvuk</string>
   <string name="input_pattern_hint_text">Zadejte své gesto</string>
+   <string name="long_press_power_key_half_of_second">Stiskněte a podržte tlačítko zapínání na 0.5s pro spuštění Google Asistenta</string>
+  <string name="power_key_how_power_force_off">Jak restartovat zařízení</string>
+  <string name="power_key_how_power_force_off_detail">Stiskněte a podržte tlačítko zapínání, dokud se zařízení nerestartuje</string>
+  <string name="power_key_how_power_off">Jak vypnout zařízení</string>
+  <string name="power_key_how_power_off_detail">Stiskněte a podržte tlačítko zapínání 3s</string>
+  <string name="power_key_how_start">Jak spustit Google Assistant</string>
+  <string name="power_key_how_start_detail">Stiskněte a podržte tlačítko zapínání 0.5s</string>
+  <string name="power_key_start_enjoy">Rozumím</string>
+  <string name="power_key_start_guide">Spuštění Google Asistenta pomocí tlačítka zapínání</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Spustit Google asistenta při používání gest</string>
 </resources>

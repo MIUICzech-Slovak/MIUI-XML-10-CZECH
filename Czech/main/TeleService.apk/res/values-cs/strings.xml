@@ -1318,4 +1318,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="dds_switch_warning_message_data_off">Nelze najít SIM %1$s. SIM %2$s je nastavena jako výchozí pro mobilní data. Mobilní data budou vypnuta.</string>
   <string name="dds_switch_warning_message_data_on">"Nelze najít SIM %1$s. SIM %2$s je nastavena jako výchozí pro mobilní data. Mobilní data budou vypnuta.</string>
   <string name="privacy_policy_title">Ochrana soukromí</string>
+  <string name="sip_account_disable">Účet není aktivní.</string>
+  <string name="sip_receive_call_disable">Nelze přijmout hovor.</string>
 </resources>

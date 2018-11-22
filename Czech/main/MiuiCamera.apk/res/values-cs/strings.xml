@@ -627,4 +627,5 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="accessibility_intent_done_retry">Znovu</string>
   <string name="view_privacy_policy">Ochrana soukromí</string> 
   <string name="ultra_wide_mode">Ultra-široký režim</string> 
+  <string name="fps960_toast">Zpomalená bude pouze poslední čtvrtina nahrávky</string>
 </resources>
