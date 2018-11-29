@@ -628,4 +628,11 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="view_privacy_policy">Ochrana soukromí</string> 
   <string name="ultra_wide_mode">Ultra-široký režim</string> 
   <string name="fps960_toast">Zpomalená bude pouze poslední čtvrtina nahrávky</string>
+  <string name="custom_watermark_contains_senstive_words">Upravte text %1$s</string>
+  <string name="custom_watermark_tips">Tento text bude zobrazen ve druhém řádku vodoznaku. Limit je max 15 znaků.</string>
+  <string name="custom_watermark_too_many_words">Byl překročen max. limit znaků</string>
+  <string name="custom_watermark_words">Vlastní text vodoznaku</string>
+  <string name="custom_watermark_words_input_hint">Zadejte text</string>
+  <string name="custom_watermark_words_save_success">Uloženo</string>
+  <string name="pref_userdefine_watermark_title">Vlastní text vodoznaku</string>
 </resources>

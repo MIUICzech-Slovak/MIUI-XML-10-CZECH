@@ -196,4 +196,9 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="self_device">"Tohoto zařízení "</string>
   <string name="try_continue">Pokračovat</string>
   <string name="unsupported_home">Aktualizujte na nejnovější verzi MIUI.</string>
+  <string name="backup_stopped_msg">Pokračování v zálohování přepíše již existující zálohy.</string>
+  <string name="backup_stopped_title">Cloudová záloha byla zastavena</string>
+  <string name="dialog_btn_cancel_backup">Zrušit</string>
+  <string name="dialog_btn_overwrite_backup">Přepsat</string>
+  <string name="dialog_msg_overwrite_backup">Rozdíl mezi lokální a cloudovou zálohou je velký, pokračování v záloze přepíše již existující zálohu.</string>
 </resources>

@@ -3003,4 +3003,11 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="om_running_locked_apps">Zamknuté aplikace</string>
   <string name="om_running_system_apps">Systémové aplikace</string>
   <string name="om_running_third_apps">Nainstalované aplikace</string>
+  <string name="card_main_deepclean_facebook_title">Facebook čistič</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Nastavit jas displeje automaticky pro úsporu baterie</string>
+  <string name="deep_power_save_item_summary_bluetooth">Deaktivovat Bluetooth pro úsporu baterie</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Vypnout displej po 30s nečinnosti pro úsporu baterie</string>
+  <string name="deep_power_save_item_title_auto_brightness">Povolit automatický jas</string>
+  <string name="deep_power_save_item_title_bluetooth">Vypnout Bluetooth</string>
+  <string name="deep_power_save_item_title_lock_screen_time">Vypnout displej</string>  
 </resources>

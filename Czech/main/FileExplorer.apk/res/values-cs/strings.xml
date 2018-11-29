@@ -706,4 +706,9 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="failed_not_access_sd_card">Povolte přístup na SD kartu</string>
+  <string name="failed_obtain_permissions">Nelze získat povolení</string>
+  <string name="not_support_documentui">DocumentUI.apk není nainstalováno na tomto zařízení</string>
+  <string name="request_document_permission">Pro přístup k souborům na SD kartě je vyžadováno povolení.</string>
+  <string name="request_document_permission_title">Jsou vyžadována púovolení</string>
 </resources>

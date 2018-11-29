@@ -1969,4 +1969,10 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="lock_screen_magazine_default_entry_title">Podrobnosti o tapetě</string>
   <string name="lock_screen_magazine_default_title">Hudba</string>
   <string name="open_lock_screen_magazine_hint_text">Potáhněte napravo pro více možností</string>
+  <string name="recents_title_app_manager">Aplikace</string>
+  <string name="recents_title_game">Hry</string>
+  <string name="recents_title_garbage_cleanup">Čistič</string>
+  <string name="recents_title_garbage_deepclean">Hloubkové čištění</string>
+  <string name="recents_title_market">Obchod</string>
+  <string name="recents_title_security_scan">Bezpečnost</string>  
 </resources>

@@ -461,5 +461,17 @@
     <plurals name="om_locked_apps_title">
         <item quantity="other">Zamknutých aplikací: %d</item>
         <item quantity="one">Zamknutých aplikací: %d</item>
-    </plurals>	
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Spojte alespoň %d body</item>
+        <item quantity="one">Spojte alespoň %d bod</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Zadejte alespoň %d čísla</item>
+        <item quantity="one">Zadejte alespoň %d číslo</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Zadejte alespoň %d znaky</item>
+        <item quantity="one">Zadejte alespoň %d znak</item>
+    </plurals>		
 </resources>
