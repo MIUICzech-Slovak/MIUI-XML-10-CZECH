@@ -5502,4 +5502,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="summary_font_size_v2">Upravit velikost textu, obrázků a ikon</string>
   <string name="title_font_v2">Text a prostředí</string>
   <string name="title_layout_v2">Velikost textu a mřížky</string>
+  <string name="default_vol_stream_title">Výchozí ovládání hlasitosti</string>
 </resources>
