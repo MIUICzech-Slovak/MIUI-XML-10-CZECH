@@ -1026,4 +1026,8 @@ Postupujte dle pokynů"</item>
         <item>Vyhledávání</item>
         <item>Nastavení</item>
     </string-array>	
+    <string-array name="default_vol_stream_entries">
+	<item>Zvonění</item>
+	<item>Média</item>
+    </string-array>	
 </resources>
