@@ -378,5 +378,9 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
     <string name="xspace_remove">Vymazat účty klonovaných aplikací</string>
+    <string name="button_input_password">Zadejte heslo</string>
+  <string name="button_touch">Přiložte prst na senzor otisku prsta</string>
+  <string name="dialog_verify">Ověřte svůj otisk</string>
+  <string name="dialog_verify_fingerprint_retry">Nelze ověřit</string>
 
 </resources>

@@ -862,9 +862,9 @@ Použijte síťovou nabíječku."</string>
   <string name="keyguard_instructions_when_pattern_disabled">Klávesy odemknete stisknutím tlačítka nabídky.</string>
   <string name="keyguard_left_bankcard">Kalkulačka</string>
   <string name="keyguard_left_buscard">Poznámky</string>
-  <string name="keyguard_left_remotecentral">Kalendář</string>
-  <string name="keyguard_left_smarthome">Kontakty</string>
-  <string name="keyguard_left_view_lock_wallpaper">Hudba</string>
+  <string name="keyguard_left_remotecentral">MiRemote</string>
+  <string name="keyguard_left_smarthome">MiHome</string>
+  <string name="keyguard_left_view_lock_wallpaper">Denní tapeta</string>
   <string name="keyguard_low_battery">Připojte dobíjecí zařízení.</string>
   <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
   <string name="keyguard_missing_sim_instructions_long">SIM karta chybí nebo je nečitelná. Vložte SIM kartu.</string>
@@ -1967,7 +1967,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="face_data_manage_unlock_slide_msg">Nahradit zkratky odemknutí tváří</string>
   <string name="lock_screen_magazine_default_content">Denní nové tapety</string>
   <string name="lock_screen_magazine_default_entry_title">Podrobnosti o tapetě</string>
-  <string name="lock_screen_magazine_default_title">Hudba</string>
+  <string name="lock_screen_magazine_default_title">Denní tapeta</string>
   <string name="open_lock_screen_magazine_hint_text">Potáhněte napravo pro více možností</string>
   <string name="recents_title_app_manager">Aplikace</string>
   <string name="recents_title_game">Hry</string>
@@ -1978,4 +1978,10 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="slider_second_tip_text">Potáhněte po displeji  dolů pro spuštění kamery</string>
   <string name="slider_text">Potáhněte po displeji  dolů pro spuštění kamery</string>
   <string name="sliderpanel_description">Nástroje</string> 
+  <string name="lock_screen_magazine_global_button_text">Více</string>
+  <string name="keyguard_left_calculator">Kalkulačka</string>
+  <string name="keyguard_left_calendar">Kalendář</string>
+  <string name="keyguard_left_contacts">Kontakty</string>
+  <string name="keyguard_left_music">Hudba</string>
+  <string name="keyguard_left_notes">Poznámky</string>
 </resources>

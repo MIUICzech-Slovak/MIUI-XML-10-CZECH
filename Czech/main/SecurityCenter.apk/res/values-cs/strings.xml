@@ -530,7 +530,7 @@
   <string name="battery_stats_wake_lock_label">Probuzeno</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_good">Funguje normálně</string>
-  <string name="battery_status_overheat">Přehřátá</string>
+  <string name="battery_status_overheat">Přehřáta</string>
   <string name="battery_status_unknown">Neznámá chyba</string>
   <string name="battery_temperature_title">Teplota</string>
   <string name="begin_date">Den obnovení předplacených dat</string>
@@ -3010,4 +3010,25 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="deep_power_save_item_title_auto_brightness">Povolit automatický jas</string>
   <string name="deep_power_save_item_title_bluetooth">Vypnout Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Vypnout displej</string>  
+  <string name="applock_face_unlock_summary">Odemknout aplikace tváří</string>
+  <string name="applock_face_unlock_title">Odemknutí tváří</string>
+  <string name="applock_function_base_settings">Zámek aplikací</string>
+  <string name="applock_function_pwd_settings">Heslo</string>
+  <string name="face_unlock_be_on_the_screen">Podržte zařízení před vaší tváří</string>
+  <string name="face_unlock_check_failed">Nelze vás rozpoznat</string>
+  <string name="face_unlock_face_auth_failed_title">Nelze ověřit vaši tvář. Zkuste odemknout jiným způsobem...</string>
+  <string name="face_unlock_face_start_title">Ověřování vaší tváře...</string>
+  <string name="face_unlock_finger_or_password_switch">Použijte váš otisk prstu nebo zadejte heslo pro odemknutí.</string>
+  <string name="face_unlock_guide_confirm">Použít odemknutí tváří</string>
+  <string name="face_unlock_guide_dialog_summary">Můžete použít vaši tvář pro odemknutí zařízení. Chcete povolit nyní?</string>
+  <string name="face_unlock_not_found">Nelze vás rozpoznat</string>
+  <string name="face_unlock_open_eye">Otevřete více oči</string>
+  <string name="face_unlock_reveal_eye">Sundejte brýle</string>
+  <string name="face_unlock_reveal_mouth">Ukažte vaše rty</string>
+  <string name="face_unlock_toast_verity_failed">Nelze ověřit vaši tvář.</string>
+  <string name="face_unlock_verity_dialog_summary">Ověření tváře</string>
+  <string name="face_unlock_verity_dialog_title_failed">Nelze vás rozpoznat</string>
+  <string name="face_unlock_verity_dialog_title_succeed">Ověřeno</string>
+  <string name="fingerprint_to_lock_summary">Odemkněte aplikaci pomocí otisku prstu</string>
+  <string name="unlock_failed">Interní chyba</string>
 </resources>

@@ -5509,4 +5509,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="device_description_ram">RAM</string>
   <string name="device_description_resolution">Rozlišení</string>
   <string name="device_description_screen">Displej</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Po deaktivaci zámku obrazovky budou vymazána i data odemykání tváří.</string>
 </resources>

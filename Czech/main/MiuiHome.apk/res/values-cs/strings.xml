@@ -337,4 +337,8 @@
   <string name="recommend_xout">Znovu nezobrazovat</string>
   <string name="recommend_apps_no_data">Žádná data</string>
   <string name="show_recents_recommend_title">Zobrazit zkratky v nedávných apl.</string>
+  <string name="gadget_dual_clock_label">Duální hodiny</string>
+  <string name="recommend_apps_no_data_toast">Žádná doporučení</string>
+  <string name="recommend_refresh">Obnovit</string>
+  <string name="recommend_xout">Znovu nezobrazovat</string>
 </resources>
