@@ -177,6 +177,7 @@
   <string name="module_name_portrait">Portrét</string>
   <string name="module_name_square">Čtverec</string>
   <string name="module_name_video">Video</string>
+    <string name="module_name_new_slow_motion">Zpomalené video</string>
   <string name="no_storage">Před použitím vložte SD kartu.</string>
   <string name="not_enough_space">Vaše SD karta je plná.</string>
   <string name="object_track_enable_toast">Současným dotykem na oba kraje objektu, aktivujete jeho sledování.</string>
@@ -635,4 +636,5 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="custom_watermark_words_input_hint">Zadejte text</string>
   <string name="custom_watermark_words_save_success">Uloženo</string>
   <string name="pref_userdefine_watermark_title">Vlastní text vodoznaku</string>
+  <string name="pref_camera_volumekey_function_entry_timer">Časovač</string>
 </resources>
