@@ -637,4 +637,6 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="custom_watermark_words_save_success">Uloženo</string>
   <string name="pref_userdefine_watermark_title">Vlastní text vodoznaku</string>
   <string name="pref_camera_volumekey_function_entry_timer">Časovač</string>
+  <string name="live_edit_exit_confirm">Ukončit</string>
+  <string name="live_edit_exit_message">Zrušit?</string> 
 </resources>

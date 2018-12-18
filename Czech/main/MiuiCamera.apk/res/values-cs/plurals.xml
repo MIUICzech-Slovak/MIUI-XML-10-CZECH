@@ -9,4 +9,8 @@
         <item quantity="other">Zaostřeno. Nalezeno %d tváří.</item>
         <item quantity="one">Zaostřeno. Nalezena %d tvář.</item>
     </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
+        <item quantity="one">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
+    </plurals>	
 </resources>
