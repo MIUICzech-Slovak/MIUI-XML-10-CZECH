@@ -5503,4 +5503,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="title_font_v2">Text a prostředí</string>
   <string name="title_layout_v2">Velikost textu a mřížky</string>
   <string name="default_vol_stream_title">Výchozí ovládání hlasitosti</string>
+  <string name="device_description_battery">Baterie</string>
+  <string name="device_description_camera">Fotoaparát</string>
+  <string name="device_description_cpu">Procesor</string>
+  <string name="device_description_ram">RAM</string>
+  <string name="device_description_resolution">Rozlišení</string>
+  <string name="device_description_screen">Displej</string>
 </resources>

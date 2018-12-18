@@ -1974,5 +1974,8 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="recents_title_garbage_cleanup">Čistič</string>
   <string name="recents_title_garbage_deepclean">Hloubkové čištění</string>
   <string name="recents_title_market">Obchod</string>
-  <string name="recents_title_security_scan">Bezpečnost</string>  
+  <string name="recents_title_security_scan">Bezpečnost</string> 
+  <string name="slider_second_tip_text">Potáhněte po displeji  dolů pro spuštění kamery</string>
+  <string name="slider_text">Potáhněte po displeji  dolů pro spuštění kamery</string>
+  <string name="sliderpanel_description">Nástroje</string> 
 </resources>

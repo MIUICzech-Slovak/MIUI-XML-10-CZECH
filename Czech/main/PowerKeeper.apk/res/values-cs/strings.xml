@@ -246,4 +246,8 @@
   <string name="extreme_mode_max_item_alert">Pouze 4 aplikace mohou být spuštěny na pozadí při Extrémní úspoře baterie</string>
   <string name="message_i_know">Rozumím</string>
   <string name="privacy">Ochrana soukromí</string>
+  <string name="high_temp_state_message">Ochrana proti přehřátí zařízení. Data, Wi-Fi, Fotoaparát, atd. budou zakázána.</string>
+  <string name="extreme_power_config_mode_summary">Extrémní úspora baterie omezí aktivity na pozadí</string>  
+  <string name="extreme_add_white_list_summary">Maximálně 4 aplikace</string>
+  <string name="extreme_add_white_list_title">Výjimky</string>
 </resources>
