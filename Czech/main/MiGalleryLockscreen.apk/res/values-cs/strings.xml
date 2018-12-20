@@ -194,4 +194,11 @@
    <string name="sst_sliding_checkbox_checked">Zap</string>
    <string name="sst_sliding_checkbox_unchecked">Vyp</string>	 
    <string name="sst_selected_tip">Současné</string>
+     <string name="sst_wallpaper_history_title">Historie</string>
+     <string name="sst_wallpaper_history_des">Zobrazit nedávné doporučení</string>
+     <string name="sst_wallpaper_define_desc">Spravovat</string>
+   <string name="sst_wallpaper_define_title">Moje prezentace</string>
+   <string name="sst_subscripted">Odebírané</string>
+   <string name="sst_subscribe_title">Odběry</string>
+   <string name="sst_subscrible_manager_title_bar_text">Spravovat odběry</string>  
 </resources>
