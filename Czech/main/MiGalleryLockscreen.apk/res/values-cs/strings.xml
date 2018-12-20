@@ -199,6 +199,5 @@
      <string name="sst_wallpaper_define_desc">Spravovat</string>
    <string name="sst_wallpaper_define_title">Moje prezentace</string>
    <string name="sst_subscripted">Odebírané</string>
-   <string name="sst_subscribe_title">Odběry</string>
    <string name="sst_subscrible_manager_title_bar_text">Spravovat odběry</string>  
 </resources>
