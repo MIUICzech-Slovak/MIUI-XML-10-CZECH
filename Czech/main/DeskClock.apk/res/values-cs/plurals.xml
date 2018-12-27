@@ -57,4 +57,16 @@
         <item quantity="other">Budík se vypne %2$s krát (%1$s min. každý)</item>
         <item quantity="one">Budík se vypne %2$s krát (%1$s min.)</item>
     </plurals>
+     <plurals name="hour">
+         <item quantity="other">%dh</item>
+         <item quantity="one">%dh</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+         <item quantity="other">%1$dd</item>
+         <item quantity="one">%1$dd</item>
+     </plurals>
+     <plurals name="minute">
+         <item quantity="other">%dmin</item>
+         <item quantity="one">%dmin</item>
+     </plurals>	    
 </resources>
