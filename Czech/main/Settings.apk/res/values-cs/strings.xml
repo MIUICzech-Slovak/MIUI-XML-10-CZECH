@@ -5564,4 +5564,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="sos_privacy_dialog_message">"Používáním této funkce souhlasíte s našimi %s. 
 Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mobilních dat a přístup ke kontaktům. Souhlasíte?"</string>
   <string name="sos_privacy_dialog_title">Podmínky používání</string>  
+   <string name="aod_clock_style_title">Styl hodin</string>
+   <string name="status_bar_settings_qs_layout">Rozložení přepínačů</string>  
 </resources>
