@@ -1089,7 +1089,7 @@ Již staženo"</string>
 <string name="file_deletting_message_no_progress">Mazání…</string>
 <string name="file_deletting_message_with_progress">Mazání (%d%%)</string>
 <string name="file_directory_create_failed">"Název souboru obsahuje neplatné znaky"</string>
-<string name="file_directory_desc_router_config">Konfigurační soubory/string>
+<string name="file_directory_desc_router_config">Konfigurační soubory</string>
 <string name="file_directory_desc_router_extend_package">Rozšiřující USB balíčky</string>
 <string name="file_directory_desc_xunlei_db">Xunlei databáze</string>
 <string name="file_directory_desc_xunlei_download">Xunlei stahování</string>
@@ -1289,7 +1289,7 @@ Velikost: %4$s"</string>
 <string name="file_transfer_selected_file_folder_empty">Vyberte soubor nebo složku</string>
 <string name="file_transfer_status_cancel">Zrušeno</string>
 <string name="file_transfer_status_delete">Odstranit</string>
-<string name="file_transfer_status_device_not_found">Vložit SD kartu/string>
+<string name="file_transfer_status_device_not_found">Vložit SD kartu</string>
 <string name="file_transfer_status_failed">Nepodařilo se</string>
 <string name="file_transfer_status_failed_file_not_exisited">"Soubor neexistuje"</string>
 <string name="file_transfer_status_failed_no_enough_space">Není dostatek úložného prostoru</string>
