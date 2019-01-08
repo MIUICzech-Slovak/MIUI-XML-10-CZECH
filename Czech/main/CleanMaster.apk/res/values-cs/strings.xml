@@ -233,7 +233,7 @@
   <string name="guide_virus_dialog_message">Kontrola aplikací chrání Vaše zařízení před viry. Chcete je zkontrolovat nyní?</string>
   <string name="guide_virus_dialog_negative">Zrušit</string>
   <string name="guide_virus_dialog_positive">Zkontrolovat</string>
-  <string name="guide_virus_dialog_title">Aktivir</string>
+  <string name="guide_virus_dialog_title">Antivir</string>
   <string name="harass_detail">Blokované %1$d SMS a %2$d hovory</string>
   <string name="header_optimizer">Používáním této funkce souhlasíte s %s</string>
   <string name="hint_bar_select_image">Vybraných: %d</string>
