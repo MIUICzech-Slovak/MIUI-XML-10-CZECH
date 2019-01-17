@@ -3031,4 +3031,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="face_unlock_verity_dialog_title_succeed">Ověřeno</string>
   <string name="fingerprint_to_lock_summary">Odemkněte aplikaci pomocí otisku prstu</string>
   <string name="unlock_failed">Interní chyba</string>
+  <string name="traffic_setting_fragment_title_guide">Operátoři a data</string>
+  <string name="traffic_usage_warning_body">Už jste spotřebovali %s mbilních dat tento měsíc.</string>
+  <string name="traffic_usage_warning_limit">Upozornění na limit mobilních dat</string>
+  <string name="traffic_usage_warning_title">Upozornění na spotřebu dat</string>  
 </resources>

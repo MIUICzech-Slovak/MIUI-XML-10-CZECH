@@ -21,6 +21,12 @@
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
   <string name="access_control_need_password">"%s - uzamknuto
 "</string>
+<string name="eq_return">Zpět</string>
+  <string name="page_layout_confirm_message_enlarge">Text, obrázky, a ikony budou zvětšeny. Ikony mohou změnit své umístění.</string>
+  <string name="page_layout_confirm_message_narrow">Text, obrázky, a ikony budou zmenšeny. Ikony mohou změnit své umístění.</string>
+  <string name="page_layout_confirm_title_enlarge">Väčšie položky</string>
+  <string name="page_layout_confirm_title_narrow">Menšie položky</string>
+  <string name="screen_optimize_disabled">Ak je povolený režim čítania, nie je možné zmeniť kontrast</string>
 <string name="keyguard_double_tap_to_sleep_title">Uspat dvojím poklepáním</string>
   <string name="access_control_need_to_unlock">Pro odemknutí požadováno heslo</string>
   <string name="access_control_no_back_footer">Stiskněte [icon] pro ukončení</string>

@@ -201,4 +201,11 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="dialog_btn_cancel_backup">Zrušit</string>
   <string name="dialog_btn_overwrite_backup">Přepsat</string>
   <string name="dialog_msg_overwrite_backup">Rozdíl mezi lokální a cloudovou zálohou je velký, pokračování v záloze přepíše již existující zálohu.</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Navýšit</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Získejte více úložného prostoru v Mi cloud.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Navýšit Mi účet</string>
+  <string name="restore_finish_description">Obnoveno</string>
+  <string name="restore_init_description">Spustit obnovu</string>
+  <string name="restoring_file_title_no_progress">Obnovení...</string>
+  <string name="restoring_settings">Obnovení Nastavení...</string>
 </resources>

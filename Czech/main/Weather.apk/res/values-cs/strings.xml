@@ -202,4 +202,8 @@ Zadejte město manuálně"</string>
   <string name="index_item_downloading">Stahování</string>
   <string name="index_item_installing2">Instalace</string>
   <string name="location_provider_btn_text">Povolte služby zjišťování polohy</string> 
+  <string name="update_notification_info">Aktualizace dat...</string>
+  <string name="weather_alert_channel_name">Upozornění</string>
+  <string name="weather_service_channel_name">Služby na pozadí</string>
+  <string name="settings">Nastavení</string>
 </resources>

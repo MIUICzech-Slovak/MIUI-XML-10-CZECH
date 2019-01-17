@@ -9,6 +9,9 @@
         <item quantity="other">Požadovaný minimální počet písmen v heslu: %d.</item>
         <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d přidáno</item>
+    </plurals>	
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
         <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>

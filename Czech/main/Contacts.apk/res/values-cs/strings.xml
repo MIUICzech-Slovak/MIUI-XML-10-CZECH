@@ -1321,4 +1321,5 @@ Vyberte si z následujících možností:</string>
   <string name="description_image_button_sim2_named_dial">Vytočit přes SIM2 %s</string>
   <string name="scan_business_card">Skenovat vizitku</string>
   <string name="scan_bussiness_card_merge_tip">Data byla přepsána</string>
+  <string name="contacts_default_notification_channel">Upozornění</string>
 </resources>

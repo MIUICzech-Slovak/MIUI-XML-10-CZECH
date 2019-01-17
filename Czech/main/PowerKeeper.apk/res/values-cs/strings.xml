@@ -249,4 +249,8 @@
   <string name="extreme_power_config_mode_summary">Extrémní úspora baterie omezí aktivity na pozadí</string>  
   <string name="extreme_add_white_list_summary">Maximálně 4 aplikace</string>
   <string name="extreme_add_white_list_title">Výjimky</string>
+  <string name="dark_mode">Tmavý režim</string>
+  <string name="dark_mode_summary">Přepněte se do tmavých barev pro úsporu baterie</string>
+  <string name="open_dark_mode">Přepnout do Tmavého režimu</string>
+  <string name="open_dark_mode_tip">Kvalita zobrazení bude snížena v Tmavém režimu. Chcete povolit Tmavý režim?</string>
 </resources>
