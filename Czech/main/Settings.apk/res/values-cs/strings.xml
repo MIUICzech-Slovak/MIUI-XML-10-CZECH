@@ -21,6 +21,7 @@
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
   <string name="access_control_need_password">"%s - uzamknuto
 "</string>
+<string name="keyguard_double_tap_to_sleep_title">Uspat dvojím poklepáním</string>
   <string name="access_control_need_to_unlock">Pro odemknutí požadováno heslo</string>
   <string name="access_control_no_back_footer">Stiskněte [icon] pro ukončení</string>
   <string name="access_control_password_title">Povolit heslo</string>

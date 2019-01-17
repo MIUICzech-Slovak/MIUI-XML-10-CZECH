@@ -256,4 +256,5 @@
   <string name="conference_call_recorder_title">Konferenční hovor</string>
   <string name="volume_boost_text">Hlasitost je zesílena</string>
     <string name="supp_service_notification_call_waiting">Na volaném čísle probíhá hovor...</string>
+     <string name="call_not_support_high_frequency_click">Mačkejte tlačítko pomaleji</string>
 </resources>
