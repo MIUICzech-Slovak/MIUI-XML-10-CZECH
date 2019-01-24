@@ -744,4 +744,8 @@ Pokus: %s."</string>
   <string name="yesterday">Včera</string>
   <string name="dialog_title_networking">Podmínky používání</string>
   <string name="dialog_message_networking">SMS aplikace vyžaduje připojení na internet pro fungování cloudových zpráv.</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Povolit inteligentní SMS</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Identifikovat odesílatele</string>
+  <string name="auto_identify_btn_title">Tato SMS je odeslána z neznámého čísla.</string>
+  <string name="auto_identify_confirmation">Aktivace může trvat pár minut.</string>
 </resources>

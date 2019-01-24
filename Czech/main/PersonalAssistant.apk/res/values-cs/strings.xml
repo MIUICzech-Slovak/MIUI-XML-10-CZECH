@@ -18,6 +18,7 @@
   <string name="agenda_assistant_empty">Dnes žádné události</string>
   <string name="agenda_assistant_finish">Dnes žádné události</string>
   <string name="agenda_assistant_more">Všechny události</string>
+  <string name="notification_channel_default_description">Ostatní upozornění</string>
   <string name="agenda_no_title">Bez názvu</string>
   <string name="agenda_open">Povolte upozornění na události</string>
   <string name="agenda_setting_brief">Události z kalendáře</string>

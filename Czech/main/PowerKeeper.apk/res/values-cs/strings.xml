@@ -253,4 +253,6 @@
   <string name="dark_mode_summary">Přepněte se do tmavých barev pro úsporu baterie</string>
   <string name="open_dark_mode">Přepnout do Tmavého režimu</string>
   <string name="open_dark_mode_tip">Kvalita zobrazení bude snížena v Tmavém režimu. Chcete povolit Tmavý režim?</string>
+  <string name="adaptive_battery_title">Adaptivní baterie</string>
+  <string name="adaptive_battery_summary">Omezit využívání baterie pro aplikace, které nepoužíváte</string>
 </resources>

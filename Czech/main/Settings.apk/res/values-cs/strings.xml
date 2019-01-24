@@ -5572,5 +5572,22 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mobilních dat a přístup ke kontaktům. Souhlasíte?"</string>
   <string name="sos_privacy_dialog_title">Podmínky používání</string>  
    <string name="aod_clock_style_title">Styl hodin</string>
-   <string name="status_bar_settings_qs_layout">Rozložení přepínačů</string>  
+   <string name="status_bar_settings_qs_layout">Rozložení přepínačů</string> 
+    <string name="date_time_24hour_auto">Automatický 24-hodinový formát</string>
+  <string name="date_time_24hour_auto_summary">Použít výchozí nastavení</string>  
+  <string name="dump_log">Získat záznamy o chybách</string>
+  <string name="handy_mode_tips_full_screen" />
+  <string name="accessibility_summary_source">Poskytuje %s</string>
+  <string name="accessibility_disable_animations">Vypnout animace</string>
+  <string name="accessibility_vibration_settings_title">Vibrace</string>
+  <string name="enable_gnss_raw_meas_full_tracking">Vynutit úplné měření GNSS</string>
+  <string name="enable_gnss_raw_meas_full_tracking_summary">Sledovat všechny konstalace a frekvence GNSS bez cyklického vypínání a zapínání</string>
+  <string name="ambient_display_category_triggers">Kdy zobrazit</string>
+  <string name="ambient_display_pickup_summary">Zkontrolovat čas, upozornění a jiné informace.</string>
+  <string name="ambient_display_pickup_title">Zvednout pro kontrolu</string>
+  <string name="ambient_display_screen_summary_always_on">Vždy</string>
+  <string name="ambient_display_screen_summary_notifications">Nová upozornění</string>
+  <string name="ambient_display_screen_title">Ambientní displej</string>
+  <string name="ambient_display_summary">Zkontrolovat čas, upozornění a jiné informace, dvakrát poklepejte po displeji.</string>
+  <string name="ambient_display_title">Dvakrát poklepat pro kontrolu</string>   
 </resources>
