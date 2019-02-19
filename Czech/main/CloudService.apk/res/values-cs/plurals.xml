@@ -68,4 +68,16 @@
          <item quantity="other">Skryté fotografie (%d) nejsou synchronizované. Odhlaste se po dokončení synchronizace, aby nebyly vymazány.</item>
          <item quantity="one">Skrytá fotografie (%d) není synchronizovaná. Odhlaste se po dokončení synchronizace, aby nebyla vymazána.</item>
      </plurals>
+     <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Synchr. pozastavena. Obnovení synchr. za %d min.</item>
+        <item quantity="one">Synchr. pozastavena. Obnovení synchr. za %d min.</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" h."</item>
+        <item quantity="one">" h."</item>
+    </plurals>
 </resources>

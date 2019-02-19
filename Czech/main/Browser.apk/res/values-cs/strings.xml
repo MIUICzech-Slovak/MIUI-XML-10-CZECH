@@ -1056,4 +1056,6 @@ Chcete opustit tuto stránku?"</string>
   <string name="download_dialog_file_length_default_txt">Načítání...</string>
   <string name="pref_fling_gesture">Gesta potáhnutím</string>
   <string name="suggestion_sliding_item_more_text">VÍCE</string>
+  <string name="dialog_clipboard_tabs_action">" otevřete zde"</string>
+  <string name="dialog_clipboard_tabs_tip">Zkopírované URL</string>
 </resources>
