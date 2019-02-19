@@ -1362,4 +1362,19 @@
   <string name="text_tab_watermark">Vodoznak</string>
   <string name="operation_favorites">Oblíbené</string>
   <string name="more">Více</string>  
+  <string name="agreement_agree">Přijmout</string>
+  <string name="agreement_optional_tip">(Volitelné)</string>
+  <string name="agreement_quit">Ukončit</string>
+  <string name="agreement_required_tip">(Povinné)</string>
+  <string name="agreement_summary">Dokumenty</string>
+  <string name="permissin_contract_desc">Pro pojmenování lidí na fotografiích</string>
+  <string name="permission_contract_name">Kontakty</string>
+  <string name="permission_optional_category">Volitelné povolení</string>
+  <string name="permission_phone_desc">Pro požadavky sítě</string>
+  <string name="permission_phone_name">Telefon</string>
+  <string name="permission_require_category">Povinné povolení</string>
+  <string name="permission_storage_desc">Pro zobrazení, úpravu a ukládání fotografií</string>
+  <string name="permission_storage_name">Úložiště</string>
+  <string name="permission_use_desc">Povolení</string>
+  <string name="select_all">Vše</string>
 </resources>
