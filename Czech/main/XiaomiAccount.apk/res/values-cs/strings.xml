@@ -337,7 +337,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_phone_num_hint_text">Telefonní číslo</string>
   <string name="passport_phone_ticket_login">Ověřovací kód</string>
   <string name="passport_prev">Zpět</string>
-  <string name="passport_privacy_policy">Podmínky používání</string>
+  <string name="passport_privacy_policy">Ochrana soukromí</string>
   <string name="passport_pwd_generate_failure">Nelze vygenerovat heslo</string>
   <string name="passport_pwd_generating">Generování...</string>
   <string name="passport_querying_phone_info">Načítání informací o účtu...</string>
