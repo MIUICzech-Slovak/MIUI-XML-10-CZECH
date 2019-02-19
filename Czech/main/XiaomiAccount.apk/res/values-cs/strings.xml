@@ -514,4 +514,10 @@ Zkontrolujte také složku SPAM."</string>
    <string name="passport_input_phone_password">Zadejte PIN pro číslo %s</string>
   <string name="passport_international_register_by_email">Vytvořit účet pomocí emailové adresy</string>
   <string name="passport_sms_verification_code_login_or_register">Přihlásit se nebo registrovat pomocí SMS</string>
+  <string name="confirm_new_pwd">Potvrďte nové heslo</string>
+  <string name="inconsistent_pwd">Hesla se neshodují</string>
+  <string name="input_new_pwd">Zadejte nové heslo</string>
+  <string name="same_new_and_old_pwd">Nemůže být stejné jako současné heslo</string>
+  <string name="sim_card">SIM karta</string>
+  <string name="used_cloud_storage_info">Vnitřní úložiště %s</string>
 </resources>

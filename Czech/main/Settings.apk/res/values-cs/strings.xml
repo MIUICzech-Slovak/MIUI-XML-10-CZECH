@@ -3889,6 +3889,8 @@ Zbývá:"</string>
   <string name="skip_label">Dále</string>
   <string name="skip_lock_screen_confirm_msg">Pro zamykací obrazovku nebudou dostupná: Upozornění, fotoaparát posunem doprava a číselník posunem doleva.</string>
   <string name="skip_step">Přeskočit tento krok</string>
+   <string name="dark_ui_mode">Tmavý režim</string>
+  <string name="dark_ui_mode_title">Nastavit tmavé pozadí aplikací</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">IMEI</string>

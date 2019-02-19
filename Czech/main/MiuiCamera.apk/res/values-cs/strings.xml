@@ -639,4 +639,9 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="pref_camera_volumekey_function_entry_timer">Časovač</string>
   <string name="live_edit_exit_confirm">Ukončit</string>
   <string name="live_edit_exit_message">Zrušit?</string> 
+  <string name="autozoom_click_hint">Dotkněte se objektu pro jeho sledování. Držte se od něj alespoň 3 metry.</string>
+  <string name="autozoom_disabled_hint">Sledování objektu ukončeno</string>
+  <string name="autozoom_hint">Sledovat objekt v pohybu</string>
+  <string name="pref_camera_quick_shot_anim_enable_title">Povolit animaci rychlé fotografie</string>
+  <string name="pref_camera_quick_shot_enable_title">Povolit rychlou fotografii</string>
 </resources>

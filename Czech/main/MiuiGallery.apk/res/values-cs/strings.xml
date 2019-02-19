@@ -1359,5 +1359,7 @@
   <string name="month_view_tip_sub_title">Prsty k sobě přepnete na zobrazení měsíce</string>
   <string name="month_view_tip_title">Zobrazení měsíce</string>
   <string name="text_tab_bubble">Bubliny</string>
-  <string name="text_tab_watermark">Vodoznak</string>  
+  <string name="text_tab_watermark">Vodoznak</string>
+  <string name="operation_favorites">Oblíbené</string>
+  <string name="more">Více</string>  
 </resources>
