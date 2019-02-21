@@ -5591,5 +5591,16 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="ambient_display_screen_summary_notifications">Nová upozornění</string>
   <string name="ambient_display_screen_title">Ambientní displej</string>
   <string name="ambient_display_summary">Zkontrolovat čas, upozornění a jiné informace, dvakrát poklepejte po displeji.</string>
-  <string name="ambient_display_title">Dvakrát poklepat pro kontrolu</string>   
+  <string name="ambient_display_title">Dvakrát poklepat pro kontrolu</string> 
+  <string name="exit">Ukončit</string>
+  <string name="i_agree">OK</string>
+  <string name="i_agree_continue">Pokračovat</string>
+  <string name="optional_permissions">Volitelné povolení</string>
+  <string name="passport_privacy_policy_required">Ochrana soukromí (povinné)</string>
+  <string name="passport_user_agreement_required">Podmínky užívání (povinné)</string>
+  <string name="permission_group_contacts">Kontakty</string>
+  <string name="permission_group_phone">Telefon</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">Úložiště</string>
+  <string name="select_all">Vše</string>  
 </resources>

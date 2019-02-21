@@ -258,6 +258,10 @@
          <item quantity="other">Odeslané SMS %dx</item>
          <item quantity="one">Odeslané SMS %dx</item>
      </plurals>
+     <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d rizik</item>
+        <item quantity="one">%d riziko</item>
+    </plurals>
      <plurals name="app_manager_permission_read_mms">
          <item quantity="other">Přístup k SMS %dx</item>
          <item quantity="one">Přístup k SMS %dx</item>

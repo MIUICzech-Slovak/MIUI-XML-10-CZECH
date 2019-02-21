@@ -1028,6 +1028,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="action_text_readmode_more">Více</string>
   <string name="action_text_readmode_theme_head">Nastavit pozadí</string>
   <string name="action_text_theme_and_textsize_change">Nastavení písma a témy</string>
+  <string name="dialog_recovery_tabs_action">" Obnovit"</string>
+  <string name="dialog_recovery_tabs_tip">Poslední nezavřená webstránka</string>
   <string name="bookmark_deleted">Vymazat záložku</string>
   <string name="bookmark_not_deleted">Nelze vymazat záložku</string>
   <string name="bookmark_url_not_exisit">Tato adresa již byla vymazána</string>

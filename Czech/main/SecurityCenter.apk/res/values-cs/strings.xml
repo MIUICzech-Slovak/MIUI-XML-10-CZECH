@@ -3034,5 +3034,26 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_title_guide">Operátoři a data</string>
   <string name="traffic_usage_warning_body">Už jste spotřebovali %s mbilních dat tento měsíc.</string>
   <string name="traffic_usage_warning_limit">Upozornění na limit mobilních dat</string>
-  <string name="traffic_usage_warning_title">Upozornění na spotřebu dat</string>  
+  <string name="traffic_usage_warning_title">Upozornění na spotřebu dat</string>
+  <string name="app_permission_use_group_calendar">Kalendář</string>
+  <string name="app_permission_use_group_calendar_des">Přístup k událostem v kalendáři</string>
+  <string name="app_permission_use_group_camera">Fotoaparát</string>
+  <string name="app_permission_use_group_camera_des">Použít fotoaparát</string>
+  <string name="app_permission_use_group_contact">Kontakty</string>
+  <string name="app_permission_use_group_contact_des">Přístup ke kontaktům</string>
+  <string name="app_permission_use_group_location">Poloha</string>
+  <string name="app_permission_use_group_location_des">Získat vaši polohu</string>
+  <string name="app_permission_use_group_mic">Mikrofon</string>
+  <string name="app_permission_use_group_mic_des">Nahrávat zvuk</string>
+  <string name="app_permission_use_group_phone">Telefon</string>
+  <string name="app_permission_use_group_phone_des">Přístup k seznamu volání</string>
+  <string name="app_permission_use_group_sensor">Tělesné senzory</string>
+  <string name="app_permission_use_group_sensor_des">Číst data z tělesných senzorů</string>
+  <string name="app_permission_use_group_sms">SMS</string>
+  <string name="app_permission_use_group_sms_des">Odeslat, číst a přijímat SMS</string>
+  <string name="app_permission_use_group_storage">Úložiště</string>
+  <string name="app_permission_use_group_storage_des">Ukládat soubory na úložiště</string>
+  <string name="app_permission_use_neccesary">Požadované povolení</string>
+  <string name="app_permission_use_no_neccesary">Ostatní povolení</string>
+  <string name="app_permission_use_title">Povolení</string>  
 </resources>

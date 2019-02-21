@@ -644,4 +644,5 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="autozoom_hint">Sledovat objekt v pohybu</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Povolit animaci rychlé fotografie</string>
   <string name="pref_camera_quick_shot_enable_title">Povolit rychlou fotografii</string>
+  <string name="hint_ae_lock">Automatická expozice byla uzamčena</string>
 </resources>

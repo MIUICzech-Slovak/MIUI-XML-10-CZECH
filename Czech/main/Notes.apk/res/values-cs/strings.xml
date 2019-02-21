@@ -280,5 +280,13 @@ http://www.miuios.cz/rom
   <string name="permission_intro_contact">Pro poznámky zapsané během hovoru</string>
   <string name="permission_intro_microphone">Pro nahrávky</string>
   <string name="permission_intro_phone">Pro poznámky zapsané během hovoru</string>
-  <string name="permission_intro_storage">Pro ukládání poznámek a příloh</string>  
+  <string name="permission_intro_storage">Pro ukládání poznámek a příloh</string> 
+  <string name="toast_refuse_to_use_contact">"Povolení ke kontaktům je zakázáno.
+Povolte aplikaci Poznámky přístup ke kontaktům."</string>
+  <string name="toast_refuse_to_use_external_storage">"Povolení přístupu k úložišti je zakázáno.
+Povolte aplikaci Poznámky přístup k úložišti."</string>
+  <string name="toast_refuse_to_use_phone_state">"Povolení přístupu k seznamu hovorů je zakázáno.
+Povolte aplikaci Poznámky přístup k seznamu volání."</string>
+  <string name="toast_refuse_to_use_record_audio">"Povolení přístupu k mikrofonu je zakázáno.
+Povolte aplikaci Poznámky přístup k mikrofonu."</string>   
 </resources>

@@ -171,4 +171,11 @@
   <string name="resolver_app_recommend_flag">Doporučené</string>
   <string name="security_permission_network_failed_text">Nelze se připojit k síti. Zkuste to znovu později.</string>
   <string name="xspace_head">Klonovaná aplikace</string>
+  <string name="start_dump_log">Vytvořit záznam o chybě</string>
+  <string name="resolver_checkbox_always">Vždy</string>
+  <string name="resolver_checkbox_once">Jednou</string>
+  <string name="resolver_mi_browser">MiBrowser</string>
+  <string name="resolver_offical_recommend">Oficiální</string>
+  <string name="resolver_other_method">Jiné možnosti</string>
+  <string name="resolver_recommend_options_tag">Doporučené možnosti</string>
 </resources>
