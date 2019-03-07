@@ -531,4 +531,8 @@
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
   <string name="select_today_tip">Dnes</string>
+  <string name="notification_open_setting_button_exit">Ne</string>
+  <string name="notification_open_setting_button_ok">Povolit</string>
+  <string name="notification_open_setting_message">Nebudete dostávat upozornění na události pokud nepovolíte přístup k záznamům.</string>
+  <string name="notification_open_setting_title">Povolit upozornění Kalendáře?</string>  
 </resources>

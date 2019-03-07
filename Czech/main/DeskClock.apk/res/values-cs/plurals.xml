@@ -13,6 +13,10 @@
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%ddny</item>
+        <item quantity="one">%dden</item>
+    </plurals>	
     <plurals name="timer_message_with_seconds">
         <item quantity="other">%1$d s</item>
         <item quantity="one">%1$d s</item>

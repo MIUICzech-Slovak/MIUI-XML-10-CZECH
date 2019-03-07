@@ -1991,4 +1991,8 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="accessibility_aspect_button">Režim celé obrazovky</string>
   <string name="gxzw_long_press_tip"/>
   <string name="face_unlock_not_roi">Udržte tvář v rámečku</string>
+  <string name="face_unlock_fail">Nebylo možné ověřit tvář</string>
+  <string name="face_unlock_fail_retry">Nebylo možné ověřit tvář. Dotkněte se ikony pro opakování.</string>  
+  <string name="face_unlock_success_stay_screen_msg">Zůstat na zamykací obrazovce po ověření obličeje. Tažením nahoru zobrazíte plochu.</string>
+  <string name="face_unlock_success_stay_screen_title">Zůstat na zamykací obrazovce po ověření obličeje.</string>  
 </resources>

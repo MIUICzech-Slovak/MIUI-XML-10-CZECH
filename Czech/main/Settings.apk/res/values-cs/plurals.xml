@@ -11,7 +11,11 @@
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d přidáno</item>
-    </plurals>	
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hodin %2$s"</item>
+		<item quantity="other">" %1$s Hodina %2$s"</item>
+    </plurals>			
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
         <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>

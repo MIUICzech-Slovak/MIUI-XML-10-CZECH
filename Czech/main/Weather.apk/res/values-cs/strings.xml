@@ -207,4 +207,14 @@ Zadejte město manuálně"</string>
   <string name="weather_service_channel_name">Služby na pozadí</string>
   <string name="settings">Nastavení</string>
     <string name="no_data">Žádná data</string>
+    <string name="permission_device_info">Informace o zařízení</string>
+  <string name="permission_device_introduce">Pro rozpoznání ID zařízení na základě IMEI a modelu zařízení.</string>
+  <string name="permission_exit">Ukončit</string>
+  <string name="permission_privacy">Ochrana soukromí (povinné)</string>
+  <string name="permission_select_all">Vše</string>
+  <string name="permission_storage">Úložiště</string>
+  <string name="permission_storage_introduce">Pro přístup k souborům v zařízení</string>
+  <string name="permission_user_protocol">Podmínky používání (povinné)</string>
+  <string name="weather_introduce">Vždy s vámi.</string>
+  <string name="weather_permission_agree">Přijmout</string> 
 </resources>
