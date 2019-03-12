@@ -125,7 +125,6 @@
   <string name="date_interval_text_to">Do %1$s</string>
   <string name="date_jump_hint">Skočit na dnešní datum</string>
   <string name="date_jump_title">Skočit na datum</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">" (dnes) "</string>
   <string name="day_view">Den</string>
   <string name="day_view_new_event_hint">Přidat novou událost</string>

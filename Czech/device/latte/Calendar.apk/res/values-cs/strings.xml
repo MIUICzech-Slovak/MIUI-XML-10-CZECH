@@ -54,7 +54,6 @@
   <string name="creating_event_with_guest">Pozvánky byly odeslány</string>
   <string name="custom">Vlastní (nelze upravit v telefonu)</string>
   <string name="daily">Denně</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_picker_description">Zobrazení dní</string>
   <string name="day_view">Den</string>
   <string name="day_view_new_event_hint">Přidat novou událost</string>
