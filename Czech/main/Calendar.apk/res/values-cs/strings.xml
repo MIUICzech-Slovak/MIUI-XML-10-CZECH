@@ -536,7 +536,6 @@
   <string name="notification_open_setting_title">Povolit upozornění Kalendáře?</string>  
   <string name="accessbility_suggestion_dropdown_closed">Žádné návrhy</string>
   <string name="accessbility_suggestion_dropdown_opened">Návrhy kontaktů povoleny</string>
-  <string name="action_label">Zpět</string>
   <string name="address">Adresa</string>
   <string name="chips_action_cancel">Zrušit</string>
   <string name="chips_action_copy">Kopírovat</string>
