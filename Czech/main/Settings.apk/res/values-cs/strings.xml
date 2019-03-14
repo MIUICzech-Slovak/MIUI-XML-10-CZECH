@@ -5602,4 +5602,16 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Úložiště</string>
+   <string name="crypt_keeper_switch_to_pattern">Použít vzor</string>
+  <string name="crypt_keeper_switch_to_pin">Použít PIN</string>  
+  <string name="cutout_mode_always">Vždy zobrazit výřez</string>
+  <string name="cutout_mode_default">Autom.</string>
+  <string name="cutout_mode_settings_title">Některé aplikace mohou být zobrazeny nesprávně, pokud změníte zobrazování výřezu.</string>
+  <string name="cutout_mode_title">Výřez v aplikacích</string>
+  <string name="login_account_summary">Spravovat účty, cloud, atd.</string>
+  <string name="miui_more_special_feature">Prozkoumat nové funkce</string>
+  <string name="miui_special_feature">Speciální funkce</string>
+  <string name="other_settings_sync_settings">Synchr.</string>
+  <string name="unlogin_account_summary">Všechny Mi služby. Jeden Mi účet</string>
+  <string name="unlogin_account_title">Přihlásit se do Mi účtu</string>
 </resources>

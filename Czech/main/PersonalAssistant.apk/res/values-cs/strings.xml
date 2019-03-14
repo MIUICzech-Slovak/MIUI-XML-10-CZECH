@@ -44,6 +44,15 @@
   <string name="bicycle">Cycle</string>
   <string name="calc_currency">Měna</string>
   <string name="calc_name">Vědecká</string>
+  <string name="clock_alarm">Budík</string>
+  <string name="clock_parent">Hodiny</string>
+  <string name="google_assistant">Asistent</string>
+  <string name="google_parent">Google</string>
+  <string name="midrop_parent">MiDrop</string>
+  <string name="midrop_send">Odeslat</string>
+  <string name="phone_check">Optimalizace</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Fotografie</string>
   <string name="calc_num">Financial characters</string>
   <string name="calc_parent">Kalkulačka</string>
   <string name="calendar_name">Přidat událost</string>

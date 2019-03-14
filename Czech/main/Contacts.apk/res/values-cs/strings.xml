@@ -1322,4 +1322,6 @@ Vyberte si z následujících možností:</string>
   <string name="scan_business_card">Skenovat vizitku</string>
   <string name="scan_bussiness_card_merge_tip">Data byla přepsána</string>
   <string name="contacts_default_notification_channel">Upozornění</string>
+  <string name="confirm_call_log_dial_summary">Zeptat se před vytáčením hovoru ze seznamu volání.</string>
+  <string name="confirm_call_log_dial_title">Potvrdit vytáčení ze seznamu volání</string>  
 </resources>
