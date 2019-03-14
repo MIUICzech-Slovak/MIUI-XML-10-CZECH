@@ -130,8 +130,8 @@
          <item quantity="other">Můžete zadat do %1$d dní</item>
          <item quantity="one">Můžete zadat do %1$d dne</item>
      </plurals>
-     </plurals>	
-	    <plurals name="repeat_custom_prompt">
+    <plurals name="repeat_custom_prompt">
         <item quantity="other">kařdý %1$s v %2$s</item>
         <item quantity="one">každý %1$s v %2$s</item>	
+    </plurals>		    
 </resources>
