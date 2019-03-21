@@ -1377,4 +1377,17 @@
   <string name="permission_storage_name">Úložiště</string>
   <string name="permission_use_desc">Povolení</string>
   <string name="select_all">Vše</string>
+  <string name="cleaner_similar_action">Vymazat</string>
+  <string name="cleaner_similar_description">Vymazat duplicitní fotografie</string>
+  <string name="cleaner_similar_title">Duplicitní fotografie</string>
+  <string name="cleaner_video_action">Vymazat</string>
+  <string name="cleaner_video_description">Vymazat videa které zabírají místo na úložišti</string>
+  <string name="cleaner_video_pick_delete_selected">Vymazat vybrané videa</string>
+  <string name="cleaner_video_title">Vymazat videa</string>
+  <string name="screen_doodle_talkback_size">Šířka čáry</string>
+  <string name="screen_editor_finish">Hotovo</string>
+  <string name="screen_save_dialog_btn_cancel">Zrušit</string>
+  <string name="screen_save_dialog_btn_delete">Vymazat screenshot</string>
+  <string name="screen_save_dialog_btn_save">Uložit</string>
+  <string name="similar_keep_clear">Ponechat nejlepší záběry</string>
 </resources>

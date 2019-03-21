@@ -437,4 +437,12 @@
         <item quantity="other">Vyberte do %d fotografií</item>
         <item quantity="one">Vyberte do %d fotografií</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Celkem: %1$d</item>
+        <item quantity="one">Celkem: %1$d</item>
+    </plurals>	
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d souborů</item>
+        <item quantity="one">%1$d souborů</item>
+    </plurals>
 </resources>

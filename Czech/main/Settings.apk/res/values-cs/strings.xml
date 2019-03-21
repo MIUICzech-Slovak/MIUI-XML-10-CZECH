@@ -5614,4 +5614,23 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="other_settings_sync_settings">Synchr.</string>
   <string name="unlogin_account_summary">Všechny Mi služby. Jeden Mi účet</string>
   <string name="unlogin_account_title">Přihlásit se do Mi účtu</string>
+  <string name="auto_dual_clock_summary">Zobrazit duální hodiny pokud se mezi nimi liší čas</string>
+  <string name="auto_dual_clock_title">Duální hodiny</string>
+  <string name="cutout_type_desc">Povolte pro plynulý přechod výřezu</string>
+  <string name="cutout_type_title">Upravit tvar výřezu</string>
+  <string name="dual_clock">Duální hodiny</string>
+  <string name="dual_clock_aod_hint">"\"Duální hodiny \ "závisí na těchto funkcích: 1. Pro vypnutý displej, povolte zobrazení v Nastavení & gt; Displej 2. Pro zamčenou obrazovku, ujistěte se, že používáte výchozí téma v Nastavení & gt; Témata; 3. Pro domácí plochu, ujistěte se , že používáte výchozí widget hodin."</string>
+  <string name="dual_clock_hint">"\"Duální hodiny \ "závisí na těchto funkcích: 1. Pro zamčenou obrazovku, ujistěte se, že používáte výchozí téma v Nastavení & gt; Témata 2. Pro domácí plochu, ujistěte se, že používáte výchozí widget hodin."</string>
+  <string name="dual_clock_ok">Rozumím</string>
+  <string name="dual_clock_open_message">Duální hodiny budou zobrazeny na zamčené obrazovce, domácí ploše a na vypnutém displeji.</string>
+  <string name="more_installed_services_title">Více stažených služeb</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Vyp</string>
+  <string name="otg_opened">Zap</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB OTG umožňuje připojení USB příslušenství jako klávesnice, myš, atd...
+
+ OTG se automaticky deaktivuje po 10 minutách neaktivity."</string>
+  <string name="resident_timezone_summary">Druhé hodiny</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">Nelze vysílat pokud je aktivní Wi-Fi připojení.</string>
 </resources>

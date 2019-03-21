@@ -933,4 +933,6 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="dialog_agree">Souhlasím</string>
   <string name="dialog_disagree">Nesouhlasím</string>
   <string name="list_empty_to_fresh">Žádná zpráva, potáhněte dolů pro obnovení.</string>
+  <string name="folder_empty_to_fresh">Pošta není synchronizována. Potáhněte dolů pro synchr.</string>
+  <string name="folder_no_mails">Žádné zprávy</string>
 </resources>

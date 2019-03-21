@@ -3129,4 +3129,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="shield_keyboard_summary">Zakázat tlačítka a gesta během hraní</string>
   <string name="wlan_optimization_summary">Omezit odezvu Wi-Fi</string>
   <string name="wlan_optimization_title">Optimalizace Wi-Fi</string>
+  <string name="security_center_slogan">Bezpečnost je na prvním místě.</string>
+  <string name="third_desktop_dialog_content">Launcher třetí strany může představovat riziko pro vaše soukromá data a spotřebu baterie. Můžete použít jen launcher schválený MIUI.</string>
+  <string name="third_desktop_dialog_ok">Rozumím</string>
+  <string name="third_desktop_dialog_title">Chyba</string>
+  <string name="app_manager_full_screen_summary">Povolit aplikací celou výšku displeje</string>
+  <string name="app_manager_full_screen_title">Celý displej</string>  
 </resources>
