@@ -5619,8 +5619,8 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="cutout_type_desc">Povolte pro plynulý přechod výřezu</string>
   <string name="cutout_type_title">Upravit tvar výřezu</string>
   <string name="dual_clock">Duální hodiny</string>
-  <string name="dual_clock_aod_hint">"\"Duální hodiny \ "závisí na těchto funkcích: 1. Pro vypnutý displej, povolte zobrazení v Nastavení & gt; Displej 2. Pro zamčenou obrazovku, ujistěte se, že používáte výchozí téma v Nastavení & gt; Témata; 3. Pro domácí plochu, ujistěte se , že používáte výchozí widget hodin."</string>
-  <string name="dual_clock_hint">"\"Duální hodiny \ "závisí na těchto funkcích: 1. Pro zamčenou obrazovku, ujistěte se, že používáte výchozí téma v Nastavení & gt; Témata 2. Pro domácí plochu, ujistěte se, že používáte výchozí widget hodin."</string>
+  <string name="dual_clock_aod_hint">"\"Duální hodiny\"závisí na těchto funkcích: 1. Pro vypnutý displej, povolte zobrazení v Nastavení - Displej 2. Pro zamčenou obrazovku, ujistěte se, že používáte výchozí téma v Nastavení - Témata; 3. Pro domácí plochu, ujistěte se, že používáte výchozí widget hodin."</string>
+  <string name="dual_clock_hint">"\"Duální hodiny\"závisí na těchto funkcích: 1. Pro zamčenou obrazovku, ujistěte se, že používáte výchozí téma v Nastavení - Témata 2. Pro domácí plochu, ujistěte se, že používáte výchozí widget hodin."</string>
   <string name="dual_clock_ok">Rozumím</string>
   <string name="dual_clock_open_message">Duální hodiny budou zobrazeny na zamčené obrazovce, domácí ploše a na vypnutém displeji.</string>
   <string name="more_installed_services_title">Více stažených služeb</string>
