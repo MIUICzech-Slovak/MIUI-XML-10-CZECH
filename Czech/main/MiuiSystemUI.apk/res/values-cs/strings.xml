@@ -1995,4 +1995,5 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="face_unlock_fail_retry">Nebylo možné ověřit tvář. Dotkněte se ikony pro opakování.</string>  
   <string name="face_unlock_success_stay_screen_msg">Zůstat na zamykací obrazovce po ověření obličeje. Tažením nahoru zobrazíte plochu.</string>
   <string name="face_unlock_success_stay_screen_title">Zůstat na zamykací obrazovce po ověření obličeje.</string>  
+  <string name="rapid_charge_mode_tip">Rychlé nabíjení</string>  
 </resources>
