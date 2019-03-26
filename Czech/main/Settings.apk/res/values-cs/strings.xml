@@ -5660,10 +5660,7 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="incall_show">Profilové video pro příchozí hovory</string>
   <string name="lights_title">LED</string>
   <string name="loading">Načítání...</string>
-  <string name="manage_notification_title">upozornění aplikace</string>
-  <string name="miui_more_special_feature">Objevte nové funkce</string>
-  <string name="miui_special_feature">Speciální funkce</string>
-  <string name="more_installed_services_title">Více stažených služeb</string>
+  <string name="manage_notification_title">Upozornění aplikací</string>
   <string name="none">Žádné</string>
   <string name="notifi_channels">kategorie upozornění</string>
   <string name="notifi_channels_other">Ostatní</string>
@@ -5682,7 +5679,6 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="notification_shade_shortcut_title">Zkratka roletky</string>
   <string name="off">Vyp</string>
   <string name="on">Zap</string>
-  <string name="other_settings_sync_settings">Synchr.</string>
   <string name="peek_notification_icon_title">Zobrazit ikony pro nové upozornění</string>
    <string name="priority_summary">Zobrazit upozornění jako první</string>
   <string name="priority_title">Priorita</string>
@@ -5692,7 +5688,6 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="show_wifi_name_title">Zobrazit Wi-Fi</string>
   <string name="sound_title">Zvuk</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
-  <string name="toast_sta_ap_works_wifi_display_disable">Nelze vysílat pokud je Wi-Fi hot-spot aktivní.</string>
   <string name="toggle_collapse_after_clicked_title">Sbalit po dotyku</string>
   <string name="vibrate_title">Vibrovat</string>
   <string name="visibility_override_title">Na zamčené obrazovce</string>

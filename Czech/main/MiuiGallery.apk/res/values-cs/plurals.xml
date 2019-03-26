@@ -453,12 +453,4 @@
         <item quantity="other">%d položek je příliš velkých na zálohování</item>
         <item quantity="one">%d položek je příliš velkých na zálohování</item>
      </plurals>
-     <plurals name="photo_count_format">
-        <item quantity="other">Celkem %1$d položek</item>
-        <item quantity="one">Celkem %1$d položka</item>
-    </plurals>	 
-    <plurals name="video_count_format">
-        <item quantity="other">%1$d souborů</item>
-        <item quantity="one">%1$d soubor</item>
-    </plurals>	
 </resources>
