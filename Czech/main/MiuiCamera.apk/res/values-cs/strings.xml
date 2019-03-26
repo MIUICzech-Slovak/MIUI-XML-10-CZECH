@@ -645,4 +645,8 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Povolit animaci rychlé fotografie</string>
   <string name="pref_camera_quick_shot_enable_title">Povolit rychlou fotografii</string>
   <string name="hint_ae_lock">Automatická expozice byla uzamčena</string>
+  <string name="macro_mode">Makro</string>
+  <string name="macro_mode_tip">Vzdálenost mezi fotoaparátem a objektem by neměla být větší než 10cm</string>  
+  <string name="pref_camera_video_bokeh_off">Video bokeh je vypnuté</string>
+  <string name="pref_camera_video_bokeh_on">Video bokeh</string> 
 </resources>

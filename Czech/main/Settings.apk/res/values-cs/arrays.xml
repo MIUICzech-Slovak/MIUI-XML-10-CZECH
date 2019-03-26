@@ -161,6 +161,7 @@
     <string-array name="battery_indicator_style_entries">
         <item>Grafický</item>
         <item>Procenta</item>
+        <item>Procenta vedle ikony</item>
         <item>Linka nad notifikační lištou</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -1043,5 +1044,15 @@ Postupujte dle pokynů"</item>
  	<item>Horizontální</item>
  	<item>Vertikální</item>
  	<item>V řádku</item>
- 	</string-array>	
+ 	</string-array>
+   <string-array name="fold_entries">
+        <item>Doporučené</item>
+        <item>Důležité</item>
+        <item>Nedůležité</item>
+    </string-array>	
+    <string-array name="fold_summaries">
+        <item>MIUI bude rozhodovat které upozornění mají být zobrazeny</item>
+        <item>Upozornění budou zobrazena v roletce</item>
+        <item>Upozornění budou zobrazena v samostatné složce</item>
+    </string-array>	
 </resources>
