@@ -56,4 +56,81 @@
         <item>Kopírovat</item>
         <item>Zrušit</item>
     </string-array>	
+    <string-array name="activities_title">
+        <item>Speciální den</item>
+        <item>Pamětní den</item>
+        <item>Nejkrásnější momenty</item>
+     </string-array>
+     <string-array name="card_last_week_day">
+        <item>Minulé Pondělí</item>
+        <item>Minulé Úterý</item>
+        <item>Minulou Středa</item>
+        <item>Minulý Čtvrtek</item>
+        <item>Minulý Pátek</item>
+     </string-array>
+     <string-array name="last_month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+     </string-array>
+     <string-array name="last_weekend_title">
+        <item>Moje víkendy</item>
+        <item>Kousky života</item>
+        <item>Vzpomínky na víkend</item>
+     </string-array>
+     <string-array name="month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+     </string-array>
+     <string-array name="month_last_year">
+        <item>Minulý Leden</item>
+        <item>Minulý Únor</item>
+        <item>Minulý Březen</item>
+        <item>Minulý Duben</item>
+        <item>Minulý Květen</item>
+        <item>Minulý Červen</item>
+        <item>Minulý Červenec</item>
+        <item>Minulý Srpen</item>
+        <item>Minulý Září</item>
+        <item>Minulý Říjen</item>
+        <item>Minulý Listopad</item>
+        <item>Minulý Prosinec</item>
+     </string-array>
+     <string-array name="season">
+        <item>Jaro</item>
+        <item>Léto</item>
+        <item>Podzim</item>
+        <item>Zima</item>
+     </string-array>
+     <string-array name="season_last_year">
+        <item>Minulé Jaro</item>
+        <item>Minulé Léto</item>
+        <item>Minulý Podzim</item>
+        <item>Minulou Zimu</item>
+     </string-array>
+     <string-array name="weekend_title">
+        <item>Minulé víkendy</item>
+        <item>Pamětní dny</item>
+        <item>Denní události</item>
+        <item>Běžné a vyjímečné</item>
+     </string-array>
 </resources>

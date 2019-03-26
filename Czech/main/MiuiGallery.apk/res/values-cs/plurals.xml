@@ -445,4 +445,12 @@
         <item quantity="other">%1$d souborů</item>
         <item quantity="one">%1$d souborů</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d položek je příliš velkých na zálohování</item>
+        <item quantity="one">%d položek je příliš velkých na zálohování</item>
+     </plurals>
+     <plurals name="sync_oversized_count">
+        <item quantity="other">%d položek je příliš velkých na zálohování</item>
+        <item quantity="one">%d položek je příliš velkých na zálohování</item>
+     </plurals>	
 </resources>
