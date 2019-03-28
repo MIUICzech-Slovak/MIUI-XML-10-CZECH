@@ -226,4 +226,21 @@
   <string name="repeat_count">Krát</string>
   <string name="snooze_duration">Ztišit</string>
   <string name="snooze_duration_value">Interval (minut)</string>
+  <string name="clock_bg_button_setting_summary_common">Vybrat barvu pozadí aplikace hodin</string>
+  <string name="clock_bg_button_setting_summary_follow_sys">Černé pozadí bude nastaveno spolu s Tmavým režimem v Nastavení - Nastavení pro vývojáře - Tmavý režim</string>
+  <string name="clock_bg_button_setting_title">Barva pozadí</string>
+  <string name="dialog_privacy_content">Pro stažení seznamu svátků a dalších informací aplikace Hodiny vyžaduje připojení na internet. Také musíte souhlasit s našimi %1$s a %2$s. Souhlasíte?</string>
+  <string name="dialog_privacy_content_global">Pro stažení seznamu svátků a dalších informací aplikace Hodiny vyžaduje připojení na internet. Také musíte souhlasit s našimi %1$s a %2$s. Souhlasíte?</string>
+  <string name="dialog_privacy_content_news">Pro stažení seznamu svátků a dalších informací aplikace Hodiny vyžaduje připojení na internet. Také musíte souhlasit s našimi %1$s a %2$s. Souhlasíte?</string>
+  <string name="dialog_privacy_content_timer">Pro stažení zvonění a dalších informací aplikace Hodiny vyžaduje připojení na internet. Také musíte souhlasit s našimi %1$s a %2$s. Souhlasíte?</string>
+  <string name="dialog_privacy_content_timer_data">Pro stažení zvonění (≈20MB) a dalších informací aplikace Hodiny vyžaduje připojení na internet. Také musíte souhlasit s našimi %1$s a %2$s. Souhlasíte?</string>
+  <string name="holiday_update">Je dostupná aktualizace svátků</string>
+  <string name="holiday_update_fail">Nebylo možné aktualizovat</string>
+  <string name="holiday_update_loading">Aktualizace...</string>
+  <string name="holiday_update_success">Není dostupná aktualizace</string>
+  <string name="life_post_setting_open_desc">Vypnout opakující se budíky mezi 04:00 a 10:00</string>
+  <string name="module_download_data_msg_timer">Aplikace Hodiny potřebuje stáhnout dodatečné zvuky. Bude stažených ≈20MB přes mobilní data. Pokračovat?</string>
+  <string name="module_download_msg_timer">Aplikace Hodiny potřebuje stáhnout dodatečné zvuky. Stáhnout nyní?</string>  
+  <string name="personal_recommend">Doporučený obsah</string>
+  <string name="user_agreement">Podmínky užívání</string>
 </resources>
