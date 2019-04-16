@@ -13,11 +13,10 @@
         <item quantity="other">%d hod.</item>
         <item quantity="one">1 hod.</item>
     </plurals>
-    </plurals>	
-	    <plurals name="reminder_later_toast">
+    <plurals name="reminder_later_toast">
         <item quantity="other">Další upozornění za %1$d minut</item>
         <item quantity="one">Další upozornění za %1$d minutu</item>
-    </plurals>	
+    </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d dny</item>
         <item quantity="one">1 den</item>
