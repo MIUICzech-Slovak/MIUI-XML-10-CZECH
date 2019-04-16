@@ -548,4 +548,7 @@
   <string name="facebook_group_gif">GIF</string>
   <string name="facebook_group_image">Obrázky</string>
   <string name="facebook_group_video">Videa</string>  
+  <string name="facebook_function_summery">Vyčistit soubory stažené přes Facebook</string>
+  <string name="facebook_function_title">Facebook čistič</string>
+  <string name="security_center_slogan">Staráme se o vaši bezpečnost.</string>
 </resources>
