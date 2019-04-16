@@ -12,8 +12,7 @@
         <item>Zálohujte důležitá nastavení, včetně Wi-Fi a displeje</item>
         <item>Zablokujte své zařízení v případě ztráty nebo krádeže</item>
     </string-array>
-    </string-array>
-	    <string-array name="user_detail_fixed_items">
+    <string-array name="user_detail_fixed_items">
         <item>Zobrazit synchr. položky</item>
         <item>Podrobnosti o úložišti</item>
     </string-array>
