@@ -1,3 +1,4 @@
+mw_miuichromium_error_page_unknown_error
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Domů</string>
@@ -20,6 +21,7 @@
   <string name="account_prifix">Účet:</string>
   <string name="action">Přihlásit</string>
   <string name="action_menu_account_not_login">Nepřihlášen</string>
+  <string name="data_traffic_download_confirm">Stáhnout přes mobilní data</string>
   <string name="action_menu_account_not_login_hint">Použít nastavení MiCloud pro přihlášení</string>
   <string name="action_menu_bookshelf">Bookshelf</string>
   <string name="action_menu_current_version">Aktuální verze</string>
