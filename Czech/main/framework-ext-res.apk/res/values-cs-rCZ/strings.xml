@@ -118,7 +118,7 @@
   <string name="softap_notifif_title">Hotspot \"%s\" aktivní</string>
   <string name="standard">Ztišit</string>
   <string name="standard_description">[Ztišit] Ztišit zvuky pro příchozí hovory a upozornění</string>
-  <string name="standard_title">Ztišeno</string>
+  <string name="standard_title">Ztišený</string>
   <string name="status_bar_toggle_ac">Kontrola přístupu</string>
   <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
   <string name="status_bar_toggle_battery_saver">Šetření baterie</string>
@@ -178,4 +178,18 @@
   <string name="resolver_offical_recommend">Oficiální</string>
   <string name="resolver_other_method">Jiné možnosti</string>
   <string name="resolver_recommend_options_tag">Doporučené možnosti</string>
+  <string name="popup_camera_calibrate_failed">Nebylo možné kalibrovat. Navštivte Xiaomi servis pro vyřešení tohoto problému.</string>
+  <string name="popup_camera_calibrate_now">Kalibrovat</string>
+  <string name="popup_camera_calibrate_success">Kalibrace dokončena. Můžete otevřít přední kameru.</string>
+  <string name="popup_camera_front_failed">Nebylo možné otevřít přední kameru.</string>
+  <string name="popup_camera_front_falied_times">Nebylo možné otevřít přední kameru. Navštivte Xiaomi servis pro vyřešení tohoto problému."</string>
+  <string name="popup_camera_front_when_use">Predna kamera je zaneprázdněna. I tak otevřít?</string>
+  <string name="popup_camera_popup_falied_times_calibrate">Nebylo možné otevřít přední kameru. Zkuste kalibrovat kameru.</string>
+  <string name="popup_camera_sure">Rozumím</string>
+  <string name="popup_camera_sure_wait">Rozumím (%ds)</string>
+  <string name="popup_camera_takeback_falied_times_calibrate">Nebylo možné zavřít přední kameru. Zkuste kalibrovat kameru.</string>
+  <string name="popup_camera_tip">Upozornění</string>
+  <string name="popup_camera_using_camera_background">%s používá přední kameru</string>
+  <string name="stop_operate_camera_frequently">Přepínáte mezi kamera příliš rychle.</string>
+  <string name="takeback_camera_front_failed">Nebylo možné zavřít přední kameru.</string>
 </resources>

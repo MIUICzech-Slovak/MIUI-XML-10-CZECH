@@ -1608,4 +1608,6 @@
      <string name="video_editor_unzip_file_fail">Nebylo možné rozbalit video.</string>
      <string name="video_editor_video_is_short">Není možné upravit video.</string>
      <string name="video_editor_watermark">Vodoznak</string>
+     <string name="photo_editor_compare_tip">Podržte pro zobrazení originálu</string>
+	 <string name="photo_editor_remove_watermark">Odstranit vodoznak</string>
 </resources>

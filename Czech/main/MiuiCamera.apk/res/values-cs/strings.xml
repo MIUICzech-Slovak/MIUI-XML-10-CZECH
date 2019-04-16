@@ -740,5 +740,11 @@ vyčistěte jej pro ostřejší fotografie."</string>
      <string name="ultra_wide_mode_use_hint_text">Použijte tento režim pokud chcete zachytit širší scénu na vaší fotografii.</string>
      <string name="ultra_wide_open_tip">Ultra široký režim</string>
      <string name="ultra_wide_recommend_tip_hint">Zkuste Ultra široký režim</string>
-     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>   
+     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>
+     <string name="portrait_bokeh_first_tips">"Použijte režim Portrét
+pro rozmazání pozadí objektu"</string>
+     <string name="portrait_bokeh_text">Portrét</string>
+     <string name="portrait_bokeh_tips">Umístěte objekt max do 1.5m</string>	 
+  	 <string name="portrait_mode_use_hint_for_bokeh">"Vyzkoušejte režim Portrét.
+Objekt bude ostrý na rozmazaném pozadí."</string>   
 </resources>

@@ -28,5 +28,33 @@
      <plurals name="word_count">
         <item quantity="other">Znaků: %d</item>
         <item quantity="one">Znaků: %d</item>
-     </plurals>	
+     </plurals>
+     <plurals name="alert_message_delete">
+        <item quantity="other">Vymazat (%1$s)?</item>
+        <item quantity="one">Vymazat (%1$s)?</item>
+    </plurals>
+   <plurals name="format_move_notes_out_folder">
+           <item quantity="other">Vymazáno %1$s poznámek ze složky</item>
+        <item quantity="one">Vymazána %1$s poznámka ze složky</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Přesunuty %1$s poznámky do %2$s</item>
+        <item quantity="one">Přesunuta %1$s poznámka do %2$s</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Skrytých %1$s poznámek</item>
+        <item quantity="one">Skryta %1$s poznámka</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Zobrazeno: %1$s</item>
+        <item quantity="one">Zobrazeno: %1$s</item>
+    </plurals>
+	    <plurals name="folder_terms">
+        <item quantity="other">Složek: %1$s</item>
+        <item quantity="one">Složek: %1$s</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">Poznámek: %1$s</item>
+        <item quantity="one">Poznámek: %1$s</item>
+    </plurals>		
 </resources>

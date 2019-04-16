@@ -692,4 +692,8 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="warning_bar_title_network_unconnected">Nebylo možné připojit se k síti</string>
   <string name="warning_bar_title_short_cut">Přidat MiCloud odkaz na plochu?</string>
   <string name="warning_bar_title_sync_off">Synchr. s MiCloud je vypnuta</string>
+  <string name="enable_sync_setting_title">Nastavování cloudových služeb...</string>
+  <string name="provision_sync_items_loading">Příprava na synchronizaci</string>
+	  <string name="user_detail_agreement">Podmínky užívání</string>
+  <string name="user_detail_privacy_policy">Ochrana soukromí</string> 
 </resources>

@@ -541,4 +541,9 @@
   <string name="chips_action_copy">Kopírovat</string>
   <string name="chips_permission_text">Povolit návrhy kontaktů</string>
   <string name="dropdown_delete_button_desc">Odebrat %s z adresátů</string>
+  <string name="cancel_reminder_later">Zrušit připomínku</string>
+  <string name="default_reminder_later_time">Výchozí čas pro \"Upozornit později\"</string>
+  <string name="next_alarm_time">Další připomenutí o %1$s</string>
+  <string name="reminder_later">Upozornit později</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Musíte přidat účet kalendáře.</string>
 </resources>
