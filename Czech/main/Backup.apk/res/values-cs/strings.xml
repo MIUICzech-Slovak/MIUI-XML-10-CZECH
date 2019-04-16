@@ -621,4 +621,5 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="trans_intro_title_gms">Data Google aplikací:</string>
   <string name="wait_link">Připojte vaše staré zařízení na tento hot-spot.</string>
   <string name="waiting">Načítání...</string>
+  <string name="trans_detail_item_app_data_skip_data">Nelze přenést data aplikace</string>
 </resources>

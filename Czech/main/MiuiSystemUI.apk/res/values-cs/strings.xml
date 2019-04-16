@@ -1997,4 +1997,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="face_unlock_success_stay_screen_title">Zůstat na zamykací obrazovce po ověření obličeje.</string>  
   <string name="rapid_charge_mode_tip">Rychlé nabíjení</string> 
   <string name="face_unlock_success">Tvář úspěšně ověřena</string> 
+  <string name="gxzw_use_password_to_unlock">Zadejte heslo</string>
+  <string name="gxzw_area">Skener otisku prstu</string>
 </resources>
