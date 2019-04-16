@@ -9,14 +9,6 @@
         <item quantity="other">Poznámek: %1$s</item>
         <item quantity="one">Poznámek: 1</item>
     </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">(%1$s)</item>
-        <item quantity="one">(%1$s)</item>
-    </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">(%1$s)</item>
-        <item quantity="one">(%1$s)</item>
-    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">Nebylo synchr.: %1$s</item>
         <item quantity="one">Nebylo synchr.: %1$s</item>
@@ -49,12 +41,12 @@
         <item quantity="other">Zobrazeno: %1$s</item>
         <item quantity="one">Zobrazeno: %1$s</item>
     </plurals>
-	    <plurals name="folder_terms">
+    <plurals name="folder_terms">
         <item quantity="other">Složek: %1$s</item>
         <item quantity="one">Složek: %1$s</item>
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">Poznámek: %1$s</item>
         <item quantity="one">Poznámek: %1$s</item>
-    </plurals>		
+    </plurals>
 </resources>
