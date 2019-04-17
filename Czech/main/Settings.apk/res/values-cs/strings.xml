@@ -5697,7 +5697,7 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="usage_state_app_timer">Čas displeje</string>
   <string name="usage_state_app_usage_detail_title">Používání aplikace</string>
   <string name="usage_state_app_usage_list_title">Využití displeje aplikacemi</string>
-  <string name="usage_state_app_usage_list_week_title">Využití displeje aplikacemi (posledních 7 dní))</string>
+  <string name="usage_state_app_usage_list_week_title">Využití displeje aplikacemi (posledních 7 dní)</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Čas displeje mezi %d:00 - %d:00</string>
   <string name="usage_state_app_use_time">Čas displeje</string>
   <string name="usage_state_channel_mouth">Posledních 30 dní</string>

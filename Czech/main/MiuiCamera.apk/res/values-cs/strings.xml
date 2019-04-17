@@ -647,8 +647,8 @@ vyčistěte jej pro ostřejší fotografie."</string>
   <string name="hint_ae_lock">Automatická expozice byla uzamčena</string>
   <string name="macro_mode">Makro</string>
   <string name="macro_mode_tip">Vzdálenost mezi fotoaparátem a objektem by neměla být větší než 10cm</string> 
-  <string name="ai_scene_top_moon_off">Režim nízkeho osvetlenia</string>
-     <string name="ai_scene_top_tip">Režim měsáíc</string>
+  <string name="ai_scene_top_moon_off">Režim nízkého osvětlení</string>
+     <string name="ai_scene_top_tip">Režim měsíc</string>
      <string name="beauty_body">Postava</string>
      <string name="beauty_body_body">Štíhlý</string>
      <string name="beauty_body_head">Hlava</string>
