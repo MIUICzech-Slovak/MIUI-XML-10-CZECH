@@ -306,7 +306,7 @@
   <string name="month_view">Měsíc</string>
   <string name="monthly">Měsíčně</string>
   <string name="monthly_on_day">Měsíčně</string>
-  <string name="monthly_on_day_count">Měsíčně (vždy %1$s %2$s)</string>
+  <string name="monthly_on_day_count">Měsíčně (%1$s každý měsíc)</string>
   <string name="movable_list_header_label">Popis</string>
   <string name="network_not_available">Nelze se připojit k síti</string>
   <string name="new_event_dialog_label">Nová událost</string>
