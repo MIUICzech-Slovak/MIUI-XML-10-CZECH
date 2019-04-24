@@ -545,4 +545,5 @@
   <string name="next_alarm_time">Další připomenutí o %1$s</string>
   <string name="reminder_later">Upozornit později</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Musíte přidat účet kalendáře.</string>
+  <string name="monthly_on_day_count">Měsíčně (%1$s každý měsíc)</string>
 </resources>
