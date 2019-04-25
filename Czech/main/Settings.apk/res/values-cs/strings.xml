@@ -5721,7 +5721,7 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="usage_state_sunday">Ned</string>
   <string name="usage_state_thursday">Čtv</string>
   <string name="usage_state_today">Dnes</string>
-  <string name="usage_state_today_total_text">Čas užívání displeje dnes</string>
+  <string name="usage_state_today_total_text">Čas užívání dnes</string>
   <string name="usage_state_tuesday">Úte</string>
   <string name="usage_state_unlock_mourth_day">"'Odemknuto' MMM d"</string>
   <string name="usage_state_usage_time">Čas displeje</string>
