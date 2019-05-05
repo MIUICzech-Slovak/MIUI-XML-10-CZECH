@@ -3135,4 +3135,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="third_desktop_dialog_title">Chyba</string>
   <string name="app_manager_full_screen_summary">Povolit aplikací celou výšku displeje</string>
   <string name="app_manager_full_screen_title">Celý displej</string>  
+  <string name="power_save_ps_clean">Vymazat cache pokud je zařízení uzamčeno</string>
+  <string name="power_save_ps_close_setting">Deaktivovat služby na pozadí (synchr., GPS) pro úsporu baterie</string>
+  <string name="power_save_ps_freeze">Zmrazit aplikace na pozadí</string>
+  <string name="power_save_ps_limit">Omezit aktivity na pozadí</string> 
 </resources>

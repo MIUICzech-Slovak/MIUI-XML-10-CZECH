@@ -1998,5 +1998,19 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="rapid_charge_mode_tip">Rychlé nabíjení</string> 
   <string name="face_unlock_success">Tvář úspěšně ověřena</string> 
   <string name="gxzw_use_password_to_unlock">Zadejte heslo</string>
-  <string name="gxzw_area">Skener otisku prstu</string>
+  <string name="gxzw_area">Skenr otisku prstu</string>
+  <string name="battery_low_button_not_open_power_save">Později</string>
+  <string name="battery_low_button_open_power_save">Povolit</string>
+  <string name="battery_low_percent_format_save_mode_closed">Zbývá méně než %d%% baterie. Připojte nabíječku.</string>
+  <string name="battery_low_percent_format_save_mode_open">Zbývá méně než %d%% baterie. Povolte úsporu baterie.</string>
+  <string name="battery_low_title_power_save">Úspora baterie</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Po rozsvícení displeje potáhněte nahoru pro odemknutí tváří.</string>
+  <string name="face_unlock_fail_retry">Nebylo možné rozpoznat vaši tvář. Dotkněte se displeje pro opakování.</string>
+  <string name="face_unlock_fail_retry_global">Dotykem displeje pro odemknutí tváří</string>
+  <string name="power_save_ps_clean">Vymazat cache když je zařízení uzamčeno</string>
+  <string name="power_save_ps_close_setting">Deaktivovat služby na pozadí (synchr, GPS) pro úsporu baterie</string>
+  <string name="power_save_ps_freeze">Zmrazit aplikace na pozadí</string>
+  <string name="power_save_ps_limit">Omezit aktivitu systémových aplikací</string>  
+  <string name="dnd_notification_warnings_title">Hovory a upozornění budou ztišeny dokud nevypnete režim Nerušit</string>  
+  <string name="notification_channel_dnd">Nerušit</string>
 </resources>
