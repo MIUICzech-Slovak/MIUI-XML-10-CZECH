@@ -5697,7 +5697,7 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="usage_state_app_timer">Čas displeje</string>
   <string name="usage_state_app_usage_detail_title">Používání aplikace</string>
   <string name="usage_state_app_usage_list_title">Využití displeje aplikacemi</string>
-  <string name="usage_state_app_usage_list_week_title">Využití displeje aplikacemi (posledních 7 dní)</string>
+  <string name="usage_state_app_usage_list_week_title">Využití displeje aplikacemi</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Čas displeje mezi %d:00 - %d:00</string>
   <string name="usage_state_app_use_time">Čas displeje</string>
   <string name="usage_state_channel_mouth">Posledních 30 dní</string>
@@ -5709,8 +5709,8 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
   <string name="usage_state_less_one_minute">Méně než 1 min</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Čas displeje' MMM d"</string>
-  <string name="usage_state_noti_mourth_day">"'Upozornění' MMM d"</string>
+  <string name="usage_state_mourth_day">Čas displeje %s</string>
+  <string name="usage_state_noti_mourth_day">Upozornění %s</string>
   <string name="usage_state_notification">Spravovat upozornění</string>
   <string name="usage_state_notification_manager">Spravovat upozornění aplikace</string>
   <string name="usage_state_remind_summary">Povolte pokud chcete dostávat upozornění na čas užívání displeje.</string>
@@ -5723,7 +5723,7 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="usage_state_today">Dnes</string>
   <string name="usage_state_today_total_text">Čas užívání dnes</string>
   <string name="usage_state_tuesday">Úte</string>
-  <string name="usage_state_unlock_mourth_day">"'Odemknuto' MMM d"</string>
+  <string name="usage_state_unlock_mourth_day">Odemknuto %s</string>
   <string name="usage_state_usage_time">Čas displeje</string>
   <string name="usage_state_usage_time_remind">Upozornění na čas užívání</string>
   <string name="usage_state_use_time_remind_title">Upozornění na čas užívání</string>
@@ -5748,7 +5748,7 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="usagestats_app_category_miui_video_etc">Hudba a video</string>
   <string name="usagestats_device_notification_des">Dnešní limit užívání displeje: %s</string>
   <string name="usagestats_device_notification_des_over">Už jste dosáhli svůj dnešní limit užívání displeje.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Dnešní limit užívání displeje: %s | %s zbývá</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Dnešní limit: %s | %s zbývá</string>
   <string name="usagestats_device_notification_title">Upozornění na čas užívání</string>
   <string name="usagestats_device_timeout_des" formatted="false">Dnes jste používali své zařízení% %dh %dm. Odpočiňte si.!</string>
   <string name="usagestats_device_timeout_negative">Upozornit za 1 hodinu</string>
@@ -5770,4 +5770,12 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="dc_light_title">Anti-flicker režim</string>
   <string name="power_menu_under_keyguard_summary">Povolit přístup k vypnutí zařízení pokud je uzamčeno</string>
   <string name="power_menu_under_keyguard_title">Přístup k menu vypnutí</string>
+  <string name="choose_keyguard_clock_style">Formát hodin zamykací obrazovky</string>
+  <string name="choose_keyguard_clock_summary">"Toto nastavení nefunguje s tématy třetích stran"</string>
+  <string name="choose_unlock_face_msg">Před nahráváním údajů o obličeji nastavte zámek obrazovky.</string>
+  <string name="choose_unlock_fingerprint_msg">Před přidáním otisku prstu nastavte zámek obrazovky.</string>
+  <string name="miui_lab_gesture_desc">Zakažte fyzická tlačítka a vychutnejte si gesto plné obrazovky</string>
+  <string name="miui_lab_gesture_title">FullScreen Gesture</string>
+  <string name="search_ambient_display_screen_title">Ambient displej</string>
+  <string name="search_doze_always_on_title">Vždy zapnuto</string>
 </resources>

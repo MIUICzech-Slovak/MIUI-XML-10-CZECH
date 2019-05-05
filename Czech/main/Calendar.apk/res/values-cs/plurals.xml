@@ -137,5 +137,17 @@
     <plurals name="repeat_custom_prompt">
         <item quantity="other">kařdý %1$s v %2$s</item>
         <item quantity="one">každý %1$s v %2$s</item>	
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dní"</item>
+        <item quantity="one">" den"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
     </plurals>		    
 </resources>

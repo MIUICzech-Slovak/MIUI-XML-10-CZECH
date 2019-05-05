@@ -622,4 +622,5 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="wait_link">Připojte vaše staré zařízení na tento hot-spot.</string>
   <string name="waiting">Načítání...</string>
   <string name="trans_detail_item_app_data_skip_data">Nelze přenést data aplikace</string>
+  <string name="phone_title">Nastavení telefonu</string>
 </resources>

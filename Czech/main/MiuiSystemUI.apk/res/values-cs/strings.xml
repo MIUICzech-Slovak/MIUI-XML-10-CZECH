@@ -2013,4 +2013,14 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="power_save_ps_limit">Omezit aktivitu systémových aplikací</string>  
   <string name="dnd_notification_warnings_title">Hovory a upozornění budou ztišeny dokud nevypnete režim Nerušit</string>  
   <string name="notification_channel_dnd">Nerušit</string>
+  <string name="choose_clock_title_left_top">Nalevo</string>
+  <string name="choose_clock_title_middle">Ve středu</string>
+  <string name="choose_clock_title_vertical">Na výšku</string>  
+  <string name="face_unlock_success_show_message_dialog_msg">Povolit upozorněním zobrazení na zamčené obrazovce.</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Ne</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Povolit</string>
+  <string name="face_unlock_success_show_message_dialog_title">Upozornění na zamčené obrazovce</string>
+  <string name="face_unlock_success_show_message_msg">Zobrazit jen zdroj upozornění pokud je zařízení uzamčeno a obsah až po odemknutí obličejem</string>
+  <string name="face_unlock_success_show_message_title">Zobrazit obsah upozornění až po odemknutí obličejem</string>
+  <string name="face_unlock_success_show_message_toast">Upozornění budou zobrazena.</string>  
 </resources>

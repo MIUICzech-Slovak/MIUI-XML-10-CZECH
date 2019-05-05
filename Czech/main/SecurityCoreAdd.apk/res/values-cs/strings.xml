@@ -384,4 +384,6 @@ Můžete je i znovu stáhnout."</string>
   <string name="dialog_verify_fingerprint_retry">Nelze ověřit</string>
   <string name="dual_animation">Animace otevírání</string>
   <string name="dual_animation_description">Zobrazit animaci při otevírání klonované aplikace</string>  
+  <string name="close_kid_space_success">Vymazán Dětský profil</string>
+  <string name="kid_mode_label">Dětský profil</string>
 </resources>

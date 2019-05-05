@@ -1609,5 +1609,21 @@
      <string name="video_editor_video_is_short">Není možné upravit video.</string>
      <string name="video_editor_watermark">Vodoznak</string>
      <string name="photo_editor_compare_tip">Podržte pro zobrazení originálu</string>
-	 <string name="photo_editor_remove_watermark">Odstranit vodoznak</string>
+	 <string name="photo_editor_remove_watermark">Odstranit vodoznak</string>  
+     <string name="ai_album_setting_key_word">Vyhľadať fotografie</string>
+  <string name="base_btn_cancel">Zrušit</string>
+  <string name="base_btn_download">Stáhnout</string>
+  <string name="filter_category_sky">Obloha</string>
+  <string name="filter_sky_cloudy">Zamračeno</string>
+  <string name="filter_sky_detect_forbidden_tips">Nelze najít</string>
+  <string name="filter_sky_download_failed">Nelze stáhnout doplněk.</string>
+  <string name="filter_sky_download_finish">Doplněk stažen</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">Pokud nejste připojen na Wi-Fi, můžete stáhnout doplněk přes mobilní data (%1$dMB).</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Stáhnout doplněk</string>
+  <string name="filter_sky_dusk">Soumrak</string>
+  <string name="filter_sky_glow">Zářivá</string>
+  <string name="filter_sky_rainbow">Duha</string>
+  <string name="filter_sky_sunny">Jasno</string>
+  <string name="filter_sky_sunset">Západ slunce</string>
+  <string name="trash_bin_key_word">Vymazané fotografie</string> 
 </resources>

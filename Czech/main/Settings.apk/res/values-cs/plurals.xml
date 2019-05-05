@@ -203,20 +203,20 @@
         <item quantity="one">Dokončete %1$d krok k obnovení továrního nastavení</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Odemknuto %d krát dnes</item>
-        <item quantity="one">Odemknuto %d krát dnes</item>
+        <item quantity="other">Odemknuto %d krát</item>
+        <item quantity="one">Odemknuto %d krát</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Odemknuto %d krát za posledních 7 dní</item>
-        <item quantity="one">Odemknuto %d krát za posledních 7 dní</item>
+        <item quantity="other">Odemknuto %d krát</item>
+        <item quantity="one">Odemknuto %d krát</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Přijato %d upozornění dnes</item>
-        <item quantity="one">Přijato %d upozornění dnes</item>
+        <item quantity="other">Přijato %d upozornění</item>
+        <item quantity="one">Přijato %d upozornění</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Přijato %d upozornění za posledních 7 dní</item>
-        <item quantity="one">Přijato %d upozornění za posledních 7 dní</item>
+        <item quantity="other">Přijato %d upozornění</item>
+        <item quantity="one">Přijato %d upozornění</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%dh</item>

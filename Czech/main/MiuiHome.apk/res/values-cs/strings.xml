@@ -344,4 +344,12 @@
   <string name="edit_mode_top_menu_finish">Hotovo</string>
   <string name="menu_finish">Hotovo</string>
   <string name="widgets_preview_title">Přidat widget</string>
+  <string name="home_gesture_content_center">Centrum obsahu</string>
+  <string name="home_gesture_global_search">Vyhledat</string>
+  <string name="home_gesture_no_action">Žádné</string>
+  <string name="home_gesture_notification_bar">Upozornění</string>
+  <string name="home_pull_down_action">Potažení dolů na ploše</string>
+  <string name="home_slide_up_action">Potažení nahoru na ploše</string>
+  <string name="launcher_pull_down_title">Potažení nahoru na ploše</string>
+  <string name="launcher_slide_up_title">Potažení dolů na ploše</string>
 </resources>

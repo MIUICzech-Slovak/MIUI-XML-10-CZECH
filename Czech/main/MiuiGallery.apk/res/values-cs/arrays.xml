@@ -133,4 +133,8 @@
         <item>Denní události</item>
         <item>Běžné a vyjímečné</item>
      </string-array>
+     <string-array name="backup_automatically_key_words">
+        <item>Zálohovat fotografie</item>
+        <item>Zálohovat fotografie na MiCloud</item>
+    </string-array>
 </resources>
