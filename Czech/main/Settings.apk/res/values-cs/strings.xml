@@ -5757,4 +5757,17 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="wifi_protection_on">Zap</string>
   <string name="wifi_protection_settings_title">Wi-Fi ochrana</string>
   <string name="wifi_protection_tip">MIUI automaticky povolí Wi-Fi ochranu. Během vyhledávání Wi-Fi sítí v okolí, náhodně změní MAC adresu zařízení pro ochranu vašeho soukromí.</string>
+<string name="choose_keyguard_clock_style">Formát hodin na zamknutém displeji</string>
+  <string name="choose_keyguard_clock_summary">Toto nastavení nepodporují doinstalování témat</string>
+  <string name="choose_unlock_face_msg">Před zadáním obličeje nastavte zámek obrazovky.</string>
+  <string name="choose_unlock_fingerprint_msg">Před zadáním otisku prstu nastavte zámek obrazovky.</string>
+  <string name="miui_lab_gesture_desc">Deaktivujte tlačítka z užijte si ovládání gesty</string>
+  <string name="miui_lab_gesture_title">Gesta obrazovky</string>
+  <string name="search_ambient_display_screen_title">Ambientní displej</string>
+  <string name="search_doze_always_on_title">Vždy zapnutý</string>
+  <string name="dc_light_dialog_summary">Kvalita obrázků může být ovlivněna Anti-flicker režimem. Chcete jej povolit??</string>
+  <string name="dc_light_summary">Použít DC stmívání pro šetření vašich očí.</string>
+  <string name="dc_light_title">Anti-flicker režim</string>
+  <string name="power_menu_under_keyguard_summary">Povolit přístup k vypnutí zařízení pokud je uzamčeno</string>
+  <string name="power_menu_under_keyguard_title">Přístup k menu vypnutí</string>
 </resources>
