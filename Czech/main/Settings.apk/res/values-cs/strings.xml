@@ -5769,5 +5769,18 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="choose_unlock_face_msg">Před nahráváním údajů o obličeji nastavte zámek obrazovky.</string>
   <string name="choose_unlock_fingerprint_msg">Před přidáním otisku prstu nastavte zámek obrazovky.</string>
   <string name="miui_lab_gesture_desc">Zakažte fyzická tlačítka a vychutnejte si gesto plné obrazovky</string>
-  <string name="miui_lab_gesture_title">FullScreen Gesture</string>
+  <string name="miui_lab_gesture_title">Gesta displeje</string>
+  <string name="backup_set_clear_success">Heslo zálohy bylo odstraněno</string>
+  <string name="backup_set_clear_title">Odstranit heslo zálohy</string>
+  <string name="backup_set_confirm">OK</string>
+  <string name="backup_set_confirm_clear">Odstranit</string>
+  <string name="backup_set_enter_new_pw">Zadejte nové heslo zálohy</string>
+  <string name="backup_set_enter_new_pw_again">Potvrďte nové heslo zálohy</string>
+  <string name="backup_set_enter_old_pw">Zadejte staré heslo zálohy</string>
+  <string name="backup_set_enter_pw_title">Zadejte heslo zálohy</string>
+  <string name="backup_set_error_pw">Zadané heslo není správné</string>
+  <string name="backup_set_modify_title">Změnit heslo zálohy</string>
+  <string name="backup_set_new_pw_title">Zadejte nové heslo zálohy</string>
+  <string name="backup_set_null_pw">Nejdříve zadejte heslo</string>
+  <string name="backup_set_pw_confirm_title">Potvrďte nové heslo zálohy</string>
 </resources>
