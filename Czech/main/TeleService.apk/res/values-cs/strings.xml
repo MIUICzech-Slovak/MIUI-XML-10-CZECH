@@ -1297,4 +1297,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="privacy_policy_title">Ochrana soukromí</string>
   <string name="sip_account_disable">Účet není aktivní.</string>
   <string name="sip_receive_call_disable">Nelze přijmout hovor.</string>
+  <string name="jump_to_mobile_network_setting">Nastavení mobilní sítě</string>
+  <string name="select_dds_dialog_title">Vyberte výchozí SIM pro data</string>
 </resources>

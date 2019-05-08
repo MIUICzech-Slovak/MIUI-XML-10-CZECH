@@ -5783,4 +5783,6 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="backup_set_new_pw_title">Zadejte nové heslo zálohy</string>
   <string name="backup_set_null_pw">Nejdříve zadejte heslo</string>
   <string name="backup_set_pw_confirm_title">Potvrďte nové heslo zálohy</string>
+  <string name="fingerprint_wakeup_title">Probudit dotykem na senzor</string>
+  <string name="fingerprint_wakeup_summary">Probudit displej dotykem na senzor otisku prstu (pouze pokud není nastaven otisk)</string>
 </resources>

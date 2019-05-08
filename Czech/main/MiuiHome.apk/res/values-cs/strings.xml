@@ -350,6 +350,11 @@
   <string name="home_gesture_notification_bar">Upozornění</string>
   <string name="home_pull_down_action">Potažení dolů na ploše</string>
   <string name="home_slide_up_action">Potažení nahoru na ploše</string>
-  <string name="launcher_pull_down_title">Potažení nahoru na ploše</string>
-  <string name="launcher_slide_up_title">Potažení dolů na ploše</string>
+  <string name="launcher_pull_down_title">Potažení dolů na ploše</string>
+  <string name="launcher_slide_up_title">Potažení nahoru na ploše</string>
+  <string name="edit_mode_dual_app">Vytvořit klonovanou aplikaci</string>
+  <string name="edit_mode_group_error_cant_delete_system_apps">Nelze odinstalovat systémovou aplikaci</string>
+  <string name="edit_mode_group_error_nothing_be_selected">Nejprve vyberte aplikaci</string>
+  <string name="menu_auto_fill_of_uninstall">Zaplnit místo po odinstalování aplikací</string>
+  <string name="minus_one_screen">Asistent</string>
 </resources>

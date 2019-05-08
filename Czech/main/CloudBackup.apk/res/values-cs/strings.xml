@@ -208,5 +208,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="restore_init_description">Spustit obnovu</string>
   <string name="restoring_file_title_no_progress">Obnovení...</string>
   <string name="restoring_settings">Obnovení Nastavení...</string>
-  <string name="hint_restore_cross_space">Pokud přesouváte položky mezi profily, rozložení ikon může být zobrazeny nesprávně.</string>  
+  <string name="hint_restore_cross_space">Pokud přesouváte položky mezi profily, rozložení ikon může být zobrazeny nesprávně.</string>
+  <string name="selected">Vybráno</string>
+  <string name="unselected">Nevybráno</string>  
 </resources>
