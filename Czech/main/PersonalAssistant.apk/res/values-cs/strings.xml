@@ -466,7 +466,7 @@
     <string name="miot_device_add_device">Přidat</string>
     <string name="miot_device_all_device">Všechna zařízení</string>
     <string name="miot_device_cancel">Zrušit</string>
-    <string name="miot_device_card_title">Mihome</string>
+    <string name="miot_device_card_title">MiHome</string>
     <string name="miot_device_click_show_detail">(Dotykem zjistíte více o smart home)</string>
     <string name="miot_device_cta_and"> a </string>
     <string name="miot_device_cta_message">Přidejte vaše smart zařízení pro jejich ovládání.</string>
