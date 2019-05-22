@@ -19,6 +19,7 @@
   <string name="accelerometer_title">Auto. otočení obrazovky</string>
   <string name="access_control_app_entry_multiple">Otevřít %s</string>
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
+   <string name="dc_light_summary_new">Použít DC ztmavení pro šetření vašich očí.</string>
   <string name="access_control_need_password">"%s - uzamknuto
 "</string>
 <string name="eq_return">Zpět</string>

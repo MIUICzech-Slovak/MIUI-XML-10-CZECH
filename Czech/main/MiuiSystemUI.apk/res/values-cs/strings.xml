@@ -2021,5 +2021,10 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="face_unlock_success_show_message_dialog_title">Upozornění na zamčené obrazovce</string>
   <string name="face_unlock_success_show_message_msg">Zobrazit jen zdroj upozornění pokud je zařízení uzamčeno a obsah až po odemknutí obličejem</string>
   <string name="face_unlock_success_show_message_title">Zobrazit obsah upozornění až po odemknutí obličejem</string>
-  <string name="face_unlock_success_show_message_toast">Upozornění budou zobrazena.</string>  
+  <string name="face_unlock_success_show_message_toast">Upozornění budou zobrazena.</string>
+  <string name="keyguard_charging_normal_and_level_tip">Nabíjení %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">Rychlé nabíjení %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">Rychlé nabíjení %d%%</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Více</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Vstoupit</string>  
 </resources>

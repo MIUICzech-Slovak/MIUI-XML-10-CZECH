@@ -630,7 +630,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="member_entrance_title_ultra_low_case_a">Obnovit</string>
   <string name="member_entrance_title_ultra_low_case_b">Obnovit</string>
   <string name="micloud_main_manual_sync">Manuální synchr.</string>
-  <string name="micloud_main_sync_mode_summary">Některé položky se synchronizují, když je displej vypnutý a baterie se nabíjí.</string>
+  <string name="micloud_main_sync_mode_summary">Položky se synchronizují, když je displej vypnutý a baterie se nabíjí.</string>
   <string name="micloud_main_sync_mode_title">Šetření baterie</string>
   <string name="micloud_manaul_sync_success_button_text">Zobrazit podrobnosti</string>
   <string name="micloud_manaul_sync_success_title">Synchronizováno</string>

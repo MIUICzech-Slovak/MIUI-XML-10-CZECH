@@ -477,5 +477,9 @@
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Zadejte alespoň %d znaky</item>
         <item quantity="one">Zadejte alespoň %d znak</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">Funkcí: %d</item>
+        <item quantity="one">Funkcí: %d</item>
     </plurals>		
 </resources>

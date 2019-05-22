@@ -623,4 +623,7 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="waiting">Načítání...</string>
   <string name="trans_detail_item_app_data_skip_data">Nelze přenést data aplikace</string>
   <string name="phone_title">Nastavení telefonu</string>
+  <string name="dialog_app_upgrade_download">Aktualizovat</string>
+  <string name="dialog_app_upgrade_exit">Ukončit</string>
+  <string name="dialog_app_upgrade_message">Je dostupná nová verze Přenosu dat. Chcete ji stáhnout nyní?</string>
 </resources>
