@@ -1626,4 +1626,7 @@
   <string name="filter_sky_sunny">Jasno</string>
   <string name="filter_sky_sunset">Západ slunce</string>
   <string name="trash_bin_key_word">Vymazané fotografie</string> 
+  <string name="clear_dup_medias">Vyčistit duplicitní fotografie</string>
+  <string name="clear_dup_success">Vyčištěno</string>
+  <string name="clear_dup_tip">Čištění duplicitních fotografií</string>  
 </resources>

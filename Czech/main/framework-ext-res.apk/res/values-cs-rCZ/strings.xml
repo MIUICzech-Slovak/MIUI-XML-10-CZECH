@@ -192,4 +192,6 @@
   <string name="popup_camera_using_camera_background">%s používá přední kameru</string>
   <string name="stop_operate_camera_frequently">Přepínáte mezi kamera příliš rychle.</string>
   <string name="takeback_camera_front_failed">Nebylo možné zavřít přední kameru.</string>
+  <string name="popup_camera_front_when_use">Aplikace Fotoaparát vyžaduje otevřít přední fotoaparát. Otevřít teď??</string>
+  <string name="voice_assistant_tips">Aktualizovány na dlouhé podržení zapínání pro spuštění pomocníka</string>
 </resources>

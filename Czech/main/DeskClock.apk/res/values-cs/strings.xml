@@ -243,4 +243,5 @@
   <string name="module_download_msg_timer">Aplikace Hodiny potřebuje stáhnout dodatečné zvuky. Stáhnout nyní?</string>  
   <string name="personal_recommend">Doporučený obsah</string>
   <string name="user_agreement">Podmínky užívání</string>
+  <string name="update_notification_info">Aktualizace dat na pozadí...</string>
 </resources>

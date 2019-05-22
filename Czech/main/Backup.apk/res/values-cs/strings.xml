@@ -626,4 +626,8 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="dialog_app_upgrade_download">Aktualizovat</string>
   <string name="dialog_app_upgrade_exit">Ukončit</string>
   <string name="dialog_app_upgrade_message">Je dostupná nová verze Přenosu dat. Chcete ji stáhnout nyní?</string>
+  <string name="dialog_backup_password_backup_tips">Nelze zálohovat pokud je zapnuto heslo zálohy.</string>
+  <string name="dialog_backup_password_cancel">Zrušit</string>
+  <string name="dialog_backup_password_change_machine_tips">Nebude možné přesunout zálohy chráněné heslem. Před použitím Přenosu deaktivujte heslo zálohy.</string>
+  <string name="dialog_backup_password_to_settings">Nastavení</string>  
 </resources>

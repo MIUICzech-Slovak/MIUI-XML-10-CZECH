@@ -337,7 +337,7 @@
   <string name="preferences_alerts_ringtone_title">Zvonění</string>
   <string name="preferences_alerts_title">Upozornění</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrace</string>
-  <string name="preferences_alerts_vibrate_title">Vibrace a zvonění</string>
+  <string name="preferences_alerts_vibrate_title">Výchozí upozornění</string>
   <string name="preferences_build_version">Verze sestavení</string>
   <string name="preferences_category_account_title">Účet</string>
   <string name="preferences_category_general_title">Všeobecná</string>
@@ -549,4 +549,24 @@
   <string name="edit_event_custom_reminder_time_dup">Vlastní upozornění: %1$s</string>
   <string name="edit_event_custom_reminder_title">Nastavit vlastní upozornění</string>
   <string name="event_reminder_custom">Vlastní</string>
+  <string name="accessibility_alarm_remind">Upozornění na budík</string>
+  <string name="preferences_alarm_default_event_title">Nastavit upozornění</string>
+  <string name="preferences_alarms_category_title">Upozornění na budík</string>
+  <string name="preferences_alarms_default_event">Vybrat události</string>
+  <string name="preferences_alarms_sound">Zvuk</string>
+  <string name="preferences_alarms_vibrateWhen">Vibrace</string>
+  <string name="preferences_allow_remind">Povolit upozornění</string>
+  <string name="repeat_alarm_changed_event">Nastavit opakování upozornění</string>
+  <string name="repeat_alarm_changed_ony_selected">Pouze tentokrát</string>
+  <string name="repeat_alarm_changed_title">Toto je opakující se událost. Nastavit upozornění??</string>
+  <string name="repeat_alarm_close_title">Toto je opakující se událost. Vypnout upozornění?</string>
+  <string name="repeat_alarm_open_title">Toto je opakující se událost. Nastavit upozornění?</string>
+  <string name="setting">Nastavení</string>
+  <string name="setting_daysoff_no_update">Informace o volných dnech jsou aktuální.</string>
+  <string name="setting_daysoff_update">Aktualizovat informace o volných dnech</string>
+  <string name="setting_daysoff_update_cta_cancel">Nejdříve povolte aplikací Kalendář přístup k internetu</string>
+  <string name="setting_daysoff_update_net_err">Nebylo možné zkontrolovat aktualizace.</string>
+  <string name="setting_daysoff_update_schedule">Aktualizace...</string>
+  <string name="setting_daysoff_update_success">Aktualizováno</string>
+  <string name="talk_back_tab_switch">Přepnout zobrazení</string>
 </resources>

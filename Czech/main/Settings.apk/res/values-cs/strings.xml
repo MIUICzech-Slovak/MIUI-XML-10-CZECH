@@ -2778,7 +2778,7 @@ Zvolte Váš operační systém:"</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovat</string>
   <string name="open_personal_assistant_dialog_desc">Nebude možné používat Asistenta. Chcete jej vypnout?</string>
   <string name="open_personal_assistant_dialog_title">Deaktivovat Asistenta</string>
-  <string name="open_personal_assistant_title">Aktivovat Asistenta</string>
+  <string name="open_personal_assistant_title">Povolit Asistenta</string>
   <string name="open_sdcard_optimization_title">Povolit optimalizaci emulované SD karty</string>
   <string name="open_sdcard_optimization_warning_message">Vaše zařízení se restartuje pro aplikování změn.</string>
   <string name="open_wifi_connect_summary">Stiskněte pro správu sítí</string>
@@ -5799,4 +5799,21 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="backup_set_new_pw_title">Zadejte nové heslo zálohy</string>
   <string name="backup_set_null_pw">Nejdříve zadejte heslo</string>
   <string name="backup_set_pw_confirm_title">Potvrďte nové heslo zálohy</string>
+  <string name="color_led_applications_title">Vybrat aplikace</string>
+  <string name="color_led_applications_title_summary">Můžete zakázat používání LED pro jednotlivé aplikace</string>
+  <string name="color_led_battery_title">Ponechat zapnuté během nabíjení</string>
+  <string name="color_led_end_time">Konec</string>
+  <string name="color_led_game_mode_title">Zrychlení her</string>
+  <string name="color_led_hint">Vyberte scénáře kdy se má použít LED. LED bude svítit pokud je telefon položený na displej a režim Nerušit není aktivován.</string>
+  <string name="color_led_incall_pulse_title">Blikat pro příchozí hovory</string>
+  <string name="color_led_music_mode_summary">Blikat do rytmu během přehrávání hudby</string>
+  <string name="color_led_music_mode_title">Hudba</string>
+  <string name="color_led_notification_pulse_title">Pulzovat pro upozornění</string>
+  <string name="color_led_red_more_feature">Speciální efekty</string>
+  <string name="color_led_start_time">Začátek</string>
+  <string name="color_led_title">LED světlo</string>
+  <string name="long_press_power_key">Dlouhé podržení Zapínání</string>
+  <string name="long_press_power_key_tips">Dlhé podržanie Zapínania > Rýchlejšie a pohodlnejšie</string>
+  <string name="toggle_auto_speaker_preference_summary">Zařízení se přepne na reproduktor pokud jej oddálíte od ucha během hovoru. Tato funkce pracuje pouze s povoleným TalkBack.</string>
+  <string name="toggle_auto_speaker_preference_title">Automaticky přepnout na reproduktor</string> 
 </resources>

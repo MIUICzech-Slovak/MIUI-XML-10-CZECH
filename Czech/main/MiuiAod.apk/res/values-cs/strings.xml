@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="search_menu_title">Vyhledat</string>
+  <string name="accessibility_battery_level">%d procent.</string>
+  <string name="accessibility_battery_level_charging">Nabíjení baterie, %d procent.</string>
+  <string name="aod_close_color_inversion">Tato funkce nemůže být kombinována s funkcí invertní barev.</string>
+  <string name="aod_mode_style">Styl hodin a pozadí</string>
+  <string name="aod_mode_summary">Zobrazit čas, datum a SMS když je displej vypnutý.</string>
+  <string name="aod_mode_time_summary">Naplánujte čas kdy se má vaše zařízení přepnout do ambientní režimu</string>
+  <string name="aod_mode_time_title">Naplánovat čas</string>
+  <string name="aod_mode_title">Ambientní displej</string>
+  <string name="aod_to_close">Vypnout</string>
+  <string name="cancel">Zrušit</string>
+  <string name="paper_mode_end_time_title">Vypnout</string>
+  <string name="paper_mode_start_time_title">Zapnout</string>
+</resources>

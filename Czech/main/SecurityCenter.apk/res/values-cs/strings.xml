@@ -3147,5 +3147,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="function_shield_three_finger">Zakázat screenshot gesty</string>
   <string name="gs_show_way">Orientace domácí plochy</string>
   <string name="gs_show_way_horizontal">Na šířku</string>
-  <string name="gs_show_way_vertical">Na výšku</string> 
+  <string name="gs_show_way_vertical">Na výšku</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Dotykem opravíte problém</string>
+  <string name="notification_battery_scan_consume_abnormal_title_set">%s vybíjí baterii</string>
+  <string name="pc_abnormal_scan_button_text">Ukončit aplikace</string>
+  <string name="pc_abnormal_scan_reason_prevent_standby">Brání systému přejít do režimu spánku</string>
+  <string name="pc_abnormal_scan_reason_reconnect">Se pokouší připojit na síť příliš často</string>
+  <string name="pc_abnormal_scan_reason_runtime_exception">Běží abnormální</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Často vyhledává Wi-Fi sítě</string>
+  <string name="pc_abnormal_scan_reason_use_GPS">Používá polohu příliš často</string>
+  <string name="pc_abnormal_scan_reason_wake_system">Často probouzí systém</string> 
 </resources>
