@@ -1064,9 +1064,4 @@ Postupujte dle pokynů"</item>
         <item>Procenta (v ikoně)</item>
         <item>Procenta (vedle ikony)</item>
     </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-        <item>Grafická</item>
-        <item>Procenta (v ikone)</item>
-        <item>Procenta (vedle ikony)</item>
-    </string-array>	
 </resources>
