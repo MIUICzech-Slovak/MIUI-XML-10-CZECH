@@ -255,4 +255,5 @@
   <string name="open_dark_mode_tip">Kvalita zobrazení bude snížena v Tmavém režimu. Chcete povolit Tmavý režim?</string>
   <string name="adaptive_battery_title">Adaptivní baterie</string>
   <string name="adaptive_battery_summary">Omezit využívání baterie pro aplikace, které nepoužíváte</string>
+   <string name="appconfig_active_app_dialog_title">Spravovat aktivní aplikace</string>
 </resources>

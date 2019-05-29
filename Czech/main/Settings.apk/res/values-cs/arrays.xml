@@ -1064,4 +1064,14 @@ Postupujte dle pokynů"</item>
         <item>Procenta (v ikoně)</item>
         <item>Procenta (vedle ikony)</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Hovorit s Google Asistentrm</item>
+        <item>Otevřít Google vyhledávání</item>
+        <item>Otevřít zadný fotoaparát</item>
+        <item>Otevřít přední fotoaparát</item>
+        <item>Otevřít předchozí aplikaci</item>
+        <item>Zapnout svítidlo</item>
+        <item>Zapnout režim čtení</item>
+        <item>Žádná</item>
+    </string-array>
 </resources>

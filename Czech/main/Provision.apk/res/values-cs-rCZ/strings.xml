@@ -92,6 +92,13 @@
   <string name="user_strayed_warning">Tato stránka je pouze pro testování, vraťte se zpět.</string>
   <string name="other_settings_enhanced_lockscreen">Denní tapeta</string>
   <string name="other_settings_enhanced_lockscreen_summary">Získejte nové tapety na zamknuté obrazovce</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">T&amp;C</string>  
   <string name="welcome">Vítejte</string>
+  <string name="ai_button_desc">Získejte rychlý přístup k hlasovému asistentovi</string>
+  <string name="ai_button_double_press">Dvojitý stisk</string>
+  <string name="ai_button_double_press_desc">Stiskněte 2x AI tlačítko pro provedení akce</string>
+  <string name="ai_button_long_press">Stisknutí a podržení</string>
+  <string name="ai_button_long_press_desc">Podržte AI tlačítko pro mluvení</string>
+  <string name="ai_button_single_press">Stisk</string>
+  <string name="ai_button_single_press_desc">Stiskněte AI tlačítko pro zobrazení AI zkratek</string>
+  <string name="ai_button_title">AI tlačítko</string>
 </resources>

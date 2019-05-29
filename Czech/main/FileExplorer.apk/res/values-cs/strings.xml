@@ -712,4 +712,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="not_support_documentui">DocumentUI.apk není nainstalováno na tomto zařízení</string>
   <string name="request_document_permission">Pro přístup k souborům na SD kartě je vyžadováno povolení.</string>
   <string name="request_document_permission_title">Jsou vyžadována púovolení</string>
+  <string name="ftp_anonymous_warning_msg">Anonymizace služby mohou představovat riziko pro vaše data. I tak použít??</string>
+  <string name="ftp_anonymous_warning_title">Upozornění</string>  
+  <string name="home_action_up">Zpět</string>
 </resources>

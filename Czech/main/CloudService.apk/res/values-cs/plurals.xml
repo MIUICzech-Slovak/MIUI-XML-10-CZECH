@@ -80,4 +80,8 @@
         <item quantity="other">"před %s h."</item>
         <item quantity="one">"před %s h."</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s služeb bude synchr. s MiCloud</item>
+        <item quantity="one">%s služba bude synchr. s MiCloud</item>
+    </plurals>
 </resources>

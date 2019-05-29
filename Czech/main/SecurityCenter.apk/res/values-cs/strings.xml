@@ -3157,4 +3157,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="pc_abnormal_scan_reason_scan_wifi">Často vyhledává Wi-Fi sítě</string>
   <string name="pc_abnormal_scan_reason_use_GPS">Používá polohu příliš často</string>
   <string name="pc_abnormal_scan_reason_wake_system">Často probouzí systém</string> 
+  <string name="app_manager_find_apps">Najít aplikace</string>
+    <string name="gb_shortcut_pref_title">Odkaz na ploše</string>
+	  <string name="securityadd_install_fail">Nelze aktualizovat doplněk. Zkuste to znovu.</string>
+  <string name="securityadd_update_tips_cancle">Později</string>
+  <string name="securityadd_update_tips_message">Aktualizujte doplněk pro získání nejnovějších funkcí. %1$ DMB bude stažených.</string>
+  <string name="securityadd_update_tips_now">Aktualizovat</string>
+  <string name="securityadd_update_tips_title">Aktualizace</string>
+   <string name="dialog_roaming_warning_checkbox">Znovu nezobrazovat</string>
+  <string name="dialog_roaming_warning_message">Oprátor může účtovat další poplatky po povolení mezinárodního data roamingu. I tak chcete povolit?</string>
+  <string name="dialog_roaming_warning_ok">Povolit</string>
 </resources>

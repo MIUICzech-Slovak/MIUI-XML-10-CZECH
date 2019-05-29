@@ -695,5 +695,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="enable_sync_setting_title">Nastavování cloudových služeb...</string>
   <string name="provision_sync_items_loading">Příprava na synchronizaci</string>
 	  <string name="user_detail_agreement">Podmínky užívání</string>
-  <string name="user_detail_privacy_policy">Ochrana soukromí</string> 
+  <string name="user_detail_privacy_policy">Ochrana soukromí</string>
+  <string name="enable_sync_setting_title">Nastavování cloudových služeb...</string>
+  <string name="provision_sync_items_loading">Příprava na synchronizaci</string> 
 </resources>

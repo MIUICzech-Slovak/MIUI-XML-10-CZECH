@@ -344,6 +344,7 @@
   <string name="edit_mode_top_menu_finish">Hotovo</string>
   <string name="menu_finish">Hotovo</string>
   <string name="widgets_preview_title">Přidat widget</string>
+  <string name="launcher_sliding_up_gesture">Potáhnutím nahoru otevřete vyhledávání</string>
   <string name="home_gesture_content_center">Centrum obsahu</string>
   <string name="home_gesture_global_search">Vyhledat</string>
   <string name="home_gesture_no_action">Žádné</string>
