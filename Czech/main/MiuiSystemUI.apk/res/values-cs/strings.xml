@@ -1999,7 +1999,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="gxzw_area">Skener otisku prstu</string>
   <string name="face_unlock_success">Tvář úspěšně ověřena</string> 
   <string name="gxzw_use_password_to_unlock">Zadejte heslo</string>
-  <string name="gxzw_area">Skenr otisku prstu</string>
   <string name="battery_low_button_not_open_power_save">Později</string>
   <string name="battery_low_button_open_power_save">Povolit</string>
   <string name="battery_low_percent_format_save_mode_closed">Zbývá méně než %d%% baterie. Připojte nabíječku.</string>
