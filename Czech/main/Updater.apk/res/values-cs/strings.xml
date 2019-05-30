@@ -59,4 +59,5 @@ Vaše data budou zachována."</string>
   <string name="wifi_recommended">Připojte se na Wi-fi síť pro stažení aktualizace!</string>
   <string name="channel_downloading">Průběh stahování</string>
   <string name="channel_update">Dostupná nová verze MIUI</string>
+  <string name="dialog_twrp">Vaše interní úložiště je zašifrované. Po restartu do TWRP, zadejte vaše heslo pro odemknutí zařízení pro dešifrování úložiště.</string>
 </resources>
