@@ -632,4 +632,8 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="dialog_backup_password_to_settings">Nastavení</string>
   <string name="gallery_summary">Nastavení Galerie (neobsahuje fotografie)</string>
   <string name="feature_title_mms_setting">MMS nastavení</string> 
+  <string name="dialog_backup_password_auto_backup_tips">Pokud je nastaveno heslo zálohy, není možné provést automatické zálohování.</string>
+  <string name="dialog_backup_password_change_device_restore_tips">Pokud je nastaveno heslo zálohy, nelze použít Přenos.</string>
+  <string name="dialog_backup_password_restore_tips">Pokud je nastaveno heslo zálohy, není možné obnovit zálohu.</string>
+  <string name="trans_complete_restoring">Úspěšně přeneseno. Obnovení dat...</string>
 </resources>

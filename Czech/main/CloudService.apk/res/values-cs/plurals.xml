@@ -84,4 +84,8 @@
         <item quantity="other">%s služeb bude synchr. s MiCloud</item>
         <item quantity="one">%s služba bude synchr. s MiCloud</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frází</item>
+        <item quantity="one">%d fráze</item>
+    </plurals>
 </resources>

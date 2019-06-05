@@ -5836,5 +5836,6 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="backup_set_new_exit">Ukončit</string>
   <string name="backup_set_new_pw_confirm_hint">Upozornění</string>
   <string name="backup_set_new_pw_confirm_summary">Vaše položky jsou automaticky zálohovány. Vytvoření hesla zálohy znemožní automatické zálohování. Pokračovat?</string> 
-  <string name="device_miui_version_parameters">MIUI verze</string> 
+  <string name="device_miui_version_parameters">MIUI verze</string>
+  <string name="quick_reply_title">Rychlé odpovědi</string> 
 </resources>

@@ -233,5 +233,11 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="restore_detail_title">Vyberte položky na obnovení</string>
   <string name="restore_network_pause">%s (Dotykem budete pokračovat)</string>
   <string name="restore_network_unconnect">%s (Čekání na připojení)</string>
-  <string name="title_restore_with_current_network">Stahování položek přes současné připojení</string>   
+  <string name="title_restore_with_current_network">Stahování položek přes současné připojení</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Není dostatek volného místa v MiCloud. Zakupte si více místa na úložišti nebo vymažte staré soubory..</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Není dostatek místa na úložišti.</string>
+  <string name="backup_failed_reason_network_error">Chyba sítě. Zkuste to znovu později.</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Není dostatek místa na úložišti.</string>
+  <string name="restore_failed_reason_network_error">Chyba sítě. Zkuste to znovu později.</string>
+  <string name="restore_task_unfinished">Nelze obnovit</string>   
 </resources>

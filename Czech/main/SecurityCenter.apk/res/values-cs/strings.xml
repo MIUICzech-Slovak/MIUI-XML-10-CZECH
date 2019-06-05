@@ -3169,4 +3169,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="dialog_roaming_warning_ok">Povolit</string>
   <string name="gb_add_game_hint">Přidejte položky ze seznamu aplikací</string>
   <string name="gb_global_settings">Obecné nastavení</string>
+   <string name="qucick_replay_instrument">Použít rychlé odpovědi v roletce pro vybrané aplikace.</string>
+  <string name="quick_replay_list_title">Dostupné aplikace</string>
+  <string name="quick_reply_title">Rychlé odpovědi</string>
 </resources>
