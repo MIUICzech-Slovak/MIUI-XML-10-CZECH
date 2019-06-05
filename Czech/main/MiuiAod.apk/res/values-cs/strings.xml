@@ -13,4 +13,13 @@
   <string name="cancel">Zrušit</string>
   <string name="paper_mode_end_time_title">Vypnout</string>
   <string name="paper_mode_start_time_title">Zapnout</string>
+  <string name="always_style">Vždy</string>
+  <string name="aod_mode_preview">Náhled</string>
+  <string name="aod_mode_style_title">Více nastavení</string>
+  <string name="aod_show_style_title">Zobrazit položky</string>
+  <string name="scheduled_style">Naplánované</string>
+  <string name="summary">"Pro šetření baterie, položky nebudou zobrazeny v případě:
+1. Pokud je zařízení ve tmě delší dobu.
+2. Pokud je aktivován režim Nerušit."</string>
+  <string name="temporary_style">10s po dotyku</string>
 </resources>
