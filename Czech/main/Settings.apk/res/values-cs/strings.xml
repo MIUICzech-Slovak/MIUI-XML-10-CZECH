@@ -5831,5 +5831,10 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="ai_settings_single_press_des">Stiskněte AI tlačítko pro mluvení Google asistentovi, pak pusťte pro odpověď.</string>
   <string name="passport_user_reg_region">Krajina/Region</string>
   <string name="passport_user_reg_region_warning">Po vytvoření účtu nebude možné změnit zemi.</string>
-  <string name="push_notify_dialog_title">Ověření účtu</string> 
+  <string name="push_notify_dialog_title">Ověření účtu</string>
+  <string name="backup_set_new_continue">Pokračovat</string>
+  <string name="backup_set_new_exit">Ukončit</string>
+  <string name="backup_set_new_pw_confirm_hint">Upozornění</string>
+  <string name="backup_set_new_pw_confirm_summary">Vaše položky jsou automaticky zálohovány. Vytvoření hesla zálohy znemožní automatické zálohování. Pokračovat?</string> 
+  <string name="device_miui_version_parameters">MIUI verze</string> 
 </resources>

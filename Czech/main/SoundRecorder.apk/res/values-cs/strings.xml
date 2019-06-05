@@ -156,4 +156,11 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="record_format_preference_title">Formát nahrávání</string>
   <string name="sound_source_summary_without_system_sounds">Použít mikrofon nebo ztišit zvuky</string>
+  <string name="call_record_list_group_all">Vše</string>
+  <string name="call_record_list_group_connected">Připojeno</string>
+  <string name="call_record_list_group_unconnected">Není připojeno</string>
+  <string name="preference_status_bar_indicator_prompt">Zobrazit zkratku v roletce během nahrávání</string>
+  <string name="shortcut_records">Nahrávky</string>
+  <string name="shortcut_start_record">Nahrávat</string>
+  <string name="shortcut_stop_record">Ukončit</string>
 </resources>

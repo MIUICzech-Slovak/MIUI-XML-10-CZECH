@@ -629,5 +629,7 @@ Uvolněte prostor nebo přeneste méně souborů."</string>
   <string name="dialog_backup_password_backup_tips">Nelze zálohovat pokud je zapnuto heslo zálohy.</string>
   <string name="dialog_backup_password_cancel">Zrušit</string>
   <string name="dialog_backup_password_change_machine_tips">Nebude možné přesunout zálohy chráněné heslem. Před použitím Přenosu deaktivujte heslo zálohy.</string>
-  <string name="dialog_backup_password_to_settings">Nastavení</string>  
+  <string name="dialog_backup_password_to_settings">Nastavení</string>
+  <string name="gallery_summary">Nastavení Galerie (neobsahuje fotografie)</string>
+  <string name="feature_title_mms_setting">MMS nastavení</string> 
 </resources>

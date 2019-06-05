@@ -244,4 +244,7 @@
   <string name="personal_recommend">Doporučený obsah</string>
   <string name="user_agreement">Podmínky užívání</string>
   <string name="update_notification_info">Aktualizace dat na pozadí...</string>
+   <string name="shortcut_new_alarm">Budík</string>
+  <string name="shortcut_start_timer">Odpočet</string>
+  <string name="shortcut_stop_watch">Stopky</string>  
 </resources>

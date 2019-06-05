@@ -456,5 +456,33 @@
      <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Koláž může obsahovat 1-%d fotografií</item>
         <item quantity="one">Koláž může obsahovat 1-%d fotografií</item>
-    </plurals>	 
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">Fotografií: %d</item>
+        <item quantity="one">Fotografií: %d</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Uložit %d vybraných fotografií a ostatní vymazat?</item>
+        <item quantity="one">Uložit %d vybranou fotografii a ostatní vymazat?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Uložit vybrané (%d) fotografie</item>
+        <item quantity="one">Uložit vybrané (%d) fotografie</item>
+    </plurals>
+	    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Vymazat dávkové snímání (%d) z MiCloud a zařízení?</item>
+        <item quantity="one">Vymazat dávkové snímání (%d) z MiCloud a zařízení?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Vymazat dávkové snímání (%d)?</item>
+        <item quantity="one">Vymazat dávkové snímání (%d)?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Vymazat dávkové snímání (%d) z MiCloud a tohoto zařízení?</item>
+        <item quantity="one">Vymazat dávkové snímání (%d) z MiCloud a tohoto zařízení?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Vymazat dávkové snímání (%d) z tohoto zařízení?</item>
+        <item quantity="one">Vymazat dávkové snímání (%d) z tohoto zařízení?</item>
+    </plurals>		 
 </resources>

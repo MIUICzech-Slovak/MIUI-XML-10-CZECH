@@ -1628,5 +1628,27 @@
   <string name="trash_bin_key_word">Vymazané fotografie</string> 
   <string name="clear_dup_medias">Vyčistit duplicitní fotografie</string>
   <string name="clear_dup_success">Vyčištěno</string>
-  <string name="clear_dup_tip">Čištění duplicitních fotografií</string>  
+  <string name="clear_dup_tip">Čištění duplicitních fotografií</string>
+  <string name="burst_image_download_item_title" formatted="false">Download original (%s|%s)</string>
+  <string name="burst_preview_title">Burst shot</string>
+  <string name="burst_save_all">Save all</string>
+  <string name="burst_save_choice_title" formatted="false">Selected %d out of %d</string>
+  <string name="burst_save_confirm_dialog_title">Saving photos</string>
+  <string name="burst_save_error_msg">"Couldn't save"</string>
+  <string name="burst_save_processing">Processing…</string>
+  <string name="burst_transition_image_view">photo_view_burst</string>
+  <string name="decrypt_video_failed">"Couldn't prepare video"</string>
+  <string name="decrypting_video">Preparing video…</string>
+  <string name="editor_cancel">Cancel</string>
+  <string name="editor_export">Save</string>
+  <string name="editor_talkback_redo">Redo</string>
+  <string name="editor_talkback_undo">Undo</string>
+  <string name="photo_editor_remove_watermark_on">Add watermark</string>
+  <string name="photo_editor_talkback_crop_2_3">Two to three</string>
+  <string name="special_type_eye_repair">Fixed closed eyes using AI</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">AI Low Light Beautify</string>
+  <string name="special_type_night_mode">AI night mode</string>
+  <string name="special_type_portrait">AI light painting portrait</string>
+  <string name="special_type_wide_angle">AI ultra wide angle</string> 
 </resources>

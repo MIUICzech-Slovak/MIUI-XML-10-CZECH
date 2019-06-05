@@ -3167,4 +3167,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="dialog_roaming_warning_checkbox">Znovu nezobrazovat</string>
   <string name="dialog_roaming_warning_message">Oprátor může účtovat další poplatky po povolení mezinárodního data roamingu. I tak chcete povolit?</string>
   <string name="dialog_roaming_warning_ok">Povolit</string>
+  <string name="gb_add_game_hint">Přidejte položky ze seznamu aplikací</string>
+  <string name="gb_global_settings">Obecné nastavení</string>
 </resources>
