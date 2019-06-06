@@ -1629,14 +1629,14 @@
   <string name="clear_dup_medias">Vyčistit duplicitní fotografie</string>
   <string name="clear_dup_success">Vyčištěno</string>
   <string name="clear_dup_tip">Čištění duplicitních fotografií</string>
-    <string name="burst_image_download_item_title" formatted="false">Stáhnout originál (%s|%s)</string>
+  <string name="burst_image_download_item_title" formatted="false">Stáhnout originál (%s|%s)</string>
   <string name="burst_preview_title">Dávkové snímání</string>
   <string name="burst_save_all">Uložit vše</string>
   <string name="burst_save_choice_title" formatted="false">Vybrané %d z %d</string>
   <string name="burst_save_confirm_dialog_title">Ukládání fotografií</string>
   <string name="burst_save_error_msg">Nelze uložit</string>
   <string name="burst_save_processing">Zpracovávání...</string>
-  <string name="decrypt_video_failed">Nebylo možné připravit video/string>
+  <string name="decrypt_video_failed">Nebylo možné připravit video</string>
   <string name="decrypting_video">Příprava ...</string>
   <string name="editor_cancel">Zrušit</string>
   <string name="editor_export">Uložit</string>

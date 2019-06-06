@@ -164,7 +164,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="restore_home_screen_apps">Obnovit ze zálohy v MiCloud</string>
   <string name="restore_task_cancelling">Rušení...</string>
   <string name="restore_task_in_process">Obnovení...</string>
-  <string name="restore_task_unfinished">Obnovení aplikací, zkuste to později.</string>
+  <string name="restore_task_unfinished">Nelze obnovit</string>
   <string name="restore_unfinished">Obnovení, zkuste to později</string>
   <string name="restoreing_file_tile">Obnovování %d souborů</string>
   <string name="restoring_file_tile">Obnovení %d souborů</string>
@@ -239,5 +239,4 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="backup_failed_reason_network_error">Chyba sítě. Zkuste to znovu později.</string>
   <string name="restore_failed_reason_disk_space_not_enough">Není dostatek místa na úložišti.</string>
   <string name="restore_failed_reason_network_error">Chyba sítě. Zkuste to znovu později.</string>
-  <string name="restore_task_unfinished">Nelze obnovit</string>   
 </resources>
