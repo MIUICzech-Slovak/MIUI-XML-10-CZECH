@@ -5838,4 +5838,11 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="backup_set_new_pw_confirm_summary">Vaše položky jsou automaticky zálohovány. Vytvoření hesla zálohy znemožní automatické zálohování. Pokračovat?</string> 
   <string name="device_miui_version_parameters">MIUI verze</string>
   <string name="quick_reply_title">Rychlé odpovědi</string> 
+  <string name="close_privacy_thumbnail_blur_title">Náhledy nejsou rozmazané</string>
+  <string name="confirm_fingerprint">Ověřte otisk prstu</string>
+  <string name="confirm_password_with_fingerprint">Použít otisk prstu</string>
+  <string name="confirm_password_with_password">Zadejte heslo</string>
+  <string name="open_privacy_thumbnail_blur_title">Náhledy jsou rozmazané</string>
+  <string name="privacy_thumbnail_blur_progress_message">Načítání...</string>
+  <string name="privacy_thumbnail_blur_title">Rozmazat náhledy aplikací</string>
 </resources>

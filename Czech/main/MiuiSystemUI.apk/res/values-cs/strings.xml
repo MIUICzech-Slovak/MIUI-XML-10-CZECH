@@ -2027,4 +2027,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="keyguard_charging_super_quick_and_level_tip">Rychlé nabíjení %d%%</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Více</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Vstoupit</string>  
+  <string name="lock_screen_magazine_label">Otevřít Denní tapetu</string>
+  <string name="long_screenshot_guide_text">"Dotkněte se
+pro dlouhý screenshot"</string>
 </resources>

@@ -696,4 +696,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="provision_sync_items_loading">Příprava na synchronizaci</string>
   <string name="user_detail_agreement">Podmínky užívání</string>
   <string name="user_detail_privacy_policy">Ochrana soukromí</string>
+  <string name="micloud_request_sync_too_frequent">Příliš mnoho požadavků. Zkuste to později.</string>
+  <string name="system_busy_or_network_error">Nastala chyba. Zkuste to později.</string>
+  <string name="waiting_for_sync">Čekání...</string>
 </resources>

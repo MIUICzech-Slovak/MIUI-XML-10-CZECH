@@ -3172,4 +3172,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="qucick_replay_instrument">Použít rychlé odpovědi v roletce pro vybrané aplikace.</string>
   <string name="quick_replay_list_title">Dostupné aplikace</string>
   <string name="quick_reply_title">Rychlé odpovědi</string>
+  <string name="app_manager_thumbnail_blur_summary">Rozmazat náhledy v nedávných aplikacích</string>
+  <string name="app_manager_thumbnail_blur_title">Rozmazat náhledy</string>
 </resources>
