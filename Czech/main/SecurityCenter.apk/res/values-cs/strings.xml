@@ -3198,5 +3198,21 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="quick_optimize_sub_battery_text">Zbývá %s</string>
   <string name="quick_optimize_sub_summary_with_battery_text">Přidáno %1$s, zbývá %2$s</string>
   <string name="user_guide">Zatáhněte nahoru pro více her</string>
-  <string name="user_guide_title">Joystick Picks</string>  
+  <string name="user_guide_title">Joystick Picks</string> 
+  
+  <string name="button_dark_mode">Opravit</string>
+  <string name="pc_main_battery_text_day">Přidáno %1$smin, zbývá %2$sd</string>
+  <string name="pc_main_battery_text_day_hour">Přidáno %1$smin, zbývá %2$sd %3$sh</string>
+  <string name="pc_main_battery_text_hour">Přidáno %1$smin, zbývá %2$sh</string>
+  <string name="pc_main_battery_text_hour_minute">Přidáno %1$smin, zbývá %2$sh %3$smin</string>
+  <string name="pc_main_battery_text_minute">Přidáno %1$smin, zbývá %2$smin</string>
+  <string name="pc_main_power_manager_day_hour">%1$sd %2$sh do plného nabití</string>
+  <string name="pc_main_power_manager_hour_minute">%1$sh %2$smin do plného nabití</string>
+  <string name="pc_main_sub_battery_text_day_hour">Zbývá %1$sd %2$sh</string>
+  <string name="pc_main_sub_battery_text_hour_minute">Zbývá %1$sh %2$smin</string>
+  <string name="power_main_battery_last_day_hour">Zbývá %1$sd %2$sh</string>
+  <string name="power_main_battery_last_hour_minute">Zbývá %1$sh %2$smin</string>
+  <string name="summary_dark_mode">Některé stránky jsou zobrazeny s tmavým pozadím</string>
+  <string name="title_dark_mode">Některé položky nejsou zobrazeny správně"</string>
+  <string name="toast_dark_mode_fixed">Opraveno</string> 
 </resources>

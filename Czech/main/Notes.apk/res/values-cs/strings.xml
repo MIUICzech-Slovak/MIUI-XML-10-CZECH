@@ -141,7 +141,7 @@
   <string name="permdesc_accessNote">Škodlivé aplikace to mohou použít pro přístup k vašim osobním údajům.</string>
   <string name="permlab_accessNote">Přístup k poznámkám</string>
   <string name="pref_desc_alarm_when_silent">Budík a upozornění budou zvonit i v tichém režimu</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">Nezobrazovat potvrzení o vymazání při použití gesta</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Zatáhněte nahoru dvěma prsty pro vymazání poznámky</string>
   <string name="pref_title_alarm_when_silent">Budík v tichém režimu</string>
   <string name="pref_title_cloud_trash_bin">Vymazat poznámky z MiCloud</string>
   <string name="pref_title_common">Časté nastavení</string>
@@ -149,7 +149,8 @@
   <string name="pref_title_note_style">Typ poznámky</string>
   <string name="pref_title_recover_help">Obnovit poznámky</string>
   <string name="pref_title_show_root_folder_in_homepage">Zobrazit pouze rychlé poznámky na první straně</string>
-  <string name="pref_title_skip_confirm_for_quick_delete">Rychlé vymazání</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">vymazat gestem</string>
+   <string name="toast_pic_is_not_really">Ukládání obrázku...</string>
   <string name="privacy_hint">Soukromé</string>
   <string name="privacy_notes_fragment_title">Skryté poznámky</string>
   <string name="recover_notes_hint">Byly zjištěny chyby poznámek, zkuste je obnovit na i.mi.com</string>

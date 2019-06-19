@@ -501,5 +501,41 @@
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%smin</item>
         <item quantity="one">%smin</item>
-    </plurals>			
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">Zbývá %s dní</item>
+        <item quantity="one">Zbývá %s den</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Zbývá %sh</item>
+        <item quantity="one">Zbývá %sh</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Zbývá %smin</item>
+        <item quantity="one">Zbývá %smin</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Zbývá %s dní</item>
+        <item quantity="one">Zbývá %s dní</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">Zbývá %sh</item>
+        <item quantity="one">Zbývá %sh</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">Zbývá %smin</item>
+        <item quantity="one">Zbývá %smin</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Do plného nabití zbývá %s dní</item>
+        <item quantity="one">Do plného nabití zbývá %s deň</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Do plného nabití zbývá %sh</item>
+        <item quantity="one">Do plného nabití zbývá %sh</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Do plného nabití zbývá %smin</item>
+        <item quantity="one">Do plného nabití zbývá %smin</item>
+    </plurals>				
 </resources>

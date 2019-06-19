@@ -753,4 +753,11 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
   <string name="beauty_clear_toast">Efekty zkrášlení jsou odstraněny</string>
   <string name="edit_hairline">Účes</string> 
   <string name="ultra_wide_recommend_tip_hint_sat">Vyzkoušejte 0.6X Ultra široký úhel záběru</string>
+  <string name="accessibility_ultra_pixel_photography_64mp_off">64MP </string>
+  <string name="accessibility_ultra_pixel_photography_64mp_on">64MP</string>
+  <string name="calibration_guide_tittle">Neskalibrovaný tofoaparát</string>
+  <string name="calibration_hint_usage">Nekalibrovaný fotoaparát bude mít vliv na kvalitu obrazu.</string>
+  <string name="pref_menu_ultra_pixel_photography_64mp">64MP</string>
+  <string name="ultra_pixel_photography_64mp_close_tip">64MP</string>
+  <string name="ultra_pixel_photography_64mp_open_tip">64MP</string>
 </resources>

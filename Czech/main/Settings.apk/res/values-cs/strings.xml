@@ -5858,4 +5858,33 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="recent_apps_label">Nedávné</string>
   <string name="screenshot_label">Screenshot</string>
   <string name="volume_label">Hlasitost</string>
+  
+  <string name="dark_color_summary_lcd">Použít tmavé pozadí pro systém a všechny podporované aplikace.</string>
+  <string name="dark_color_summary_oled">Použít tmavé pozadí pro systém a všechny podporované aplikace.</string>
+  <string name="popup_led_summary">Zobrazit animaci během vysouvání přední kamery</string>
+  <string name="popup_led_title">Vizuální efekty</string>
+  <string name="popup_title">Efekty přední kamery</string>
+  <string name="popup_title_cangmen">Dveře</string>
+  <string name="popup_title_chilun">Převod</string>
+  <string name="popup_title_jijia">Mechanika</string>
+  <string name="popup_title_mofa">Magie</string>
+  <string name="popup_title_muqin">Xylofon</string>
+  <string name="popup_title_yingyan">Condor</string>
+  <string name="popup_voice_summary">Přehrát zvuk během vysouvání přední kamery</string>
+  <string name="popup_voice_title">Zvukové efekty</string>  
+  <string name="usage_app_get_it">Rozumím</string>
+  <string name="usage_app_limit_alter_summary">Zadaný limit je kratší než dnešní používání této aplikace. I tak chcete nastavit tento limit?</string>
+  <string name="usage_app_limit_alter_title">Zkontrolovat limit zobrazení</string>
+  <string name="usage_app_limit_prelong">Prodloužit čas</string>
+  <string name="usage_app_limit_reach_summay">Zbývá %s</string>
+  <string name="usage_app_limit_reach_title">%s dosahuje svůj limit na zobrazení</string>
+  <string name="usage_app_limit_summary">Vybrané aplikace nebudou dostupné po překročení limitu</string>
+  <string name="usage_app_limit_title">Limit zobrazení</string>
+  <string name="usage_app_other_settings">Další nastavení</string>
+  <string name="usage_app_over_content">Už jste dnes používali tuto aplikaci %s.</string>
+  <string name="usage_app_over_summary">Dosáhli jste svého limitu. čas vypršel!</string>
+  <string name="usage_app_set_limit_time">Nastavit limit</string>
+  <string name="usage_app_system_app_summary">Není možné omezit zobrazení pro systémové aplikace</string>
+  <string name="usage_app_weekday_limit">Pracovní dny</string>
+  <string name="usage_app_weekend_limit">Víkendy</string>  
 </resources>
