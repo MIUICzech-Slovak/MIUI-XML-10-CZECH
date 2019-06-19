@@ -9,20 +9,20 @@
         <item quantity="one">Delete %s item from payment?</item>
     </plurals>
     <plurals name="time_minute_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
+        <item quantity="other">Před %dmin</item>
+        <item quantity="one">Před %dmin</item>
     </plurals>
     <plurals name="time_hour_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
+        <item quantity="other">Před %dh</item>
+        <item quantity="one">Před %dh</item>
     </plurals>
     <plurals name="main_delete_desc">
-        <item quantity="other">Remove %s items from favorites?</item>
-        <item quantity="one">Remove %s item from favorites?</item>
+        <item quantity="other">Odstranit %s položek?</item>
+        <item quantity="one">Odstranit %s položku?</item>
     </plurals>
     <plurals name="main_mark_select_num">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">Vybráno %s</item>
+        <item quantity="one">Vybráno %s</item>
     </plurals>
     <plurals name="main_mark_fav_num">
         <item quantity="other">Marked %s items as important</item>
@@ -45,12 +45,21 @@
         <item quantity="one">%d hour</item>
     </plurals>
     <plurals name="sms_title_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
+        <item quantity="other">Označených %d</item>
+        <item quantity="one">Označených %d</item>
     </plurals>
     <plurals name="steps">
         <item quantity="other">%d|kroků</item>
         <item quantity="zero">%d|kroků</item>
         <item quantity="one">%d|krok</item>
     </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Před %1$dmin</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Před %1$dh</item>
+    </plurals>	
+    <plurals name="days_ago">
+        <item quantity="other">Před %1$dd</item>
+    </plurals>	
 </resources>

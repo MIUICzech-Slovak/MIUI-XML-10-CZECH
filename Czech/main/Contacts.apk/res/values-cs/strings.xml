@@ -9,6 +9,7 @@
   <string name="account_sim2">SIM karta %d</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="actionIncomingCall">Příchozí hovory</string>
+  <string name="contact_is_deleted">Kontakt byl vymazán</string>
   <string name="action_menu_overflow_description">Více možností</string>
   <string name="activity_title_confirm_add_detail">Přidat do kontaktů</string>
   <string name="activity_title_contacts_filter">Kontakty pro zobrazení</string>

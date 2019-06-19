@@ -5886,5 +5886,7 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="usage_app_set_limit_time">Nastavit limit</string>
   <string name="usage_app_system_app_summary">Není možné omezit zobrazení pro systémové aplikace</string>
   <string name="usage_app_weekday_limit">Pracovní dny</string>
-  <string name="usage_app_weekend_limit">Víkendy</string>  
+  <string name="usage_app_weekend_limit">Víkendy</string>
+  <string name="popup_gesture_summary">Zvedněte telefon a podívejte se na obrazovku pro otevření přední kamery automaticky</string>
+  <string name="popup_gesture_title">Zvednutím otevřít přední kameru</string>    
 </resources>
