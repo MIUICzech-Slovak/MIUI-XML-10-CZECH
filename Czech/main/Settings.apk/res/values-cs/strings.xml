@@ -5845,4 +5845,17 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="open_privacy_thumbnail_blur_title">Náhledy jsou rozmazané</string>
   <string name="privacy_thumbnail_blur_progress_message">Načítání...</string>
   <string name="privacy_thumbnail_blur_title">Rozmazat náhledy aplikací</string>
+  <string name="a11y_settings_label">Nastavení usnadnění přístupu</string>
+  <string name="accessibility_menu_description">"Nabídka dostupnosti spustí na obrazovce telefonu velkou nabídku, pomocí které bude telefon možné ovládat. Můžete ovládat gesta, hardwarová tlačítka, navigaci a další.
+
+Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tlačítko Dostupnost v dolní části obrazovky."</string>
+  <string name="accessibility_menu_service_name">Nabídka dostupnosti</string>
+  <string name="accessibility_menu_summary">Ovládání telefonu prostřednictvím velké nabídky</string>
+  <string name="google_assistant_label">Google Asistent</string>
+  <string name="lockscreen_label">Zámek obrazovky</string>
+  <string name="power_label">Napájení</string>
+  <string name="quick_settings_label">Přepínače</string>
+  <string name="recent_apps_label">Nedávné</string>
+  <string name="screenshot_label">Screenshot</string>
+  <string name="volume_label">Hlasitost</string>
 </resources>

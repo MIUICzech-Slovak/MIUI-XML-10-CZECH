@@ -3174,4 +3174,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="quick_reply_title">Rychlé odpovědi</string>
   <string name="app_manager_thumbnail_blur_summary">Rozmazat náhledy v nedávných aplikacích</string>
   <string name="app_manager_thumbnail_blur_title">Rozmazat náhledy</string>
+  <string name="gamebox_display_1">Žádné</string>
+  <string name="gamebox_display_2">Saturované</string>
+  <string name="gamebox_display_3">Jasné</string>
+  <string name="gamebox_display_4">Jasné a saturované</string>
+  <string name="gamebox_display_set">"Vylepšení zobrazení: "</string>
 </resources>
