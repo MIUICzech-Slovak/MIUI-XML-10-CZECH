@@ -1300,4 +1300,6 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="jump_to_mobile_network_setting">Nastavení mobilní sítě</string>
   <string name="select_dds_dialog_title">Vyberte výchozí SIM pro data</string>
   <string name="fiveg_switch_title">5G síť</string>
+  <string name="network_mode_updating_title">Typ sítě</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Přeferovat 5G</string>
 </resources>

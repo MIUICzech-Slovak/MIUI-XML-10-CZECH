@@ -489,5 +489,17 @@
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d apl. vybíjejí baterii</item>
         <item quantity="one">%d apl. vybíjí baterii</item>
+    </plurals>	
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s dní</item>
+        <item quantity="one">%s den</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%smin</item>
+        <item quantity="one">%smin</item>
     </plurals>			
 </resources>
