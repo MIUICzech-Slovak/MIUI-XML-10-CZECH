@@ -197,4 +197,8 @@
   <string name="popup_camera_continue_popup">Otevřít Fotoaparát</string>
   <string name="popup_camera_hid_device_name">Black shark</string>
   <string name="popup_camera_remove_hid_device">Zdá se, že vaše zařízení je připojeno k hernímu ovladači. Nelze vysunout fotoaparát.</string>
+  <string name="autofill_save_message">Chcete povolit MIUI ukládat vaše hesla?</string>
+  <string name="autofill_save_ok">Povolit</string>
+  <string name="autofill_save_sub_message">Budete moci spravovat uložená hesla v Nastavení - Další nastavení - Soukromí - Správa hesla.</string>
+  <string name="autofill_save_title">Ukládat hesla automaticky</string>
 </resources>
