@@ -3217,4 +3217,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="toast_dark_mode_fixed">Opraveno</string> 
   <string name="delete_all_sms">Vymazat vše</string>
   <string name="sms_delete_all_hint">Vymazat všechny zprávy?</string>
+  <string name="gb_first_guide_function_shiled_title">Deaktivovat funkce systému pokud je povolen Game Turbo</string>
+  <string name="gb_first_guide_gamebox_des">Použít zkratky během hraní her</string>
+  <string name="gb_first_guide_handsfree_des">Přijmout hovory na pozadí</string>
+  <string name="gb_first_guide_shortcut_des">Odkaz na ploše pro Game Turbo byl vytvořen</string>
+  <string name="gb_first_guide_title">Zvýšit rychlost a výkon na systémové úrovni</string>
 </resources>

@@ -193,4 +193,8 @@
   <string name="stop_operate_camera_frequently">Přepínáte mezi kamera příliš rychle.</string>
   <string name="takeback_camera_front_failed">Nebylo možné zavřít přední kameru.</string>
   <string name="voice_assistant_tips">Aktualizovány na dlouhé podržení zapínání pro spuštění pomocníka</string>
+  <string name="popup_camera_cancel_popup">Zrušit</string>
+  <string name="popup_camera_continue_popup">Otevřít Fotoaparát</string>
+  <string name="popup_camera_hid_device_name">Black shark</string>
+  <string name="popup_camera_remove_hid_device">Zdá se, že vaše zařízení je připojeno k hernímu ovladači. Nelze vysunout fotoaparát.</string>
 </resources>

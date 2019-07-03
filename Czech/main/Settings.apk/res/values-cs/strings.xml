@@ -7,6 +7,7 @@
  Pokud vyberete nepoužívat přizpůsobené reklamy, jejich počet se nesníží, ale nebudou cílené přímo pro vás."</string>
   <string name="about_phone_enter_xiaomi_net">Learn more</string>
   <string name="about_settings">Informace o zařízení</string>
+  <string name="disallow_lock_screen_summary">Povolte upozornění v \"Upozornění aplikace\"</string>
   <string name="about_settings_summary">Zobrazí právní informace, stav a verzi softwaru</string>
   <string name="miui_master_clear_summary">Vymažou se všechna data v zařízení</string>
   <string name="ac_enable_summary">Pro otevření aplikací bude vyžadováno heslo</string>
