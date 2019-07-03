@@ -2965,7 +2965,7 @@ Zvolte Váš operační systém:"</string>
   <string name="phone_language">Jazyk</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fyzická klávesnice</string>
-  <string name="pick_up_gesture_wakeup_title">Gesto na probuzení</string>
+  <string name="pick_up_gesture_wakeup_title">Zvednutím rozsvítit displej</string>
   <string name="pico_installed">Nainstalováno</string>
   <string name="pico_languages_and_voices">Jazyky a hlasy</string>
   <string name="pico_not_installed">Není nainstalováno</string>
@@ -5888,5 +5888,26 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="usage_app_weekday_limit">Pracovní dny</string>
   <string name="usage_app_weekend_limit">Víkendy</string>
   <string name="popup_gesture_summary">Zvedněte telefon a podívejte se na obrazovku pro otevření přední kamery automaticky</string>
-  <string name="popup_gesture_title">Zvednutím otevřít přední kameru</string>    
+  <string name="popup_gesture_title">Zvednutím otevřít přední kameru</string> 
+  <string name="bluetooth_disable_inband_ringing">Deaktivovat in-band zvonění</string>
+  <string name="bluetooth_disable_inband_ringing_summary">Nepřehrávat vlastní vyzvánění přes Bluetooth</string>
+  <string name="customize_function">Dostupná gesta</string>
+  <string name="gesture_m">Gesto M</string>
+  <string name="gesture_open_alipay">Otevřít Alipay</string>
+  <string name="gesture_open_camera">Otevřít Fotoaparát</string>
+  <string name="gesture_open_music">Otevřít Hudbu</string>
+  <string name="gesture_open_wechat">Otevřít WeChat</string>
+  <string name="gesture_w">Gesto W</string>
+  <string name="gesture_z">Gesto Z</string>
+  <string name="miui_lab_3d_gesture_desc">Otevřete hlavní plochu a telefonem proveďte gesto ve tvaru písmene pro otevření vybrané aplikace</string>
+  <string name="miui_lab_3d_gesture_slogan">Udělejte gesto s telefonem pro otevření aplikace</string>
+  <string name="miui_lab_3d_gesture_summary">Udělejte gesto s telefonem pro otevření aplikace</string>
+  <string name="miui_lab_3d_gesture_title">3D gesta</string>
+  <string name="miui_lab_home_feed_desc">Příběhy</string>
+  <string name="miui_lab_home_feed_title">Mediální Centrum</string>
+  <string name="support_gesture_title">3D vzory</string>
+  <string name="dangerous_option">Nebezpečné vývojářské nastavení</string>
+  <string name="dangerous_option_hint">\"%1$s\" je povolené. Dotykem změníte nastavení.</string>
+  <string name="dangerous_option_hint_title">Nebezpečná funkce povolena</string>
+  <string name="dangerous_option_switch_title">Upozornit na nebezpečné funkce</string>    
 </resources>

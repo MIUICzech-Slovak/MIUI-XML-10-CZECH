@@ -135,7 +135,7 @@
   <string name="setting_alarm_arriving_title">Upozornění před buzením</string>
   <string name="settings">Nastavení</string>
   <string name="shutdown_alarm_disable_summary">Budík nebude zvonit při vypnutém zařízení</string>
-  <string name="shutdown_alarm_enable_summary">Budík bude zvonit při vypnutém zařízení</string>
+  <string name="shutdown_alarm_enable_summary">Budík bude zvonit při vypnutém zařízení alespoň 10 min před zvoněním</string>
   <string name="shutdown_alarm_title">Zapnout zařízení před buzením</string>
   <string name="silent_alarm_summary">Tichý</string>
   <string name="skip_alarm_once_hint">Vypnout jen %s</string>
@@ -246,5 +246,9 @@
   <string name="update_notification_info">Aktualizace dat na pozadí...</string>
    <string name="shortcut_new_alarm">Budík</string>
   <string name="shortcut_start_timer">Odpočet</string>
-  <string name="shortcut_stop_watch">Stopky</string>  
+  <string name="shortcut_stop_watch">Stopky</string>
+  <string name="edit_systemtime_setting_summary">Datum, čas, a Duální hodiny</string>
+  <string name="worldclock_resident_city_text">Druhé hodiny: %s</string>
+  <string name="worldclock_resident_city_text_detail">Duální hodiny jsou povoleny</string>
+  <string name="worldcolock_date_display_prefix">"Aktuální: "</string>  
 </resources>

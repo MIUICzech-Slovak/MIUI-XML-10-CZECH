@@ -163,4 +163,10 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="shortcut_records">Nahrávky</string>
   <string name="shortcut_start_record">Nahrávat</string>
   <string name="shortcut_stop_record">Ukončit</string>
+  <string name="text_btn_backward_3_seconds">3s zpět</string>
+  <string name="text_btn_forward_3_seconds">3s zpět</string>
+  <string name="text_play_speed_0_5">0.5X rychlost přehrávání</string>
+  <string name="text_play_speed_1_0">Normální rychlost přehrávání</string>
+  <string name="text_play_speed_1_5">1.5X rychlost přehrávání</string>
+  <string name="text_play_speed_2_0">2X rychlost přehrávání</string>  
 </resources>

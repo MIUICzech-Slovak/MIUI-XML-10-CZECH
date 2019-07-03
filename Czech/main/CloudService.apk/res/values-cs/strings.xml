@@ -699,4 +699,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="micloud_request_sync_too_frequent">Příliš mnoho požadavků. Zkuste to později.</string>
   <string name="system_busy_or_network_error">Nastala chyba. Zkuste to později.</string>
   <string name="waiting_for_sync">Čekání...</string>
+  <string name="micloud_last_sync_canceled">Synchr. byla zrušena. Zkuste to znovu.</string>
 </resources>

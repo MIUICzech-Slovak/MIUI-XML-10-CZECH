@@ -191,8 +191,8 @@ Můžete je i znovu stáhnout."</string>
   <string name="radio_button_icon_switch_title">Použít zkratky</string>
   <string name="radio_button_password_switch_title">Použít heslo</string>
   <string name="removeSuccess">Vymazáno</string>
-  <string name="remove_button">Vymazat a restartovat</string>
-  <string name="remove_button_time">Vymazat a restartovat (%ds)</string>
+  <string name="remove_button">Vymazat</string>
+  <string name="remove_button_time">Vymazat (%ds)</string>
   <string name="remove_second_space_msg">Všechna data profilu budou vymazána bez možnosti jejich obnovení. Chcete pokračovat?</string>
   <string name="remove_user_click_message">"*Pokud nemáte nic důležitého ve Druhém profilu, %s"</string>
   <string name="remove_user_click_message_action">můžete vymazat Druhý profil a restartovat zařízení.</string>
@@ -386,4 +386,12 @@ Můžete je i znovu stáhnout."</string>
   <string name="dual_animation_description">Zobrazit animaci při otevírání klonované aplikace</string>  
   <string name="close_kid_space_success">Vymazán Dětský profil</string>
   <string name="kid_mode_label">Dětský profil</string>
+  <string name="facebook_login">Přihlásit přes Facebook</string>
+  <string name="facebook_send">Sdílet na Facebook</string>
+  <string name="instagram_send">Sdílet na Instagram</string>
+  <string name="use_google_open">Probudit použitím Google Asistenta</string>
+  <string name="whatsapp_send">Sdílet na WhatsApp</string>
+  <string name="xspace_facebook_title">Facebook</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

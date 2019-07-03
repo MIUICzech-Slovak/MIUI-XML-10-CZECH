@@ -520,4 +520,5 @@ Zkontrolujte také složku SPAM."</string>
   <string name="same_new_and_old_pwd">Nemůže být stejné jako současné heslo</string>
   <string name="sim_card">SIM karta</string>
   <string name="used_cloud_storage_info">Vnitřní úložiště %s</string>
+  <string name="bind_google">Připojte svůj Google účet</string>
 </resources>
