@@ -5939,4 +5939,8 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="unlock_mode_title">Zámek obrazovky</string>
   <string name="volume_launch_camera_summary">Dvojitým stisknutím tlačítka hlasitosti spustit Fotoaparát pokud je uzamčena obrazovka</string>
   <string name="wakeup_and_sleep_settings_category_name">Nastavení zámku obrazovky</string>  
+  <string name="manage_password">Spravovat hesla</string>
+  <string name="manage_password_summary">Uložená hesla pro automatické doplňování</string>
+  <string name="quick_settings_under_keyguard_summary">Povolit přístup k roletce na zamčené obrazovce</string>
+  <string name="quick_settings_under_keyguard_title">Přístup k přepínačům</string>
 </resources>
