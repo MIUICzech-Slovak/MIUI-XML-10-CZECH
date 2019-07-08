@@ -1765,7 +1765,6 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Vaše soukromé fotografie budou uloženy tu.</string>
   <string name="game_controller_settings_category">Herní ovladače</string>
-  <string name="gesture_wakeup_title">Probudit dvojitým poklepáním</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="gigabyteShort">GB</string>
