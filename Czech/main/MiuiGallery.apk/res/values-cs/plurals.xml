@@ -484,5 +484,9 @@
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Vymazat dávkové snímání (%d) z tohoto zařízení?</item>
         <item quantity="one">Vymazat dávkové snímání (%d) z tohoto zařízení?</item>
+    </plurals>
+     <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
     </plurals>		 
 </resources>

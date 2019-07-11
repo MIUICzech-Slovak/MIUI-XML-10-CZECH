@@ -21,6 +21,7 @@
   <string name="auth_fail">Nebylo možné autorizovat</string>
   <string name="bind_xunlei_account">Připojit xunlei účet &gt;</string>
   <string name="bt_download">Stáhnout</string>
+    <string name="path_no_available">Tato cesta není dostupná</string>
   <string name="bt_xunlei_open_info">Opravdu chcete stáhnout tento soubor? Doporučujeme stahovat přes vestavěný webový prohlížeč.</string>
   <string name="button_sort_by_date">Seřadit podle data</string>
   <string name="button_sort_by_size">Seřadit podle velikosti</string>

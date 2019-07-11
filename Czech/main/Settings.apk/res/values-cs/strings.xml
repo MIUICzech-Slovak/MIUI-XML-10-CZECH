@@ -5664,12 +5664,12 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="none">Žádné</string>
   <string name="notifi_channels">kategorie upozornění</string>
   <string name="notifi_channels_other">Ostatní</string>
-  <string name="notifi_importance_default">Přehrát zvuk a zobrazit na zamykací obrazovce.</string>
-  <string name="notifi_importance_high">Přehrát zvuk a zobrazit na zamykací obrazovce, povolit na celé obrazovce.</string>
+  <string name="notifi_importance_default">Přehrát zvuk</string>
+  <string name="notifi_importance_high">Přehrát zvuk a zobrazit</string>
   <string name="notifi_importance_low">Nepřehrávat zvuk.</string>
-  <string name="notifi_importance_min">Nezobrazovat na zamčené obrazovce a nepřehrávat zvuk</string>
-  <string name="notifi_importance_none">Vypnuto</string>
-  <string name="notifi_importance_unspecified">Ponechat na aplikací</string>
+  <string name="notifi_importance_min">Nezobrazovat a minimalizovat</string>
+  <string name="notifi_importance_none">Žádné upozornění</string>
+  <string name="notifi_importance_unspecified">Přehrát zvuk</string>
   <string name="notifi_no_channels">Tato aplikace nemá žádné upozornění</string>
   <string name="notification_fold_description1">Tato funkce filtruje nedůležité upozornění a zobrazuje je v samostatné složce.</string>
   <string name="notification_fold_description2">MIUI si bude pamatovat které upozornění jste otevřeli a podle toho určí zda jsou pro vás důležité.</string>
@@ -5950,4 +5950,11 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="notch_style_status_bar_inside">Skrýt bez posunutí lišty</string>
   <string name="notch_style_status_bar_outside">Skrýt a posunout lištu</string>  
   <string name="lock_screen_settings_title">Zámek obrazovky</string>
+   <string name="gesture_wakeup_summary">Tato funkce funguje pouze s výchozím tématem</string>
+  <string name="gesture_wakeup_title">Probudit nebo uspat displej dvojitým poklepáním</string>
+  <string name="notch_style_mod_description">Nastavení výřezu</string>
+  <string name="notch_style_mod_title">Skrýt výřez</string>
+  <string name="notch_style_show">Neskrývat</string>
+  <string name="notch_style_status_bar_inside">Skrýt bez posunutí lišty</string>
+  <string name="notch_style_status_bar_outside">Skrýt a posunout lištu</string>  
 </resources>

@@ -700,4 +700,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="system_busy_or_network_error">Nastala chyba. Zkuste to později.</string>
   <string name="waiting_for_sync">Čekání...</string>
   <string name="micloud_last_sync_canceled">Synchr. byla zrušena. Zkuste to znovu.</string>
+   <string name="micloud_manual_sync_now_retry">Zkusit znovu</string>
+  <string name="micloud_sync_result_get_sim_info_error">Nebylo možné získat informace o SIM kartě. Zkuste to znovu později.</string>
+  <string name="sync_detail_summary_master_sync_off">Synchr. je vypnuta</string>
 </resources>
