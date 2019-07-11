@@ -5956,5 +5956,8 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="notch_style_mod_title">Skrýt výřez</string>
   <string name="notch_style_show">Neskrývat</string>
   <string name="notch_style_status_bar_inside">Skrýt bez posunutí lišty</string>
-  <string name="notch_style_status_bar_outside">Skrýt a posunout lištu</string>  
+  <string name="notch_style_status_bar_outside">Skrýt a posunout lištu</string>   
+  <string name="lock_screen_settings_title">Zámek obrazovky</string>
+  <string name="xiaomi_cloud_service_description_contact">kontakty a</string>
+  <string name="xiaomi_cloud_service_description_format">MiCloud synchronizuje vaše %s fotografie a zálohuje vaše aplikace a nastavení.</string>
 </resources>
