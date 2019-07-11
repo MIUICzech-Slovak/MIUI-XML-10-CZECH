@@ -40,4 +40,5 @@
     <string name="summary_float_enable_notification_first">Pro plovoucí oznámení nejprve povolte zobrazování oznámení</string>
     <string name="summary_lock_screen_enable_notification_first">Pro oznámení na Zamykací obrazovce nejprve povolte zobrazování oznámení</string>
     <string name="summary_show_badge_enable_notification_first">Pro Bubliny oznámení nejprve povolte zobrazování oznámení</string>
+    <string name="expand_top_notification">Rozbalit první upozornění</string>
 </resources>
