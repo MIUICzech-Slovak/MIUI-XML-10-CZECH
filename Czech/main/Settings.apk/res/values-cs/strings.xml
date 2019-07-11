@@ -5942,15 +5942,7 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="manage_password_summary">Uložená hesla pro automatické doplňování</string>
   <string name="quick_settings_under_keyguard_summary">Povolit přístup k roletce na zamčené obrazovce</string>
   <string name="quick_settings_under_keyguard_title">Přístup k přepínačům</string>
-  <string name="gesture_wakeup_summary">Tato funkce funguje pouze s Výchozí tématem</string>
-  <string name="gesture_wakeup_title">Probudit nebo uspat displej dvojitým poklepáním</string>
-  <string name="notch_style_mod_description">Nastavení výřezu</string>
-  <string name="notch_style_mod_title">Skrýt výřez</string>
-  <string name="notch_style_show">Neskrývat</string>
-  <string name="notch_style_status_bar_inside">Skrýt bez posunutí lišty</string>
-  <string name="notch_style_status_bar_outside">Skrýt a posunout lištu</string>  
-  <string name="lock_screen_settings_title">Zámek obrazovky</string>
-   <string name="gesture_wakeup_summary">Tato funkce funguje pouze s výchozím tématem</string>
+  <string name="gesture_wakeup_summary">Tato funkce funguje pouze s výchozím tématem</string>
   <string name="gesture_wakeup_title">Probudit nebo uspat displej dvojitým poklepáním</string>
   <string name="notch_style_mod_description">Nastavení výřezu</string>
   <string name="notch_style_mod_title">Skrýt výřez</string>
