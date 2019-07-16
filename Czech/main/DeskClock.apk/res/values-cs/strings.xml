@@ -211,7 +211,7 @@
    <string name="add_clock">Přidat hodiny</string>
   <string name="content_desc_keep_screen">\"Nezhasínat displej\" tlačítko</string>
   <string name="timer_cancel_hint">Zastavit</string>
-  <string name="timer_end_time">Časovač skončí za %s</string>
+  <string name="timer_end_time">Časovač skončí v %s</string>
   <string name="timer_can_continue_in_timer">Otevřete časovač pro pokračování</string>
   <string name="timer_is_paused">Časovač je pozastaven</string>
   <string name="expired_timers_dismissed">Časovač je zrušen</string>
