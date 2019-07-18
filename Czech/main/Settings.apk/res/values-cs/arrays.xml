@@ -1026,8 +1026,14 @@ Postupujte dle pokynů"</item>
     </string-array>	
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafický</item>
-        <item>Procenta</item>
+        <item>Procenta (v ikone)</item>
+		<item>Percentá (vedle ikony)</item>
     </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Grafický</item>
+        <item>Procenta (v ikone)</item>
+        <item>Procenta (vedle ikony v roletce)</item>
+    </string-array>	
     <string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Vyhledávání</item>
         <item>Nastavení</item>

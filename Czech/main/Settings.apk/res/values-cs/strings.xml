@@ -5952,4 +5952,5 @@ Chcete-li použít tuto funkci, zapněte nabídku dostupnosti a klepněte na tla
   <string name="lock_screen_settings_title">Zámek obrazovky</string>
   <string name="xiaomi_cloud_service_description_contact">kontakty a</string>
   <string name="xiaomi_cloud_service_description_format">MiCloud synchronizuje vaše %s fotografie a zálohuje vaše aplikace a nastavení.</string>
+  
 </resources>
