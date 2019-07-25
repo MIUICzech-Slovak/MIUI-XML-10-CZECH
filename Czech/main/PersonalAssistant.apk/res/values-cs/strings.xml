@@ -515,12 +515,12 @@
   <string name="just_now">Právě nyní</string>
   <string name="time_just_now">Právě nyní</string>
   <string name="card_menu_remove">Odebrat</string>
-   <String name="preference_privacy_settings">Nastavení soukromí</string>
-   <String name="setting_cancel_sticky">Odebrat</string>
-   <String name="setting_sticky">Přípnout</string>
-   <String name="setting_sticky_canceled">Odebrané</string>
-   <String name="setting_sticky_done">Připnuté</string>
-   <String name="steps">kroků</string>
-   <String name="sport_headline">Dnešní aktivita</string>
-   <String name="timeline_headline">Nadcházející</string>
+  <string name="preference_privacy_settings">Nastavení soukromí</string>
+  <string name="setting_cancel_sticky">Odebrat</string>
+  <string name="setting_sticky">Přípnout</string>
+  <string name="setting_sticky_canceled">Odebrané</string>
+  <string name="setting_sticky_done">Připnuté</string>
+  <string name="steps">kroků</string>
+  <string name="sport_headline">Dnešní aktivita</string>
+  <string name="timeline_headline">Nadcházející</string>
 </resources>
