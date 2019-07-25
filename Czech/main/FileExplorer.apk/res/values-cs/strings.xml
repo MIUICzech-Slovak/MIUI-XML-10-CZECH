@@ -715,4 +715,16 @@ Bylo přičteno dalších %1$s"</string>
   <string name="ftp_anonymous_warning_msg">Anonymizace služby mohou představovat riziko pro vaše data. I tak použít??</string>
   <string name="ftp_anonymous_warning_title">Upozornění</string>  
   <string name="home_action_up">Zpět</string>
+  <string name="category_source">Zdroj</string>
+  <string name="category_time">Čas</string>
+  <string name="create_folder">Vytvořit</string>
+  <string name="home_title">Soubory</string>
+  <string name="otg_file_security_confirm">Kopírovat do zařízení</string>
+  <string name="otg_file_security_details">Zkopírujte do zařízení</string>
+  <string name="privacy_policy">Ochrana soukromí</string>
+  <string name="start_doc">Soubory</string>
+  <string name="start_phone">Úložiště</string>
+  <string name="tab_app">Více</string>
+  <string name="text_select_all">Vše</string>
+  <string name="text_select_nothing">Odznačit</string>
 </resources>

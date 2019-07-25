@@ -200,5 +200,13 @@
          <item quantity="two">%1$d d</item>
          <item quantity="few">%1$d d</item>
          <item quantity="many">%1$d d</item>
-      </plurals>	
+      </plurals>
+      <plurals name="text_group_count">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="zero">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+        <item quantity="two">Položek: %1$d</item>
+        <item quantity="few">Položek: %1$d</item>
+        <item quantity="many">Položek: %1$d</item>
+    </plurals>	 	
 </resources>
