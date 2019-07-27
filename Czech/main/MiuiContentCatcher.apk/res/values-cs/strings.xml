@@ -28,5 +28,5 @@
     <string name="autofill_list_title">Spravovat hesla</string>
     <string name="autofill_password">Zadat hesla automaticky</string>
     <string name="using_miui_autofill_message">Pro zadání hesel automaticky, MIUI uloží informace o účtu a heslo do zařízení.</string>
-     <string name="settings_clear_data_confirmation_description">"Když nyní vymažete heslo, budete ho muset při přihlašování vložit manuálně.
+     <string name="settings_clear_data_confirmation_description">"Když nyní vymažete heslo, budete ho muset při přihlašování vložit manuálně.</string>
 </resources>
