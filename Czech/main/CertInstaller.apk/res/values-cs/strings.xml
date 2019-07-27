@@ -61,6 +61,8 @@ Klíč: %2$s
   <string name="wifi_trust_config_text">"Certifikát důvěryhodnosti:
 %s
 "</string>
+     <string name="credential_usage_label">Použití pověření:</string>
+     <string name="only_primary_user_allowed">Certifikáty může instalovat pouze vlastník tohoto zařízení.</string>
   <string name="wifi_ttls_config_text">"Uživatelské jméno: %s
 "</string>
 </resources>

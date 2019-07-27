@@ -410,4 +410,5 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
   <string name="wifi_verbose_logging">Podrobné protokolování Wi‑Fi</string>
   <string name="wifi_verbose_logging_summary">Zvýšit úroveň protokolování Wi‑Fi zobrazenou v SSID a RSSI při výběru sítě Wi‑Fi.</string>
   <string name="window_animation_scale_title">Měřítko animace okna</string>
+     <string name="missedcall_notification_public_version_title">Telefon</string>
 </resources>

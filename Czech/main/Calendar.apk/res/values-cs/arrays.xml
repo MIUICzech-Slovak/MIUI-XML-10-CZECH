@@ -410,4 +410,14 @@
         <item>Pouze tentokrát</item>
         <item>Nastavit opakování budíku</item>
     </string-array>
+     <string-array name="prefEntries_alerts_popup">
+        <item>Vyp</item>
+        <item>Pro všechny události</item>
+        <item>Pro relevantní události</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_popup_new">
+        <item>Vyp</item>
+        <item>Pro všechny události</item>
+        <item>Pro časové události</item>
+     </string-array>
 </resources>

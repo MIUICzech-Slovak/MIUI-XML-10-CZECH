@@ -251,4 +251,11 @@
   <string name="worldclock_resident_city_text">Druhé hodiny: %s</string>
   <string name="worldclock_resident_city_text_detail">Duální hodiny jsou povoleny</string>
   <string name="worldcolock_date_display_prefix">"Aktuální: "</string>  
+     <string name="module_download_data_msg_replace">Je dostupná aktualizace zvuků pro budík (≈20MB). Chcete je stáhnout přes mobilní data?</string>
+     <string name="module_download_msg_replace">Je dostupná aktualizace zvuků pro budík (≈20MB). Chcete je stahnout?</string>
+     <string name="module_update_success">Aktualizované zvuky pro inteligentní budík byly stáhnuty.</string>
+     <string name="module_update_success_control">Rozumím</string>
+     <string name="no_alarm_setting">Žádné budíky</string>
+     <string name="no_worldclock">Žádné hodiny</string>
+     <string name="search_menu_title">Vyhledat</string>
 </resources>

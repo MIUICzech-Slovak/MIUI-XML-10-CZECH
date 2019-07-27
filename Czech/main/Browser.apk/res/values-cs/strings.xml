@@ -1139,4 +1139,5 @@ Chcete opustit tuto stránku?"</string>
   <string name="mw_miuichromium_error_page_title">Nastala chyba!</string>
   <string name="mw_miuichromium_error_page_unknown_error">Ups... něco se pokazilo...</string>
   <string name="mw_miuichromium_error_page_wlan">Povolit Wi-Fi</string>  
+     <string name="save_file_suffix">" soubor"</string>
 </resources>

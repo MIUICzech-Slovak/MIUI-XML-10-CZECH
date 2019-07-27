@@ -62,4 +62,5 @@ Vaše data budou zachována."</string>
   <string name="dialog_twrp">Vaše interní úložiště je zašifrované. Po restartu do TWRP, zadejte vaše heslo pro odemknutí zařízení pro dešifrování úložiště.</string>
 <string name="default_filedownloader_notification_content">Probíhá stahování aktualizace...</string>
   <string name="default_filedownloader_notification_title">Nová verze MIUI</string>  
+     <string name="btn_error">Nastala chyba, stáhnout znova?</string>
 </resources>

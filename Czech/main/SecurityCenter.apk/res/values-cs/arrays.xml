@@ -203,5 +203,10 @@
        <string-array name="tether_limit_warn_type">
          <item>Vypnout a upozornit</item>
          <item>Pouze upozornit</item>
-     </string-array>	    
+     </string-array>	   
+     <string-array name="traffic_package_type">
+        <item>Měsíční datový balíček</item>
+        <item>Denní datový balíček</item>
+        <item>Neomezený datový balíček</item>
+     </string-array> 
 </resources>

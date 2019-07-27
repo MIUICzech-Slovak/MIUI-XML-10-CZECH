@@ -551,4 +551,10 @@
   <string name="facebook_function_summery">Vyčistit soubory stažené přes Facebook</string>
   <string name="facebook_function_title">Facebook čistič</string>
   <string name="security_center_slogan">Staráme se o vaši bezpečnost.</string>
+     <string name="notification_garbage_cleanup_summary">Velikost odpadu dosáhla %s</string>
+     <string name="notification_garbage_cleanup_title">Vyčištěte odpad</string>
+     <string name="notification_low_memory_cache_summary">Míň jak 1.5GB dostupného úložiště</string>
+     <string name="notification_low_memory_cache_title">Vymazat cache</string>
+     <string name="notification_low_memory_deepclean_summary">Hloubkové čištění může uvolnit úložiště ve vašem zařízení</string>
+     <string name="notification_low_memory_deepclean_title">Dochází volné místo na úložišti</string>
 </resources>

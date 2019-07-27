@@ -201,4 +201,12 @@
   <string name="autofill_save_ok">Povolit</string>
   <string name="autofill_save_sub_message">Budete moci spravovat uložená hesla v Nastavení - Další nastavení - Soukromí - Správa hesla.</string>
   <string name="autofill_save_title">Ukládat hesla automaticky</string>
+     <string name="content_description_dial">Hovor</string>
+     <string name="content_description_search">Vyhledat</string>
+     <string name="content_description_share">Sdílet</string>
+     <string name="content_description_translate">Přeložit</string>
+     <string name="content_description_web_url">Prohledat</string>
+     <string name="frequent_email">Email</string>
+     <string name="user_switching_dialog_switch_into_kid_space">Přepínání do Dětského profilu...</string>
+     <string name="user_switching_dialog_switch_out_kid_space">Ukončení Dětského profilu...</string>
 </resources>

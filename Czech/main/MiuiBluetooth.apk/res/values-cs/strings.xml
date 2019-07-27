@@ -45,4 +45,5 @@
   <string name="unbind_device_alert_content">Bluetooth zařízení %1$s není připojeno. Jeho odpojení může zvýšit výkon vašeho zařízení.</string>
   <string name="unbind_device_alert_ok">OK</string>
   <string name="unbind_device_alert_title">Odpojit zařízení</string>
+     <string name="fast_connect_headset_reset">Stlačte a podržte tlačítko na krabičce %1$ds</string>
 </resources>

@@ -169,4 +169,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="text_play_speed_1_0">Normální rychlost přehrávání</string>
   <string name="text_play_speed_1_5">1.5X rychlost přehrávání</string>
   <string name="text_play_speed_2_0">2X rychlost přehrávání</string>  
+     <string name="dialog_privacy_revoke_tips">Po odmítnutí autorizace, aplikace přestane shromažďovat vaše data a všechny data budou vymazána ze serveru. Chcete odmítnout autorizaci i přes to?.</string>
 </resources>

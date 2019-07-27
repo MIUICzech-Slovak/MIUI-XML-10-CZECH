@@ -394,4 +394,5 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
+     <string name="can_not_switch_when_super_power_active">Není možné přepínat mezi profily když je aktivované Ultra šetření baterie</string>
 </resources>

@@ -3,4 +3,5 @@
   <string name="app_label">Externí úložiště</string>
   <string name="root_documents">Dokumenty</string>
   <string name="root_internal_storage">Interní úložiště</string>
+     <string name="storage_description">Místní úložiště</string>
 </resources>

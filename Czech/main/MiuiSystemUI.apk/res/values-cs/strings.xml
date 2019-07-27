@@ -2030,4 +2030,8 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="lock_screen_magazine_label">Otevřít Denní tapetu</string>
   <string name="long_screenshot_guide_text">"Dotkněte se
 pro dlouhý screenshot"</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Není možné přepínat mezi profily když je aktivované Ultra šetření baterie</string>
+     <string name="recents_dimiss_task">Vyčistit</string>
+     <string name="recents_forbid_dock_when_screening_toast_text">Během vysílání není možné používat rozdělenou obrazovku</string>
+     <string name="recents_task_screening">Vysílání</string>
 </resources>

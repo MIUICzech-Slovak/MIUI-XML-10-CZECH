@@ -49,4 +49,32 @@
         <item quantity="other">Poznámek: %1$s</item>
         <item quantity="one">Poznámek: %1$s</item>
     </plurals>
+     <plurals name="date_calculate_days_after">
+        <item quantity="other">po %1$d dnech</item>
+        <item quantity="one">po %1$d dni</item>
+     </plurals>
+     <plurals name="date_calculate_days_ago">
+        <item quantity="other">před %1$d dny</item>
+        <item quantity="one">před %1$d dnem</item>
+     </plurals>
+     <plurals name="todo_N_days_after">
+        <item quantity="other">za %1$d dní</item>
+        <item quantity="one">za %1$d den</item>
+     </plurals>
+     <plurals name="todo_N_days_ago">
+        <item quantity="other">před %1$d dny</item>
+        <item quantity="one">před %1$d dnem</item>
+     </plurals>
+     <plurals name="todo_alert_message_delete">
+        <item quantity="other">Vymazat úlohy (%1$s)?</item>
+        <item quantity="one">Vymazat úlohy (%1$s)?</item>
+     </plurals>
+     <plurals name="todo_event_description_days_ago">
+        <item quantity="other">před %1$d dny</item>
+        <item quantity="one">před %1$d dnem</item>
+     </plurals>
+     <plurals name="todo_event_description_days_later">
+        <item quantity="other">za %1$d dní</item>
+        <item quantity="one">za %1$d den</item>
+     </plurals>
 </resources>

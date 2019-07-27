@@ -72,5 +72,9 @@
      <plurals name="minute">
          <item quantity="other">%dmin</item>
          <item quantity="one">%dmin</item>
-     </plurals>	    
+     </plurals>	 
+     <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Změněný interval na %d min.</item>
+        <item quantity="one">Změněný interval na %d min.</item>
+     </plurals>   
 </resources>

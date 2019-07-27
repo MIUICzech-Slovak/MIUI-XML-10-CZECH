@@ -569,4 +569,11 @@
   <string name="setting_daysoff_update_schedule">Aktualizace...</string>
   <string name="setting_daysoff_update_success">Aktualizováno</string>
   <string name="talk_back_tab_switch">Přepnout zobrazení</string>
+     <string name="preferences_popup_alert_smart_summary">MIUI bude automaticky rozpoznávat události, které jsou pro vás relevantní</string>
+     <string name="preferences_popup_alert_smart_summary_new">Časové udalosti jsou události s konkrétním časem</string>
+     <string name="preferences_popup_alert_smart_tips">Nahradit bežné upozornění vyskakovacím oknem aby jste nezmeškali důležité události.</string>
+     <string name="preferences_popup_alert_title">Pop-up upozornění</string>
+     <string name="setting_desc_import_todo">Importovat naplánované úlohy z Poznámek</string>
+     <string name="setting_title_import_todo">Importovat úlohy</string>
+     <string name="todo_event">Nadcházející úlohy</string>
 </resources>

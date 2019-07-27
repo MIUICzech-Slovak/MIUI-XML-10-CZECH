@@ -189,4 +189,7 @@
   <string name="upload_succ_line5">Soubor byl odeslán</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odeslání dokončeno.</string>
+     <string name="incoming_file_confirm_Notification_content">%1$s je připravený odeslat soubor %2$s</string>
+     <string name="opp_notification_group">Sdílení Bluetooth</string>
+     <string name="pbap_notification_group">Sdílení kontaků přes Bluetooth</string>
 </resources>
