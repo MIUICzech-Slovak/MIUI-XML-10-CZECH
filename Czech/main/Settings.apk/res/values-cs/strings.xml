@@ -5575,7 +5575,6 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
     <string name="date_time_24hour_auto">Automatický 24-hodinový formát</string>
   <string name="date_time_24hour_auto_summary">Použít výchozí nastavení</string>  
   <string name="dump_log">Získat záznamy o chybách</string>
-  <string name="handy_mode_tips_full_screen" />
   <string name="accessibility_summary_source">Poskytuje %s</string>
   <string name="accessibility_disable_animations">Vypnout animace</string>
   <string name="accessibility_vibration_settings_title">Vibrace</string>
@@ -5999,4 +5998,5 @@ You can view generated logs in File Manager."</string>
      <string name="status_bar_settings_user_fold_enable">Zap.</string>  
   <string name="select_time_format_category_title">Formát času</string>
   <string name="select_time_format_title">Formát času</string>
+  <string name="handy_mode_tips_full_screen">Při využívání gest pro celou obrazovku, můžete zapnout režim Ovládání jednou rukou pomocí Quick ballu. Kdykoli můžete také přepnout mezi gesty pro celou obrazovku a použitím tlačítek zobrazených na displeji.</string>
 </resources>
