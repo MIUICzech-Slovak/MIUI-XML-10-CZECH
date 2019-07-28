@@ -1027,7 +1027,7 @@ Postupujte dle pokynů"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafický</item>
         <item>Procenta (v ikone)</item>
-		<item>Percentá (vedle ikony)</item>
+	<item>Procenta (vedle ikony)</item>
     </string-array>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Grafický</item>
@@ -1079,5 +1079,10 @@ Postupujte dle pokynů"</item>
         <item>Zapnout svítidlo</item>
         <item>Zapnout režim čtení</item>
         <item>Žádná</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12-hodin 1:00 PM</item>
+        <item>24-hodin 13:00</item>
+        <item>Auto (dle zvoleného jazyka)</item>
     </string-array>
 </resources>

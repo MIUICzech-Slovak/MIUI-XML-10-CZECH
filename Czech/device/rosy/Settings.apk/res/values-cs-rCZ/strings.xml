@@ -652,7 +652,7 @@ Zapojte do původního telefonu jeho kabel. Pomocí adaptéru v balení kabel p
   <string name="locale_remove_menu">Odstranit</string>
   <string name="location_app_level_permissions">Oprávnění na úrovni aplikace</string>
   <string name="location_off_summary">VYPNUTO</string>
-  <string name="location_on_summary">ZAPNUTO / %1$s</string>
+  <string name="location_on_summary">ZAPNUTO</string>
   <string name="lock_failed_attempts_before_wipe">Zkuste to znovu. Pokus %1$d z %2$d.</string>
   <string name="lock_failed_attempts_now_wiping_device">Příliš mnoho neplatných pokusů. Data v tomto zařízení budou smazána.</string>
   <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Zavřít</string>

@@ -1148,7 +1148,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">24-hodinový formát</string>
   <string name="date_time_24hour_title">24-hodinový formát</string>
-  <string name="date_time_auto">Automaticky datum a čas</string>
+  <string name="date_time_auto">Automatický datum a čas</string>
   <string name="date_time_auto_summaryOff">Použít čas ze sítě</string>
   <string name="date_time_auto_summaryOn">Použít čas ze sítě</string>
   <string name="date_time_date_format">Formát data</string>
@@ -1636,7 +1636,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="fingerprint_manage_tittle">Otisk prstu</string>
   <string name="fingerprint_not_identified_msg">Nelze rozpoznat otisk. Zadejte vaše heslo.</string>
   <string name="fingerprint_not_recognized">Nebyl rozpoznán</string>
-  <string name="fingerprint_payment">Platby otiskem prsta</string>
+  <string name="fingerprint_payment">Platby otiskem prstu</string>
   <string name="fingerprint_removal_failed">Nelze odstranit otisk prstu, zkuste to znovu.</string>
   <string name="fingerprint_usage_category_title">Použít otisk na</string>
   <string name="finish_application">Ukončit</string>
@@ -5997,4 +5997,7 @@ You can view generated logs in File Manager."</string>
      <string name="status_bar_settings_user_fold_description3" />
      <string name="status_bar_settings_user_fold_disable">Vyp.</string>
      <string name="status_bar_settings_user_fold_enable">Zap.</string>  
+  <string name="select_time_format_category_title">Formát času</string>
+  <string name="select_time_format_title">Formát času</string>
+  <string name="handy_mode_tips_full_screen" />
 </resources>
