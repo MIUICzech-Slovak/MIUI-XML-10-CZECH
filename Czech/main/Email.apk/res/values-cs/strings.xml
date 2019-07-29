@@ -890,7 +890,7 @@
   <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v aplikaci E-mail), budou synchronizovány mezi webem, ostatními zařízeními a zařízením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnout</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnout automatickou synchronizaci?</string>
-  <string name="undo"/>
+  <string name="undo">""</string>
   <string name="unread_string">Konverzace nebyla přečtena.</string>
   <string name="unselected_lable">Více</string>
   <string name="unsent_messages_in_outbox">Neodeslané zprávy ve složce %2$s: %1$s</string>
