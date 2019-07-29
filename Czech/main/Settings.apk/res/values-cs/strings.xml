@@ -5999,4 +5999,5 @@ You can view generated logs in File Manager."</string>
   <string name="select_time_format_category_title">Formát času</string>
   <string name="select_time_format_title">Formát času</string>
   <string name="handy_mode_tips_full_screen">Při využívání gest pro celou obrazovku, můžete zapnout režim Ovládání jednou rukou pomocí Quick ballu. Kdykoli můžete také přepnout mezi gesty pro celou obrazovku a použitím tlačítek zobrazených na displeji.</string>
+  <string name="status_bar_settings_show_weather">Zobrazit informace o počasí v roletce</string>
 </resources>
