@@ -488,5 +488,65 @@
      <plurals name="slideshow_interval_value">
         <item quantity="other">%1$ds</item>
         <item quantity="one">%1$ds</item>
-    </plurals>		 
+    </plurals>	
+     <plurals name="a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Před půlhodinou</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">O 1 hodinu</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">O půlhodinu</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Ihned</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">o %d min.</item>
+        <item quantity="one">o 1 min.</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nyní</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">před %d min.</item>
+        <item quantity="one">před 1 min.</item>
+     </plurals>
+     <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Vymazat %d fotografií</item>
+        <item quantity="one">Vymazat %d fotografii</item>
+     </plurals>
+     <plurals name="delete_finish_format">
+        <item quantity="other">Vymazaných %d položek</item>
+        <item quantity="one">Vymazaná %d položka</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">O 1 hodinu</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">O půl hodiny</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Ihned</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">o %d min.</item>
+        <item quantity="one">o 1 minutu</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nyní</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">před %d min.</item>
+        <item quantity="one">před 1 min.</item>
+     </plurals> 
 </resources>

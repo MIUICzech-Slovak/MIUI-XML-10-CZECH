@@ -127,4 +127,18 @@
   <string name="usage_sorted_loading_text">Načítání...</string>
   <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
   <string name="wlan_change_protection_title">Zamezit změně sítě</string>
+     <string name="app_select_title">Přidejte často používané aplikace</string>
+     <string name="superpower_app_add">Přidat</string>
+     <string name="superpower_app_finish">Hotovo</string>
+     <string name="superpower_battery_dangerous">Co nejdříve připojte nabíječku</string>
+     <string name="superpower_date">dd.MMMM EEEE</string>
+     <string name="superpower_dialog_app_select_content">Doinstalované aplikace bežne spotřebují více baterie než systémové aplikace. Přesto je chcete přidat?</string>
+     <string name="superpower_dialog_app_select_title">Upozornění</string>
+     <string name="superpower_incharging">Nabíjení</string>
+     <string name="superpower_progress_battery_last">%s zůstává</string>
+     <string name="superpower_search_hint">Hledat aplikace</string>
+     <string name="superpower_select_app_title">Rozložení plochy</string>
+     <string name="superpower_settings">Ultra šetřič baterie</string>
+     <string name="superpower_system">Doporučené</string>
+     <string name="superpower_third">Doinstalované aplikace</string>
 </resources>
