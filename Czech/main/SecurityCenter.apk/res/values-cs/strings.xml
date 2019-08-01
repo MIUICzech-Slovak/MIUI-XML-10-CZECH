@@ -3288,4 +3288,17 @@ Respektujeme a chráníme vaše soukromí."</string>
      <string name="system_permission_perm_read_mms">Číst MMS</string>
      <string name="system_permission_perm_read_numbers">Číst telefonní čísla</string>
      <string name="system_permission_perm_send_mms">Odeslat MMS</string>
+     <string name="battery_statistics_activity_title">Spotřeba baterie</string>
+  <string name="pc_battery_detail_curve_reference_now">Nyní</string>
+  <string name="pc_battery_detail_device_item_title">spotřeba baterie</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Podrobnosti</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Hodnocení</string>
+  <string name="pc_battery_history_rank_mha_menu_item">miliampery za hodinu</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Procenta</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm zbývá</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm od nabití</string>
+  <string name="pc_statistics_battery_use_summary">%s od posledního nabití</string>
+  <string name="pc_statistics_battery_use_title">Spotřeba baterie</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Bez potřebných povolení nebude tato aplikace správně fungovat..</string>
+  <string name="traffic_setting_fragment_default">Vybrat</string>
 </resources>

@@ -537,5 +537,21 @@
     <plurals name="pc_main_power_manager_minute">
         <item quantity="other">Do plného nabití zbývá %smin</item>
         <item quantity="one">Do plného nabití zbývá %smin</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minut odposledního nabití</item>
+        <item quantity="one">%d minuta odposledního nabití</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d sekund od odposledního nabití</item>
+        <item quantity="one">%d sekunda od odposledního nabití</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d min. zbývá</item>
+        <item quantity="one">%d min. zbývá</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d h zbývá</item>
+        <item quantity="one">%d h zbývá</item>
     </plurals>				
 </resources>
