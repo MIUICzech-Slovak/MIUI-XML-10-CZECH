@@ -5,7 +5,7 @@
   <string name="battery_islow_desc">Baterie je příliž slabá pro instalaci nové ROM, připojte nabíječku a zkuste to znovu později!</string>
   <string name="btn_changelog">Seznam změn</string>
   <string name="btn_download">Stáhnout novou verzi (%1$s)</string>
-  <string name="btn_install">Instalovat novou verzi</string>
+  <string name="btn_install">Zkontr. MD5 a instalovat</string>
   <string name="btn_no">Zrušit</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Zastavit</string>
@@ -59,8 +59,9 @@ Vaše data budou zachována."</string>
   <string name="wifi_recommended">Připojte se na Wi-fi síť pro stažení aktualizace!</string>
   <string name="channel_downloading">Průběh stahování</string>
   <string name="channel_update">Dostupná nová verze MIUI</string>
-  <string name="dialog_twrp">Vaše interní úložiště je zašifrované. Po restartu do TWRP, zadejte vaše heslo pro odemknutí zařízení pro dešifrování úložiště.</string>
-<string name="default_filedownloader_notification_content">Probíhá stahování aktualizace...</string>
+  <string name="dialog_twrp">Vaše interní úložiště je zašifrované. Po restartu do TWRP, zadejte vaše heslo pro odemknutí zařízení pro dešifrování úložiště.</string> 
+  <string name="default_filedownloader_notification_content">Probíhá stahování aktualizace...</string>
   <string name="default_filedownloader_notification_title">Nová verze MIUI</string>  
-     <string name="btn_error">Nastala chyba, stáhnout znova?</string>
+  <string name="btn_error">Nastala chyba, stáhnout znova?</string>
+  <string name="btn_wrong_md5">Chyba MD5, stiskněte pro vymazání ZIP!</string>
 </resources>
