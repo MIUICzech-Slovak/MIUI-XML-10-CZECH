@@ -357,13 +357,13 @@
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">How do you normally get to your destination?</string>
   <string name="widget_fav">favorite</string>
-  <string name="widget_fav_open">Show favorite card</string>
-  <string name="widget_fav_setting_brief">Save favorites from multiple apps here</string>
-  <string name="widget_fav_setting_brief_detail">View all your favorites in one place.</string>
-  <string name="widget_loading">Just a sec…</string>
-  <string name="widget_more">View more</string>
-  <string name="widget_no_data">No favorites yet.</string>
-  <string name="widget_title">Recently added</string>
+  <string name="widget_fav_open">Zobrazit karu záložek</string>
+  <string name="widget_fav_setting_brief">Uložit záložky z různých aplikací</string>
+  <string name="widget_fav_setting_brief_detail">Zobrazit všechny záložky na jednom místě.</string>
+  <string name="widget_loading">Načítání...</string>
+  <string name="widget_more">Více</string>
+  <string name="widget_no_data">Žádné záložky.</string>
+  <string name="widget_title">Přidáno nedávno</string>
   <string name="wx_aa">Go Dutch</string>
   <string name="wx_collectioncode">Receive payment</string>
   <string name="wx_name">My card</string>
@@ -440,7 +440,6 @@
   <string name="toast_function_add_limit">Můžete přidat až %d zkratek</string>
   <string name="all_function_title">Všechny zkratky</string>
   <string name="authorize_button">Povolit</string>
-  
   <string name="authorize_fav_tip">Přidat Záložky z jiných aplikací.</string>
   <string name="card_title_favorite">Záložky</string>
   <string name="detail_title">Záložky</string>
@@ -523,4 +522,22 @@
   <string name="steps">kroků</string>
   <string name="sport_headline">Dnešní aktivita</string>
   <string name="timeline_headline">Nadcházející</string>
+<string name="access_select">Vybraných: %s</string>
+<string name="access_unselect">Odebraných: %s</string>
+<string name="add_to_desktop">Přidat na Domácí plochu</string>
+<string name="btn_back">Zpět</string>
+<string name="btn_more">Více</string>
+<string name="cta_dialog_miot_text_all">Pro správné fungování se vyžaduje přístup k sítí, poloze a Bluetooth. Chcte pokračovat?</string>
+<string name="delete">Vymazat</string>
+<string name="empty_card_btn">Otevřít</string>
+<string name="empty_card_tip">Nejste přihlášený...</string>
+<string name="empty_card_title">Žádné data</string>
+<string name="memory_clear_nothing_result">Chache je prázdná</string>
+<string name="memory_clear_result">Vyčištěné: %1$sB</string>
+<string name="setting_authorization_canceled_dialog_cancel">Zrušit</string>
+<string name="setting_authorization_canceled_dialog_ok">Odstranit</string>
+<string name="setting_authorization_canceled_dialog_title">Odstranit kartu</string>
+<string name="show_more">Zobrazit více</string>
+<string name="smart_assistant_enter_tip">Asistent</string>
+<string name="yesterday">Včera</string>
 </resources>
