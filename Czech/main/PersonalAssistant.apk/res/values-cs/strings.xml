@@ -357,7 +357,7 @@
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">How do you normally get to your destination?</string>
   <string name="widget_fav">favorite</string>
-  <string name="widget_fav_open">Zobrazit karu záložek</string>
+  <string name="widget_fav_open">Zobrazit kartu záložek</string>
   <string name="widget_fav_setting_brief">Uložit záložky z různých aplikací</string>
   <string name="widget_fav_setting_brief_detail">Zobrazit všechny záložky na jednom místě.</string>
   <string name="widget_loading">Načítání...</string>
