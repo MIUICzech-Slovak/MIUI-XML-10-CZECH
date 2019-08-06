@@ -84,7 +84,7 @@ Naposledy: %2$s"</string>
   <string name="error_server">Chyba serveru</string>
   <string name="error_title">Chyba Synchr.</string>
   <string name="error_unauthorized">Příliš mnoho pokusů o přihlášení: Synchr. deaktivována.</string>
-  <string name="error_unknown">Neznámá chyba: %1$s</string>
+  <string name="error_unknown">Neznámá chyba</string>
   <string name="find_device">Poloha zařízení</string>
   <string name="find_device_disabled_notice">"Toto nastavení můžete změnit v Nastavení - Účty - MiCloud"</string>
   <string name="find_device_disabled_title">Zjišťování polohy zařízení je vypnuté</string>
