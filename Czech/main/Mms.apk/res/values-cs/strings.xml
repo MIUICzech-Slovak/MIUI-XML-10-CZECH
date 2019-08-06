@@ -382,7 +382,7 @@
   <string name="need_download">Čekání na synchr...</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">Cloudové zprávy vyžadují přístup k internetu pro jejich správné fungování.</string>
-  <string name="networking_allow_desc_without_mx">Inteligentní zprávy umožňují rozpoznávání neznámých čísel, filtrovat spam, atd. Používáním této služby souhlasíte s Mi %1$s a %2$s.</string>
+  <string name="networking_allow_desc_without_mx">Inteligentní zprávy umožňují rozpoznávání neznámých čísel, filtrovat spam, atd.</string>
   <string name="networking_allow_title">Upozornění</string>
   <string name="new_message">Nová zpráva</string>
   <string name="new_message_arrived">Přišla nová zpráva</string>
