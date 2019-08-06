@@ -1117,7 +1117,7 @@ For more info check the message you received from your service provider"</string
   <string name="hints_cleanning_text">Čištění...</string>
   <string name="hints_handle_item_text_risk">Nebezpečné</string>
   <string name="hints_handle_item_text_safe">OK</string>
-  <string name="hints_handle_item_text_virus">Nebezpečné: %d</string>
+  <string name="hints_handle_item_text_virus">Nebezpečí</string>
   <string name="hints_input_roaming_daily_limit">Zadejte denní limit mobilních dat</string>
   <string name="hints_install_apps_new">nepoužité</string>
   <string name="hints_install_apps_today">dnes použité</string>
