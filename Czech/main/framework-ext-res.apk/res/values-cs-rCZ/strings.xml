@@ -68,7 +68,7 @@
   <string name="lockscreen_access_pattern_start">Vzor započatý</string>
   <string name="maml_component_customization_title">Nastavení</string>
   <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
-  <string name="memory_clear_result">"Uvolněno: %1$sB \nDostupné: %2$sB"</string>
+  <string name="memory_clear_result">Uvolněno: %1$sB</string>
   <string name="miui_forbid_poweroff_when_device_locked">Nelze vypnout. Zařízení je uzamčeno.</string>
   <string name="miui_screen_ratio_hint">Chyba poměru stran</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Znovu nezobrazovat</string>
