@@ -770,8 +770,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="same_bookmarks_warning">Tato záložka již existuje</string>
   <string name="same_folder_name_warning">Tato složka již existuje</string>
   <string name="save_button_text">Uložit</string>
-  <string name="save_dialog_title">"Uložit soubor "</string>
-  <string name="save_file">Uložit %s soubor</string>
+  <string name="save_dialog_title">Uložit</string>
+  <string name="save_file">"Uložit soubor "</string>
   <string name="save_file_already_exist_alert_message">Soubor již existuje, chcete jej přepsat?</string>
   <string name="save_file_already_exist_alert_title">Upozornění</string>
   <string name="save_form_data_confirm_message">Deaktivování této funkce může ovlivnit používání.</string>
