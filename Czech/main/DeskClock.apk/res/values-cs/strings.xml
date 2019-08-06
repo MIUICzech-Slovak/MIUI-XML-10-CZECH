@@ -3,7 +3,7 @@
   <string name="add_alarm">Přidat</string>
   <string name="add_timezone_title">Přidat časovou zónu</string>
   <string name="alarm_alert">Zvonění budíku</string>
-  <string name="alarm_alert_alert_silenced">Budík ztišen na dobu %d min.</string>
+  <string name="alarm_alert_alert_silenced">Budík ztišen na dobu %1$s min.</string>
   <string name="alarm_alert_snooze_set">Odložit o %d min.</string>
   <string name="alarm_ascending_mode_summary">Hlasitost budíku postupně vzrůstá až do max. výše nastavené hlasitosti.</string>
   <string name="alarm_ascending_mode_title">Vzrůstající hlasitost</string>
@@ -60,7 +60,6 @@
   <string name="dynamic_alarm_speech">Inteligentní budík</string>
   <string name="edit_alarm">Upravit budík</string>
   <string name="edit_systemtime">Upravit nastavení času</string>
-  <string name="elapsed_time_format">(+%s)</string>
   <string name="every_day">Každý den</string>
   <string name="force_touch_add_alarm">Budík</string>
   <string name="force_touch_enter_stopwatch">Stopky</string>
@@ -159,7 +158,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotykem ukončíte vyzvánění</string>
   <string name="timer_alarm_dot_matrix_label">ČASOVAČ</string>
-  <string name="timer_alert_alert_silenced">Časovač se zastavil po %d minutách.</string>
+  <string name="timer_alert_alert_silenced">Časovač se zastavil po %1$s minutách.</string>
   <string name="timer_alert_type_beach">Pláž</string>
   <string name="timer_alert_type_forest">Les</string>
   <string name="timer_alert_type_mute">Výchozí</string>
