@@ -519,7 +519,7 @@ and never miss the cool new ones!"</string>
   <string name="remote_video_no_network">Nelze se připojit k síti. Zkontrolujte své nastavení a zkuste to znovu.</string>
   <string name="rename_alert">Pokud změníte příponu tohoto souboru, nebude možné jej otevřít.</string>
   <string name="rename_description">Přejmenovávání...</string>
-  <string name="rename_failed">Přejmenování %1$s selhalo</string>
+  <string name="rename_failed">Přejmenování selhalo</string>
   <string name="repair_done">Obnoveno</string>
   <string name="repair_error">Nelze obnovit</string>
   <string name="repair_file">Obnovit šifrované soubory</string>
