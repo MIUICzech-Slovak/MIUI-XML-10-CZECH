@@ -141,4 +141,8 @@
      <string name="superpower_settings">Ultra šetřič baterie</string>
      <string name="superpower_system">Doporučené</string>
      <string name="superpower_third">Doinstalované aplikace</string>
+     <string name="superpower_exit_hint">Deaktivace Ultra šetření baterie...</string>
+  <string name="gamebooster_network_dialog_message">Povolit Zrychlení her připojení na internet?</string>
+  <string name="gamebooster_network_dialog_title">Některé funkce nejsou dostupné</string>
+  <string name="gdpr_msg">Pro používání této funkce musíte souhlasit s Xiaomi Podmínkami používání a Ochranou soukromí.</string>  
 </resources>
