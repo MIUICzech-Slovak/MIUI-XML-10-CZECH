@@ -732,4 +732,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="function_file_operation">"Pro přístup a otevírání souborů; "</string>
   <string name="function_set_private">"Pro prohlížení a šifrování souborů; "</string>
   <string name="function_use_imei">"Pro přístup k IMEI a šifrování souborů; "</string>
+  <string name="hint_switch_to_grid_mode">Přepnuto do mřížky</string>
+  <string name="hint_switch_to_list_mode">Přepnuto do seznamu</string>  
 </resources>

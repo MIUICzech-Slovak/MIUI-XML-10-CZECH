@@ -6004,4 +6004,23 @@ You can view generated logs in File Manager."</string>
      <string name="color_led_game_mode_summary">Zobrazit efekty pro hry během Zrychlení  her</string>
      <string name="color_led_special_scene_title">Speciální efekty</string>
      <string name="color_led_summary">Nefunguje během režimu Nerušit</string>
+     <string name="full_screen_keyboard_optimization">vylepšit klávesnici</string>
+  <string name="input_method_function_clipboard">Schránka a časté fráze</string>
+  <string name="input_method_function_clipboard_des">Dotykem zobrazíte schránku a časté fráze</string>
+  <string name="input_method_function_no_function">Žádné</string>
+  <string name="input_method_function_no_function_des">Nezobrazovat zkratky</string>
+  <string name="input_method_function_switch">Přepnout mezi klávesnicemi</string>
+  <string name="input_method_function_switch_des">Dotykem přepnete na jinou klávesnici</string>
+  <string name="input_method_function_voice">Hlasové zadávání</string>
+  <string name="input_method_function_voice_des">Dotykem spustíte Hlasové zadávání</string>
+  <string name="left_function_key">Zkratky vlevo</string>
+  <string name="long_press_power_key">Dlouhé podržení tlačítka zapínáním</string>
+  <string name="long_press_power_key_tips">Dlouho podržte tlačítko zapínání</string>
+  <string name="normal_bottom_height_of_keyboard">Běžné</string>
+  <string name="power_usage_summary_title_new">Baterie a výkon</string>
+  <string name="raise_bottom_height_of_keyboard">Rozšířené</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Lišta s vlastními zkratkami bude zobrazena pod klávesnicí</string>
+  <string name="raise_bottom_height_of_keyboard_title">Přizpůsobit klávesnici pro celý displej</string>
+  <string name="right_function_key">Zkratky vpravo</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronizuje vaše fotografie, aplikace a nastavení.</string>
 </resources>

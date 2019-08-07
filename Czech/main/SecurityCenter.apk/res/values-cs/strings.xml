@@ -3301,4 +3301,9 @@ Respektujeme a chráníme vaše soukromí."</string>
   <string name="pc_statistics_battery_use_title">Spotřeba baterie</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Bez potřebných povolení nebude tato aplikace správně fungovat..</string>
   <string name="traffic_setting_fragment_default">Vybrat</string>
+  <string name="pc_search_keywords_battery">Baterie</string>
+  <string name="pc_search_keywords_battery_save">Šetření baterie</string>
+  <string name="pc_search_keywords_battery_use">Využití baterie</string>
+  <string name="pc_search_keywords_capacity">Kapacita baterie</string>
+  <string name="pc_search_keywords_property">Výkon</string>
 </resources>

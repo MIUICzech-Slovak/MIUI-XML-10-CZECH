@@ -366,4 +366,5 @@
   <string name="shake_to_align_icons_summary">Protřepejte zařízením během úpravy plochy pro vyplnění prázdných buněk</string>
   <string name="shake_to_align_icons_title">Potřepáním zaplňte prázdné buňky</string>
   <string name="system_shortcuts_more_operation">Info o aplikaci</string>
+    <string name="no_space_toast_when_click_widget">Není dostatek místa na této ploše.</string>  
 </resources>

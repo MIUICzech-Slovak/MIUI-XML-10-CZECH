@@ -76,5 +76,9 @@
      <plurals name="snooze_duration_changed_info">
         <item quantity="other">Změněný interval na %d min.</item>
         <item quantity="one">Změněný interval na %d min.</item>
-     </plurals>   
+     </plurals>
+     <plurals name="snooze_duration_desc">
+        <item quantity="other">Každých %1$s min, vypnout %2$s krát</item>
+        <item quantity="one">Každých %1$s min, vypnout %2$s krát</item>
+    </plurals>	   
 </resources>

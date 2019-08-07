@@ -342,4 +342,10 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
      <string name="todo_user_guide_tip3">Stlačte plus pro přidání úlohy.</string>
      <string name="todo_user_guide_tip4">Nastavte si upozornění na vaše úlohy.</string>
      <string name="todoalert_done">OK</string>
+     <string name="app_notification_info">Poznámky pracují na pozadí</string>
+  <string name="check_in_todo_app">Zobraziť úlohy</string>
+  <string name="todo_float_permission_open_reminder">Povolte Poznámky zobrazit plovoucí okna pro používání této funkce.</string>
+  <string name="todo_menu_cancel">Zrušit</string>
+  <string name="todo_user_guide_fw_pop">Přidat odkaz na plochu</string>
+  <string name="todo_user_guide_tip5">Nikdy nezmeškejte nic důležitého!</string>
 </resources>

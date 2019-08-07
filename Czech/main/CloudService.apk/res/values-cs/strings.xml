@@ -703,4 +703,10 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
    <string name="micloud_manual_sync_now_retry">Zkusit znovu</string>
   <string name="micloud_sync_result_get_sim_info_error">Nebylo možné získat informace o SIM kartě. Zkuste to znovu později.</string>
   <string name="sync_detail_summary_master_sync_off">Synchr. je vypnuta</string>
+  <string name="cloud_lab_title">Cloud Lab</string>
+  <string name="cloud_storage_already_used">Využito: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_others">Ostatní</string>
+  <string name="cloud_storage_manage_title">Spravovat místo v cloudu</string>  
+   <string name="data_protection_title">Ochrana dat</string>
+  <string name="sync_setting_title">Nastavení synchr.</string>
 </resources>

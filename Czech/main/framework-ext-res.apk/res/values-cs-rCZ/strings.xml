@@ -209,4 +209,13 @@
      <string name="frequent_email">Email</string>
      <string name="user_switching_dialog_switch_into_kid_space">Přepínání do Dětského profilu...</string>
      <string name="user_switching_dialog_switch_out_kid_space">Ukončení Dětského profilu...</string>
+     <string name="input_method_edit_phrase_text">Upravit časté fráze</string>
+  <string name="input_method_no_content_text">Žádné položky</string>
+  <string name="input_method_switch_settings_text">Nastavení klávesnice</string>
+  <string name="input_method_tab_clipboard_text">Schránka</string>
+  <string name="input_method_tab_phrase_text">Časté fráze</string>
+  <string name="slavewifi">Duální Wi-Fi</string>
+  <string name="slavewifi_disconnect">Odpojit</string>
+  <string name="slavewifi_notification_title">Zrychlení duální Wi-Fi</string>
+  <string name="slavewifi_settings">Dotykem upravíte nastavení</string>  
 </resources>
