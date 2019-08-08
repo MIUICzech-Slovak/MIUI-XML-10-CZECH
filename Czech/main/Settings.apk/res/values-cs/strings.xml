@@ -6014,8 +6014,6 @@ You can view generated logs in File Manager."</string>
   <string name="input_method_function_voice">Hlasové zadávání</string>
   <string name="input_method_function_voice_des">Dotykem spustíte Hlasové zadávání</string>
   <string name="left_function_key">Zkratky vlevo</string>
-  <string name="long_press_power_key">Dlouhé podržení tlačítka zapínáním</string>
-  <string name="long_press_power_key_tips">Dlouho podržte tlačítko zapínání</string>
   <string name="normal_bottom_height_of_keyboard">Běžné</string>
   <string name="power_usage_summary_title_new">Baterie a výkon</string>
   <string name="raise_bottom_height_of_keyboard">Rozšířené</string>
