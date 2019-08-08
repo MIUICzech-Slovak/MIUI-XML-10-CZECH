@@ -6021,4 +6021,9 @@ You can view generated logs in File Manager."</string>
   <string name="raise_bottom_height_of_keyboard_title">Přizpůsobit klávesnici pro celý displej</string>
   <string name="right_function_key">Zkratky vpravo</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronizuje vaše fotografie, aplikace a nastavení.</string>
+  <string name="screen_dark_mode_advanced_title">Rozšířené</string>
+  <string name="screen_dark_mode_select_time_error_summary">Začátek a konec nemohou být stejnou dobu</string>
+  <string name="screen_dark_mode_smart_dark_summary">Vynutit tmavý režim v aplikacích. Některé aplikace nemusí být zobrazeny správně.</string>
+  <string name="screen_dark_mode_smart_dark_title">Globální tmavý režim</string>
+  <string name="screen_dark_mode_time_title">Naplánovat</string>
 </resources>
