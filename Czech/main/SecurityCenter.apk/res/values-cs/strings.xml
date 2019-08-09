@@ -3161,7 +3161,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="gb_shortcut_pref_title">Odkaz na ploše</string>
 	  <string name="securityadd_install_fail">Nelze aktualizovat doplněk. Zkuste to znovu.</string>
   <string name="securityadd_update_tips_cancle">Později</string>
-  <string name="securityadd_update_tips_message">Aktualizujte doplněk pro získání nejnovějších funkcí. %1$ DMB bude stažených.</string>
+  <string name="securityadd_update_tips_message">Aktualizujte doplněk pro získání nejnovějších funkcí. %1$dMB bude stažených.</string>
   <string name="securityadd_update_tips_now">Aktualizovat</string>
   <string name="securityadd_update_tips_title">Aktualizace</string>
    <string name="dialog_roaming_warning_checkbox">Znovu nezobrazovat</string>
