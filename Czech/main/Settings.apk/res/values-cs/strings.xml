@@ -6026,4 +6026,5 @@ You can view generated logs in File Manager."</string>
   <string name="screen_dark_mode_smart_dark_summary">Vynutit tmavý režim v aplikacích. Některé aplikace nemusí být zobrazeny správně.</string>
   <string name="screen_dark_mode_smart_dark_title">Globální tmavý režim</string>
   <string name="screen_dark_mode_time_title">Naplánovat</string>
+  <string name="single_press_AI_button">Stisknutí AI tlačítka</string>
 </resources>
