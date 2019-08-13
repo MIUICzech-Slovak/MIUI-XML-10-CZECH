@@ -298,4 +298,11 @@
   <string name="system_permission_storage_desc">Pro přístup k vyzvánění</string>
   <string name="timer_alert_type_spring_rain">Letní déšť</string>
   <string name="volume_button_setting_desc">Přiřadit funkce k tlačítkům Zapínání a Hlasitosti</string>
+     <string name="alarm_ringtone">Zvonění budíku</string>
+     <string name="ringtone_all">Všechny zvonění</string>
+     <string name="ringtone_dew">Ranní rosa</string>
+     <string name="ringtone_dream">Sen</string>
+     <string name="ringtone_firefly">Světlušky</string>
+     <string name="set_alarm_choose_ringtone">Vybrat zvonění</string>
+     <string name="set_alarm_other">Jiné</string>
 </resources>

@@ -81,4 +81,12 @@
         <item quantity="other">Každých %1$s min, vypnout %2$s krát</item>
         <item quantity="one">Každých %1$s min, vypnout %2$s krát</item>
     </plurals>	   
+     <plurals name="snooze_duration_count">
+        <item quantity="other">Vypnout %1$s krát</item>
+        <item quantity="one">Vypnout %1$s krát</item>
+     </plurals>
+     <plurals name="snooze_duration_min">
+        <item quantity="other">Každých %1$s min.</item>
+        <item quantity="one">Každou %1$s min.</item>
+     </plurals>
 </resources>

@@ -3306,4 +3306,13 @@ Respektujeme a chráníme vaše soukromí."</string>
   <string name="pc_search_keywords_battery_use">Využití baterie</string>
   <string name="pc_search_keywords_capacity">Kapacita baterie</string>
   <string name="pc_search_keywords_property">Výkon</string>
+     <string name="battery_and_property">Baterie a výkon</string>
+     <string name="power_setting_config_scenario_policies_title">Scénáře</string>
+     <string name="power_setting_features">Speciální funkce</string>
+     <string name="power_setting_important_warning">Upozornění</string>
+     <string name="power_setting_scenario_policies_summary">Rozpoznat scénáře pro automatické přepnutí do šetřícího režimu</string>
+     <string name="power_setting_warm_configure">Tepelná ochrana</string>
+     <string name="power_setting_warm_performance_tip">Scénáře které vyžadují vysoký výkon zvýší teplotu vašeho zařízení nad limit tepelné ochrany.</string>
+     <string name="power_setting_wireless_reverse_charging_summary">Nabíjejte kompatibilní zařízení bezdrátově</string>
+     <string name="power_setting_wireless_reverse_charging_title">Reverzní bezdrátové nabíjení</string>
 </resources>

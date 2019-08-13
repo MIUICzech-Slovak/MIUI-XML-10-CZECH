@@ -218,4 +218,27 @@
   <string name="slavewifi_disconnect">Odpojit</string>
   <string name="slavewifi_notification_title">Zrychlení duální Wi-Fi</string>
   <string name="slavewifi_settings">Dotykem upravíte nastavení</string>  
+     <string name="btn_cancel">Zrušit</string>
+     <string name="btn_sure">OK</string>
+     <string name="confirm_cancel_task_files">Zrušit posílání souborů do %1$s?</string>
+     <string name="confirm_cancel_task_images">Zrušit posílání obrázků do %1$s?</string>
+     <string name="default_device_name">Neznámé zařízení</string>
+     <string name="device_type_pc">Počítač</string>
+     <string name="enable_midrop">Povolit</string>
+     <string name="file_cannot_print">Není možné odeslat tento soubor.</string>
+     <string name="file_cannot_screen_throw">Není možné vytisknout tento soubor.</string>
+     <string name="file_sending">Přenos souborů...</string>
+     <string name="functions_are_being_developed">Tato funkce bude dostupná už brzy!</string>
+     <string name="pc_device_model_name">Počítač</string>
+     <string name="scanning_device_tips">Vyhledávání zařízení v blízkosti... Ujistěte se, že druhé zařízení je viditelné.</string>
+     <string name="send_files_to">Odeslat soubory do</string>
+     <string name="throwing_print">Vytisknout</string>
+     <string name="throwing_screen">Odeslat</string>
+     <string name="tips_prompt_enable_midrop">Sdílet soubory se zařízením v okolí</string>
+     <string name="unrecognized_manufacture">Neznámé zařízení</string>
+     <string name="unrecognized_model">Neznámé zařízení</string>
+     <string name="wireless_charging_notification_message1">Nenašlo se žádné zařízení pro nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
+     <string name="wireless_charging_notification_message2">Baterie má méně než 30% kapacity. Reverzní bezdrátové nabíjení je deaktivovábo.</string>
+     <string name="wireless_charging_notification_message3">Nastala chyba během nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
+     <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
 </resources>

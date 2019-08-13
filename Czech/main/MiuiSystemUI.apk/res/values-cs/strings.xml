@@ -2034,4 +2034,6 @@ pro dlouhý screenshot"</string>
      <string name="recents_dimiss_task">Vyčistit</string>
      <string name="recents_forbid_dock_when_screening_toast_text">Během vysílání není možné používat rozdělenou obrazovku</string>
      <string name="recents_task_screening">Vysílání</string>
+     <string name="qs_open_night_mode_alert_summary">Současné nastavení displeje není kompatibilní s Tmavým režimem. Po vypnutí Tmavého režimu budou obnovené.</string>
+     <string name="quick_settings_nightmode_label">Tmavý režim</string>
 </resources>

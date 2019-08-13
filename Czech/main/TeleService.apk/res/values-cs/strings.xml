@@ -1702,4 +1702,7 @@ Pokud chcete pokračovat, stlačte tlačítko Vymazat a převést…"</string>
      <string name="wifi_verbose_logging">Podrobné deníky Wi-Fi</string>
      <string name="wifi_verbose_logging_summary">Zvýšit úroveň deníků Wi-Fi, zobrazovat podle SSID RSSI při výběru sítě Wi-Fi</string>
      <string name="window_animation_scale_title">Měřítko animace okna</string>
+     <string name="location">Poloha</string>
+     <string name="operator">Operátor</string>
+     <string name="smsc_dialog_message">Ujistěte se, že zadané SMSC číslo je správné, jinak nebudete moci odesílat a přijímat SMS zprávy.</string>
 </resources>

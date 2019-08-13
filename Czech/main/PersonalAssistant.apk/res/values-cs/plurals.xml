@@ -48,6 +48,14 @@
         <item quantity="other">Označených %d</item>
         <item quantity="one">Označených %d</item>
     </plurals>
+     <plurals name="agenda_count_down">
+        <item quantity="other">O %d minut</item>
+        <item quantity="one">O %d minutu</item>
+     </plurals>
+     <plurals name="assistant_day">
+        <item quantity="other">O %d dní</item>
+        <item quantity="one">O %d den</item>
+     </plurals>
     <plurals name="steps">
         <item quantity="other">%d|kroků</item>
         <item quantity="zero">%d|kroků</item>
