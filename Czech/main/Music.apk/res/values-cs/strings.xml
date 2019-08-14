@@ -384,9 +384,7 @@ poskytována především firmou Ultimate Inc."</string>
      <string name="download_paused">Stahování pozastaveno</string>
      <string name="download_paused_in_power_save_mode">Pokud je zapnutý Spořič baterie, stahování je pozastaveno</string>
      <string name="download_pending">Čekající stahování</string>
-     <string name="download_percent">%d%%</string>
      <string name="download_processing">Stahování…</string>
-     <string name="download_progress">%d%%</string>
      <string name="download_quality">Kvalita stahování</string>
      <string name="download_quality_summary">Další nastavení pro stažené skladby</string>
      <string name="download_queued">Ve frontě</string>
@@ -483,9 +481,7 @@ poskytována především firmou Ultimate Inc."</string>
      <string name="exo_download_notification_channel_name">Stahování</string>
      <string name="exo_download_removing">Odstraňování staženého obsahu</string>
      <string name="exo_item_list">%1$s, %2$s</string>
-     <string name="exo_track_bitrate">%1$.2f Mb/s</string>
      <string name="exo_track_mono">Mono</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_selection_auto">Automaticky</string>
      <string name="exo_track_selection_none">Žádné</string>
      <string name="exo_track_selection_title_audio">Zvuk</string>
@@ -936,7 +932,6 @@ poskytována především firmou Ultimate Inc."</string>
      <string name="privacy_notif_content">Klepnutím zobrazíte podrobnosti.</string>
      <string name="privacy_notif_title">Urychlovač stahování Xunlei je zapnutý</string>
      <string name="privacy_policy">Zásady ochrany osobních údajů</string>
-     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=cs_CZ</string>
      <string name="privacy_tip_cancel">Zrušit</string>
      <string name="privacy_tip_content">Použít Urychlovač Xunlei ke zvýšení rychlosti stahování? Adresa URL stahované položky bude nahrána na servery Xunlei. Podrobnosti o vašem Xiaomi účtu budou také nahrány pro zjištění, zda máte aktivní předplatné pro tuto službu.</string>
      <string name="privacy_tip_ok">OK</string>
@@ -1131,7 +1126,6 @@ poskytována především firmou Ultimate Inc."</string>
      <string name="start_to_play">Přehrát</string>
      <string name="start_to_use">Otevřít Hudbu</string>
      <string name="start_update">Aktualizovat na nejnovější verzi aplikace Hudba.</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stop">Zastavit</string>
      <string name="stop_backup">Zastavit</string>
      <string name="storage_cloned_app">Úložiště pro duální aplikace</string>
@@ -1245,7 +1239,6 @@ poskytována především firmou Ultimate Inc."</string>
      <string name="upgrade_waringing">Budete moci poslouchat pouze hudbu uloženou na vašem zařízení.</string>
      <string name="upgrading_in_backstage">Aktualizování na pozadí...</string>
      <string name="user_agreement">Smlouva s uživatelem</string>
-     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=cs_CZ</string>
      <string name="v7_preference_off">VYP</string>
      <string name="v7_preference_on">ZAP</string>
      <string name="valid_period">Platné: %s</string>
