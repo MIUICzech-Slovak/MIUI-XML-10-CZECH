@@ -13,4 +13,16 @@
         <item quantity="other">%1$s | %2$d obrázků</item>
         <item quantity="one">%1$s | %2$d obrázek</item>
     </plurals>	
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">Před %dh</item>
+        <item quantity="one">Před %dh</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">Před %dmin.</item>
+        <item quantity="one">Před %dmin.</item>
+    </plurals>
+	    <plurals name="wallpaper_quantity">
+        <item quantity="other">Obrázků: %1$d</item>
+        <item quantity="one">Obrázků: %1$d</item>
+    </plurals>	
 </resources>

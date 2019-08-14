@@ -581,4 +581,11 @@ Zkontrolujte také složku SPAM."</string>
      <string name="search_menu_title">Vyhledat</string>
      <string name="select_all">Všechno</string>
      <string name="sim_changed_notification_msg">Aktualizujte vaše telefonní číslo pro obnovu Mi účtu.</string>
+     <string name="two_factor_auth">Dvoufázové přihlášení</string>
+  <string name="two_factor_auth_click_confirm">Potvrďte pro přihlášení</string>
+  <string name="two_factor_auth_click_confirm_summary">Budete vidět upozornění na druhém připojeném zařízení. Dotykem na upozornění povolíte přihlášení na novém zařízení.</string>
+  <string name="two_factor_auth_method">Způsob přihlášení</string>
+  <string name="two_factor_auth_need_code">Zadajte kód</string>
+  <string name="two_factor_auth_need_code_summary">Budete vidět kód na druhém připojeném zařízení. Zadejte tento kód na novém zařízení pro přihlášení.</string>
+  <string name="two_factor_auth_summary">Pokud se budete chtít přihlásit na novém zařízení, budete upozorněni na jiném připojeném zařízení. Budete muset potvrdit pokus o přihlášení.</string> 
 </resources>

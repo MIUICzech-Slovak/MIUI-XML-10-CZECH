@@ -2036,4 +2036,6 @@ pro dlouhý screenshot"</string>
      <string name="recents_task_screening">Vysílání</string>
      <string name="qs_open_night_mode_alert_summary">Současné nastavení displeje není kompatibilní s Tmavým režimem. Po vypnutí Tmavého režimu budou obnovené.</string>
      <string name="quick_settings_nightmode_label">Tmavý režim</string>
+       <string name="description_image_button_bubble_answer">Reproduktor</string>
+       
 </resources>
