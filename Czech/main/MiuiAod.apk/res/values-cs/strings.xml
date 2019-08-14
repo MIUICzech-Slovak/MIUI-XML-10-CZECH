@@ -22,4 +22,25 @@
 1. Pokud je zařízení ve tmě delší dobu.
 2. Pokud je aktivován režim Nerušit."</string>
   <string name="temporary_style">10s po dotyku</string>
+  <string name="animation_clock_panel">Vlny</string>
+  <string name="apply">Použít</string>
+  <string name="background_icon">Pozadí</string>
+  <string name="black_white_clock_panel">Hodiny</string>
+  <string name="character_counter_content_description">Překročen limit znaků %1$d z %2$d</string>
+  <string name="choose_aod_style">Vybrat téma</string>
+  <string name="clock_panel_icon">Ciferník</string>
+  <string name="color_change_with_time_description">Změnit barvu textu automaticky podle času</string>
+  <string name="color_change_with_time_title">Změnit barvu textu automaticky</string>
+  <string name="deep_space_planet">Vesmír</string>
+  <string name="deep_space_planet_des">\"Vesmír\" znázorňuje změnu světla během dne. Východ a západ slunce jsou synchronizovány podle vaší polohy.</string>
+  <string name="large_time">Velké hodiny</string>
+  <string name="mini_time">Malé hodiny</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstranit %1$s</string>
+  <string name="only_show_bg_description">Nezobrazovat čas, datum a ostatní položky</string>
+  <string name="only_show_bg_title">Zobrazit jen pozadí</string>
+  <string name="password_toggle_content_description">Zobrazit heslo</string>
+  <string name="show_battery_status">Zobrazit stav baterie</string>
+  <string name="show_notification">Zobrazit upozornění</string>
+  <string name="standard_style">Standardní</string>
+  <string name="text_color">Barba textu</string>  
 </resources>
