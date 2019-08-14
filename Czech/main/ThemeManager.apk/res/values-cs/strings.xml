@@ -592,8 +592,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="detail_author_attention_head">Sledujte někoho z našich designérů</string>
   <string name="detail_author_fans">"Sledující: "</string>
   <string name="detail_author_works">"Položky: "</string>
-  <string name="resource_apply_trial">Použít</string>
-  <string name="resource_download_trial">Zkusit</string>
   <string name="wallpaper_no_favorite">Žádné položky.</string>
   <string name="wallpaper_no_record">Žádné položky.</string>  
 </resources>
