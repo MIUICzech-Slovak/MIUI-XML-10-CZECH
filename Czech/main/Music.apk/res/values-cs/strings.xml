@@ -1270,20 +1270,4 @@ poskytována především firmou Ultimate Inc."</string>
 Klepněte na %s
  pro zahájení tohoto stahování, jakmile se příště připojíte k síti Wi-Fi."</string>
      <string name="wifi_required_title">Pro stažení tohoto souboru se připojte k síti Wi-Fi</string>
-     <string name="delete_file_error">Nebylo možné smazat soubor</string>
-  <string name="error_not_support">Není podporováno</string>
-	  <string name="failed_not_access_sd_card">Povolte přístup k SD kartě</string>
-  <string name="failed_obtain_permissions">Nebylo možné získat povolení</string>
-	  <string name="floating_view_dialog_desc">Přehrávání hudby bude zastaveno pokud opustíte tuto stránku. Odejít?</string>
-  <string name="floating_view_dialog_leave">Odejít</string>
-  <string name="floating_view_dialog_stay">Zůstat</string>
-  <string name="floating_view_dialog_title">Odejít z této stránky?</string>
-  <string name="home_tab_home">Domů</string>
-  <string name="home_tab_more_music">Více hudby</string>
-  <string name="home_tab_search">Vyhledat</string>
-  <string name="not_support_documentui">Aplikace Dokumenty není podporována</string>
-  <string name="search_more">Více</string>
-  <string name="song_already_in_playlist">Tato skladba již je v pořadí</string>
-  <string name="song_is_added_to_playlist">Přidáno do pořadí</string>
-  <string name="storage_cloned_app">Úložiště pro klonované aplikace</string>
 </resources>
