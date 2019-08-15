@@ -734,4 +734,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="function_use_imei">"Pro přístup k IMEI a šifrování souborů; "</string>
   <string name="hint_switch_to_grid_mode">Přepnuto do mřížky</string>
   <string name="hint_switch_to_list_mode">Přepnuto do seznamu</string>  
+  <string name="grid_mode">Mřížka</string>
+  <string name="list_mode">Seznam</string>
+  <string name="switch_doc_type">Vyberte formát</string>  
 </resources>
