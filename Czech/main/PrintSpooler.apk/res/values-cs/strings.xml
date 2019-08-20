@@ -53,4 +53,5 @@
   <string name="summary_template">Souhrn, počet kopií: %1$s, velikost papíru: %2$s</string>
   <string name="template_all_pages">Vše: %1$s</string>
   <string name="template_page_range">Rozsah: %1$s</string>
+  <string name="system_print_service_help">O tisku</string>
 </resources>

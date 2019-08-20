@@ -588,4 +588,5 @@ Zkontrolujte také složku SPAM."</string>
   <string name="two_factor_auth_need_code">Zadajte kód</string>
   <string name="two_factor_auth_need_code_summary">Budete vidět kód na druhém připojeném zařízení. Zadejte tento kód na novém zařízení pro přihlášení.</string>
   <string name="two_factor_auth_summary">Pokud se budete chtít přihlásit na novém zařízení, budete upozorněni na jiném připojeném zařízení. Budete muset potvrdit pokus o přihlášení.</string> 
+     <string name="ep_unsupported">Vaše zařízení nepodporuje přihlášení Xiaomi účtem</string>
 </resources>

@@ -1719,4 +1719,16 @@
      <string name="wednesday">Středa</string>
      <string name="wednesday_short">Stř</string>
      <string name="wednesday_shortest">S</string>
+     <string name="album_cloud_list_page_title">Spravovat synchr. alba</string>
+     <string name="album_hidden_item_button_title">Odkrýt</string>
+     <string name="album_hidden_page_title">Skrýt</string>
+     <string name="chooser_fragment_mishare_title">Sdílet do</string>
+     <string name="empty_album_cloud_list_title">Žádné alba na synchr.</string>
+     <string name="empty_album_hidden_list_title">žádné skryté alba</string>
+     <string name="projection_screen_project_in_screening">Používáte vaše zařízení pro vysílání</string>
+     <string name="remove_hidden_status_success">Odebraný %s ze skrytých alb</string>
+     <string name="remove_hidden_status_tip">Pokud toto album odkyjete, bude zobrazeno mezi ostatními alby.</string>
+     <string name="remove_hidden_status_title">Odkrýt</string>
+     <string name="show_cloud_albumlist_summary">Spravovat alba které synchr. s cloudem</string>
+     <string name="show_hidden_album_summary">Zobrazit a spravovat skryté alba</string>	 
 </resources>

@@ -549,4 +549,8 @@
         <item quantity="other">před %d min.</item>
         <item quantity="one">před 1 min.</item>
      </plurals> 
+     <plurals name="album_photo_count_text">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+     </plurals>	 
 </resources>
