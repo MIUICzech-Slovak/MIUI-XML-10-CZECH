@@ -42,5 +42,5 @@
   <string name="show_battery_status">Zobrazit stav baterie</string>
   <string name="show_notification">Zobrazit upozornění</string>
   <string name="standard_style">Standardní</string>
-  <string name="text_color">Barba textu</string>  
+  <string name="text_color">Barva textu</string>  
 </resources>
