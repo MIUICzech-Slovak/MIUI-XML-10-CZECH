@@ -239,6 +239,7 @@
      <string name="unrecognized_model">Neznámé zařízení</string>
      <string name="wireless_charging_notification_message1">Nenašlo se žádné zařízení pro nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
      <string name="wireless_charging_notification_message2">Baterie má méně než 30% kapacity. Reverzní bezdrátové nabíjení je deaktivovábo.</string>
+     <string name="can_not_transfer_when_screening">Není možné vysílat během přenosu souborů</string>
      <string name="wireless_charging_notification_message3">Nastala chyba během nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
      <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
 </resources>

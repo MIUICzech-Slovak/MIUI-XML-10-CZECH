@@ -6052,4 +6052,25 @@ You can view generated logs in File Manager."</string>
      <string name="speaker">Reproduktor</string>
      <string name="system_print_service_help">O tisku</string>
      <string name="xiaomi_transfer">Mi Share</string>  
+     <string name="full_screen_keyboard_settings">Nastavení klávesnice na celém displeji</string>
+     <string name="input_method_bottom_close">Vyp</string>
+     <string name="input_method_bottom_open">Zap</string>
+     <string name="input_method_manage">Spravovat klávesnice</string>
+     <string name="input_method_settings_text">Nastavení</string>
+     <string name="keyboard_mouse_touch">Klávesnice, myš a track-pad</string>
+     <string name="link_turbo_prompt">statistiky na této stránce zobrazují pouze množství dat využitých pro zrychlení Wi-Fi připojení.</string>
+     <string name="link_turbo_settings_all_app_display_loading">Načítání...</string>
+     <string name="link_turbo_settings_all_app_reach_max">Můžete vybrat maximálně 15 aplikací</string>
+     <string name="link_turbo_usage_state_month">Tento měsíc</string>
+     <string name="link_turbo_usage_state_month_total">Tento měsíc</string>
+     <string name="link_turbo_usage_state_today">Dnes</string>
+     <string name="link_turbo_usage_state_today_total">Dnes</string>
+     <string name="other_input_settings">Další nastavení klávesnice</string>
+     <string name="wifi_link_turbo">Použít mobilní data pro zrychlení Wi-Fi</string>
+     <string name="wifi_link_turbo_app_settings_summary">Vyberte aplikace které mohou využívat tuto funkci</string>
+     <string name="wifi_link_turbo_app_settings_title">Vybrat aplikace</string>
+     <string name="wifi_link_turbo_no_app">Žádné aplikace</string>
+     <string name="wifi_link_turbo_off">Vyp</string>
+     <string name="wifi_link_turbo_on">Zap</string>
+     <string name="wifi_link_turbo_summary">Zrychlit rychlost připojení pro vybrané aplikace použitím mobilních dat pokud je nízká kvalita Wi-Fi</string>
 </resources>

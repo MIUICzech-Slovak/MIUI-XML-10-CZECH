@@ -219,4 +219,7 @@ Zadejte město manuálně"</string>
   <string name="weather_permission_agree">Přijmout</string> 
      <string name="shortcut_short_label_24_hour_forecast">24h předpověď</string>
      <string name="shortcut_short_label_recent_forecast">Zkontrolovat počasí</string>
+     <string name="about_weather_setting">O Počasí</string>
+     <string name="about_weather_setting_feedback">Zpětná vazba</string>
+     <string name="feedback">Nahlásit nesprávné informace o počasí</string>
 </resources>

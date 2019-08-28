@@ -161,6 +161,10 @@
         <item quantity="other">Zadání hesla je vyžadováno po %d hodinách neaktivity</item>
         <item quantity="one">Zadání hesla je vyžadováno po %d hodině neaktivity</item>
     </plurals>
+     <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Ukončení hovoru v %1$ds</item>
+        <item quantity="one">Ukončení hovoru v %1$ds</item>
+     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Zadání gesta je vyžadováno po %d hodinách neaktivity</item>
         <item quantity="one">Zadání gesta je vyžadováno po %d hodině neaktivity</item>

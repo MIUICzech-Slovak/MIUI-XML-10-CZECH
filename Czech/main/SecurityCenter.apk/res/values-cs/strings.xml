@@ -3334,5 +3334,7 @@ Respektujeme a chráníme vaše soukromí."</string>
      <string name="power_save_settings">Nastavení baterie</string>
      <string name="securitycenter_tab_title">Bezpečnost</string>
      <string name="system_tool_green_guard">Rodinný strážce</string>
-     <string name="system_tool_sos">Nouzové SOS</string>	 
+     <string name="system_tool_sos">Nouzové SOS</string>	
+     <string name="cta_HIPS_Perm_Location_Desc">získat přesnou polohu (GPS)</string>
+     <string name="cta_main_purpose">Vítejte v aplikaci Optimalizace! Můžete zde vymazat odpad z vašeho zařízení, zkontrolovat viry, ušetřit spotřebu energie a mnoho dalších užitečných funkcí.</string> 
 </resources>

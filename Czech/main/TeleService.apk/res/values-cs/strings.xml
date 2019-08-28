@@ -1705,4 +1705,5 @@ Pokud chcete pokračovat, stlačte tlačítko Vymazat a převést…"</string>
      <string name="location">Poloha</string>
      <string name="operator">Operátor</string>
      <string name="smsc_dialog_message">Ujistěte se, že zadané SMSC číslo je správné, jinak nebudete moci odesílat a přijímat SMS zprávy.</string>
+     <string name="preferred_wificall_roaming_title">Nastavení Roamingu</string>
 </resources>

@@ -717,5 +717,19 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
      <string name="cloud_storage_no_data">Žádné položky v cloudu</string>
      <string name="pay_info_dialog_confirm_to_pay">Zaplatit %s</string>
      <string name="pay_info_dialog_mibi_balance_prefix">Použít Mi kredity: %s</string>
-     <string name="pay_info_dialog_title">Vyberte způsob platby</string>	 
+     <string name="pay_info_dialog_title">Vyberte způsob platby</string>	
+     <string name="cloud_storage_info_type_pdc">Nastavení systému</string>
+     <string name="micloud_main_head_menu_cloud_backup_summary">Rozložení plochy, aplikace a nastavení</string>
+     <string name="micloud_main_head_menu_finddevice_summary">Vyhledat vaše zařízení v případě ztráty</string>
+     <string name="micloud_setting_calendar_summary">Události</string>
+     <string name="micloud_setting_calllog_summary">Historie hovorů</string>
+     <string name="micloud_setting_notes_summary">Poznámky</string>
+     <string name="micloud_setting_personal_assistant_summary">Asistent</string>
+     <string name="micloud_setting_phrase_summary">Časté fráze</string>
+     <string name="micloud_setting_recorder_summary">Zvukové nahrávky</string>
+     <string name="storage_manage_expansion">Získat více</string>
+     <string name="storage_manage_list_title">Cloud data</string>
+     <string name="storage_manage_list_title_action">Zobrazit více</string>
+     <string name="storage_manage_renewal">Obnovit</string>
+     <string name="storage_manage_upgrade">Navýšit</string> 
 </resources>

@@ -257,4 +257,5 @@
   <string name="volume_boost_text">Hlasitost je zesílena</string>
     <string name="supp_service_notification_call_waiting">Na volaném čísle probíhá hovor...</string>
      <string name="call_not_support_high_frequency_click">Mačkejte tlačítko pomaleji</string>
+     <string name="incall_bubble_hangup_click_hint">Dotkněte se znova pro návrat k hovoru</string>
 </resources>

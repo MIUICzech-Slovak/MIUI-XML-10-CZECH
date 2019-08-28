@@ -117,6 +117,8 @@
   <string name="yellow_page_module_sms_sent">SMS zpráva odeslána.</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"Nelze odeslat SMS zprávu v režimu Návštěvník."</string>
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
+     <string name="birdcicada_preview">Zvuky přírody 2</string>
+     <string name="waterdrop_preview">Zvuky přírody 1</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
 </resources>

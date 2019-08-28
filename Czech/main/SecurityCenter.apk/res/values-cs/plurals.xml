@@ -553,5 +553,21 @@
     <plurals name="pc_statistics_battery_last_hour">
         <item quantity="other">%d h zbývá</item>
         <item quantity="one">%d h zbývá</item>
-    </plurals>				
+    </plurals>	
+     <plurals name="menu_text_antispam_ex">
+        <item quantity="other">Blokovaných %d SMS</item>
+        <item quantity="one">Blokovaná %d SMS</item>
+     </plurals>
+     <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Nezkontrolováno %d dní</item>
+        <item quantity="one">Nezkontrolováno %d den</item>
+     </plurals>
+     <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d apl. obsahuje malware</item>
+        <item quantity="one">%d apl. obsahuje malware</item>
+     </plurals>
+     <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">Aktualizací: %d</item>
+        <item quantity="one">Aktualizací: %d</item>
+     </plurals>			
 </resources>

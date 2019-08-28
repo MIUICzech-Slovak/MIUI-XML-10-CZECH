@@ -25,4 +25,8 @@
         <item quantity="other">%1$s seconds after the feedback</item>
         <item quantity="one">%1$s second after the feedback</item>
      </plurals>
+     <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Předpověď na %1$s dní</item>
+        <item quantity="one">Předpověď na %1$s den</item>
+     </plurals>
 </resources>
